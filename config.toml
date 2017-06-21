@@ -1,0 +1,49 @@
+BaseUrl= "https://jaydson.com/"
+LanguageCode= "pt-BR"
+Title= "Jaydson Gomes"
+paginate = 7
+DisqusShortname = "jaydson"
+Copyright = "Creative Commons - 2017"
+canonifyurls = true
+
+[params]
+  description = "Pensamentos, histórias e ideias"
+  metadescription = "Pensamentos, histórias e ideias"
+  cover = "images/2016/10/jaydson-header.jpg"
+  author = "Jaydson Gomes"
+  authorlocation = "Porto Alegre, Brasil"
+  authorwebsite = "https://jaydson.com"
+  bio= "Jaydson Gomes tem + de 12 anos de experiência em desenvolvimento Web. ​É desenvolvedor de software especializado em JavaScript. ​É sócio fundador da Nasc, curador e idealizador do ​BrazilJS."
+  logo = "images/2016/09/logo-jaydson-gray-1.png"
+  googleAnalyticsUserID = "UA-1264252-8"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "jaydson"
+  twitterName = "jaydson"
+  facebookName = "jaydson"
+  instagramName = "jaydson"
+  linkedinName = "jaydson"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [permalinks]
+    post = "/:title/"
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "jaydson"
+
+ [[menu.main]]
+  name = "Home"
+  weight = -100
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Palestras"
+  weight = -110
+  identifier = "palestras"
+  url = "/palestras"
