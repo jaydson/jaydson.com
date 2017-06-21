@@ -16,5 +16,11 @@ hugo --theme=casper
 echo "[ Git commit ]"
 git add --all && git commit -m "Publishing to now"
 
+echo "[ Creating now alias config file ]"
+echo "{
+	\"name\": \"jaydson.com\",
+	\"alias\": \"jaydson.com\"
+}" > now.json
+
 echo "[ Publishing to now ]"
 now ./public && now alias
