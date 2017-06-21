@@ -1,5 +1,4 @@
-"alias": "jaydson.com"
-
-"alias": [
-  "jaydson.com"
-]
+{
+	"alias": "jaydson.com",
+	"type": "static"
+}
