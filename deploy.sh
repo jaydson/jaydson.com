@@ -14,7 +14,7 @@ echo "[ Generating Hugo website ]"
 hugo --theme=casper
 
 echo "[ Git commit ]"
-cd public && git add --all && git commit -m "Publishing to now"
+git add --all && git commit -m "Publishing to now"
 
 echo "[ Publishing to now ]"
 now && now alias
