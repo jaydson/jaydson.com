@@ -13,4 +13,4 @@ echo "{
 }" > ./public/now.json
 
 echo "[ Publishing to now ]"
-now ./public && now alias
+cd ./public && now && now alias

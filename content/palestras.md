@@ -9,7 +9,7 @@ title = "Palestras"
 
 +++
 
-Eu adoro palestrar. É algo realmente gratificante compartilhar o conhecimento e em algumas vezes ter o poder de mudar o caminho de algumas pessoas.  
+Eu adoro palestrar! É algo realmente gratificante compartilhar o conhecimento e em algumas vezes ter o poder de mudar o caminho de algumas pessoas.  
 Já faço palestras há mais 8 anos e nunca sinto vontade de parar.  
 Porém, minha profissão não é ser um "palestrante". Eu sou um profissional na área de tecnologia, mais precisamente, no desenvolvimento de software para Web.    
 Não dou palestras que não tenham sentido e que não façam parte do meu trabalho diário.  
