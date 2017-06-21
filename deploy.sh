@@ -17,4 +17,4 @@ echo "[ Git commit ]"
 git add --all && git commit -m "Publishing to now"
 
 echo "[ Publishing to now ]"
-now && now alias
+now public && now alias
