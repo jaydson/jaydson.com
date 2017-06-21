@@ -20,7 +20,7 @@ echo "[ Creating now alias config file ]"
 echo "{
 	\"name\": \"jaydson.com\",
 	\"alias\": \"jaydson.com\"
-}" > now.json
+}" > ./public/now.json
 
 echo "[ Publishing to now ]"
 now ./public && now alias
