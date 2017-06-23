@@ -10,7 +10,7 @@ title = "Analytics do Blog em 2011"
 
 +++
 
-No começo de 2011 fiz um [post](http://jaydson.org/analytics-do-blog-2010/) com os dados de acesso do Blog do ano anterior (2010).
+No começo de 2011 fiz um [post](http://jaydson.com/analytics-do-blog-2010/) com os dados de acesso do Blog do ano anterior (2010).
 Como primeiro post deste ano de 2012, vou seguir com a mesma ideia: Divulgar os dados de acesso de 2011.
 Vamos lá:
 

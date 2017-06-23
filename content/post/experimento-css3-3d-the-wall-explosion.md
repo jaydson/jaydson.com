@@ -10,7 +10,7 @@ title = "Experimento CSS3 3D - The Wall Explosion"
 
 +++
 
-Depois de assistir pela terceira vez a [palestra sobre CSS3](http://jaydson.org/rsjs-animacoes-com-css3/) do [Felipe N. Moura](http://twitter.com/felipenmoura), e ter agumas aulas do próprio, me empolguei com [CSS3](https://developer.mozilla.org/en/CSS/CSS3), principalmente com a possibilidade 3D.  
+Depois de assistir pela terceira vez a [palestra sobre CSS3](http://jaydson.com/rsjs-animacoes-com-css3/) do [Felipe N. Moura](http://twitter.com/felipenmoura), e ter agumas aulas do próprio, me empolguei com [CSS3](https://developer.mozilla.org/en/CSS/CSS3), principalmente com a possibilidade 3D.  
 Coincidentemente, neste mês de Março, o [Mozilla Dev Derby](https://developer.mozilla.org/pt-BR/demos/devderby) é sobre CSS3 3D.  
 Já submeti 2 demos simples para a Mozilla, e agora fiz uma coisa um pouco mais complexa.  
 Minha ideia foi criar um muro 3D, com tijolos 3D.  

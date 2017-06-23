@@ -12,8 +12,8 @@ title = "Analytics do Blog em 2012"
 +++
 
 Como de costume, gosto de compartilhar os dados do Analytics do meu Blog ano após ano.  
-Veja em 2010: [http://www.jaydson.org/analytics-do-blog-2010/](http://jaydson.org/analytics-do-blog-2010/)  
-Veja em 2011: [http://www.jaydson.org/analytics-do-blog-em-2011/](http://jaydson.org/analytics-do-blog-em-2011/)  
+Veja em 2010: [http://www.jaydson.com/analytics-do-blog-2010/](http://jaydson.com/analytics-do-blog-2010/)  
+Veja em 2011: [http://www.jaydson.com/analytics-do-blog-em-2011/](http://jaydson.com/analytics-do-blog-em-2011/)  
 
 Em 2012 escrevi pouco mais de **30 posts**.  
 Baixei a média, pois em 2011 foram em torno de 40. A média ficou em **2 posts por mês**.  

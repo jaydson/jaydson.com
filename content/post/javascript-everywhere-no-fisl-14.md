@@ -13,7 +13,7 @@ title = "JavaScript Everywhere no FISL 14"
 
 Na última semana tive a honra de palestrar novamente no maior evento de software livre da américa latina e acho que do mundo, o [FISL](http://softwarelivre.org/fisl14).  
 Palestrei sobre [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), é claro.  
-Já [palestrei no FISL na 12º edição](http://jaydson.org/blog/categories/fisl/), e muita coisa mudou de lá pra cá.  
+Já [palestrei no FISL na 12º edição](http://jaydson.com/blog/categories/fisl/), e muita coisa mudou de lá pra cá.  
 Desta vez falei sobre como o JavaScript está cada vez mais presente em todos os lugares.  
 
 ## A palestra:  

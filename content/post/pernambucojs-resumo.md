@@ -11,7 +11,7 @@ title = "PernambucoJS - Resumo"
 
 +++
 
-Buenas galera, quem acompanha o Blog, viu que postei sobre o [PernambucoJS](http://jaydson.org/pernambuco-js/), a conferência Pernambucana de [JavaScript](https://developer.mozilla.org/en/JavaScript).  
+Buenas galera, quem acompanha o Blog, viu que postei sobre o [PernambucoJS](http://jaydson.com/pernambuco-js/), a conferência Pernambucana de [JavaScript](https://developer.mozilla.org/en/JavaScript).  
 O evento rolou no último final de semana (21/04/2012) em Recife.  
 Tive a honra de ser convidado para palestrar por lá e foi muito legal.  
 Conheci pessoalemente grandes "amigos de Internet", como o [Suissa](twitter.com/osuissa), [Zeno](https://twitter.com/#!/zenorocha) e [Keppelen](https://twitter.com/#!/keppelen), e pude reencontrar outros que já conhecia de outros eventos, como o [Davidson Fellipe](http://twitter.com/davidsonFellipe),[ Luiz Thiago](https://twitter.com/#!/luiztiago) e [Juarez](https://twitter.com/#!/juarezpaf).  
@@ -59,7 +59,7 @@ Link dos slides: [http://www.slideshare.net/luiztiago/jquery-mobile-aplicaes-mve
 Depois do Luiz, foi minha vez de palestrar.  
 Repeti a palestra do RSJS sobre performance Web, onde apresentei várias técnicas de otimização de um site, além de mostrar um estudo de caso de performance do Terra, onde conseguimos diminuir drasticamente o tempo de carregamento da capa do portal.  
 Como já fiz um review sobre esta palestra, não vou faze-lo novamente aqui.  
-Segue o link do post que fiz: [http://jaydson.org/rsjs-extreme-web-performance/](http://jaydson.org/rsjs-extreme-web-performance/).  
+Segue o link do post que fiz: [http://jaydson.com/rsjs-extreme-web-performance/](http://jaydson.com/rsjs-extreme-web-performance/).  
 Inlcusive nesta minha apresentação no RSJS tem o vídeo da palestra.  
 Não foi exatamente a mesma palestra, e o público era bem diferente, mas pra quem não pode comparecer, vale dar uma olhada.  
 Link dos slides: [http://goo.gl/T8x2K](http://goo.gl/T8x2K)  

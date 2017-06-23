@@ -12,7 +12,7 @@ title = "Novo blog, powered by Harmonic"
 +++
 
 Galera, é com muita satisfação que hoje anuncio uma mudança aqui no Blog.  
-Ao longo desses 6 anos que o mantenho, já fiz diversas mudanças, a última vez por exemplo, foi a migração do Wordpress para o Octopress (relatado aqui: [http://jaydson.org/migrando-para-octopress/](http://jaydson.org/migrando-para-octopress/)).  
+Ao longo desses 6 anos que o mantenho, já fiz diversas mudanças, a última vez por exemplo, foi a migração do Wordpress para o Octopress (relatado aqui: [http://jaydson.com/migrando-para-octopress/](http://jaydson.com/migrando-para-octopress/)).  
 Desta vez a satisfação é reforçada, pois estou utilizando uma solução criada por mim, para gerar sites estáticos.  
 
 ## Harmonic

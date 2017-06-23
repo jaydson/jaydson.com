@@ -10,7 +10,7 @@ title = "Mibbu - Framework Javascript para Games"
 
 +++
 
-Tive o prazer de conhecer pessoalmente o [Michal Budzynski ](http://michalbe.blogspot.com/)no [BrazilJS](http://jaydson.org/brazil-js-2011-epicwin).  
+Tive o prazer de conhecer pessoalmente o [Michal Budzynski ](http://michalbe.blogspot.com/)no [BrazilJS](http://jaydson.com/brazil-js-2011-epicwin).  
 Dentre tantas excelentes palestras, a do Michal realmente abriu a mente de muitas pessoas.  
 Jogos desenvolvidos em Javascript já existem há um bom tempo, como o próprio Michal mostrou, mas agora cada vez mais isso se torna uma realidade.  
 

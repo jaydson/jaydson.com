@@ -24,41 +24,41 @@ A [BrazilJS Conference](http://braziljs.com.br) foi novamente um dos principais 
 Foram dezenas de eventos frontend ao longo do ano em todos os cantos do Brasil, e isso me deixa muito feliz.  
 
 Recapitulando o ano, posso começar por fevereiro de 2012.  
-Meu primeiro post de 2012 no Blog foi [Como detectar o evento Click em um iframe crossdomain](http://jaydson.org/como-detectar-o-evento-click-em-um-iframe-crossdomain/).  
+Meu primeiro post de 2012 no Blog foi [Como detectar o evento Click em um iframe crossdomain](http://jaydson.com/como-detectar-o-evento-click-em-um-iframe-crossdomain/).  
 Este foi um exemplo de código bem maluco que tive que implementar no Terra.  
 
-Ainda em fevereiro[, troquei o tema do Blog](http://jaydson.org/novo-tema-do-blog/).  
+Ainda em fevereiro[, troquei o tema do Blog](http://jaydson.com/novo-tema-do-blog/).  
 Ficou bem legal até, mas para 2013 quero mudar novamente, talvez sair do WordPress, pois quero ter mais controle sobre meus documentos.  
 
-Em fevereiro, anunciamos o [RSJS](http://rsjs.org), a [conferência gaudéria de JavaScript](http://jaydson.org/rsjs-a-conferencia-gaucha-de-javascript/).  
-O evento aconteceu no dia o3/03/2012 e foi muito bacana. Veja o [review](http://jaydson.org/rsjs-review/).  
+Em fevereiro, anunciamos o [RSJS](http://rsjs.org), a [conferência gaudéria de JavaScript](http://jaydson.com/rsjs-a-conferencia-gaucha-de-javascript/).  
+O evento aconteceu no dia o3/03/2012 e foi muito bacana. Veja o [review](http://jaydson.com/rsjs-review/).  
 
-Em março comecei a brincar com [CSS3](https://developer.mozilla.org/en-US/docs/CSS/CSS3), e fiz alguns experimentos bem legais como o [Cubo 3D com CSS3](http://jaydson.org/cubo-3d-com-css3/), [Esfera com CSS3 3D](http://jaydson.org/esfera-com-css3-3d/), [Wall Explosion](http://jaydson.org/experimento-css3-3d-the-wall-explosion/).  
-O [Felipe](http://felipenmoura.org) fez algo fantástico também, o [Root3D](http://jaydson.org/root3d-experimento-css3d/).  
+Em março comecei a brincar com [CSS3](https://developer.mozilla.org/en-US/docs/CSS/CSS3), e fiz alguns experimentos bem legais como o [Cubo 3D com CSS3](http://jaydson.com/cubo-3d-com-css3/), [Esfera com CSS3 3D](http://jaydson.com/esfera-com-css3-3d/), [Wall Explosion](http://jaydson.com/experimento-css3-3d-the-wall-explosion/).  
+O [Felipe](http://felipenmoura.org) fez algo fantástico também, o [Root3D](http://jaydson.com/root3d-experimento-css3d/).  
 
-Em Abril rolou o [PernambucoJS](http://jaydson.org/pernambucojs-resumo/), um evento chave para o ano de 2012.  
+Em Abril rolou o [PernambucoJS](http://jaydson.com/pernambucojs-resumo/), um evento chave para o ano de 2012.  
 Lá conheci uma galera engajada em algo que eu e o Felipe vinhamos pensando ao longo dos anos.  
 Não posso deixar de citar o [Zeno](http://blog.zenorocha.com/), um cara que explodiu em 2012, e que foi fundamental para a concretização de muita coisa que aconteceu.  
 
-Em Maio, fiz um dos melhores investimentos do ano. Fui de ônibus para Argentina, para participar de um dos melhores eventos que já fui. A[ JSConf Argentina](http://jaydson.org/jsconf-argentina-resumo/).  
+Em Maio, fiz um dos melhores investimentos do ano. Fui de ônibus para Argentina, para participar de um dos melhores eventos que já fui. A[ JSConf Argentina](http://jaydson.com/jsconf-argentina-resumo/).  
 O evento foi épico demais. E lá, junto com Zeno e [Giovanni](blog.bygiovanni.com.br/) começamos a traçar o que em breve seria a Fundação BrazilJS.  
 Fora isso, a viagem para Argentina foi demais.  
 
 Em Junho dei mais uma brincada com [Node](http://nodejs.org/), visando um projeto casca que tínhamos que viabilizar no Terra.  
-Do estudo, acabou saindo o post [Web Scraping para crianças com nodeJS ](http://jaydson.org/web-scraping-para-criancas-com-nodejs/)e um [experimento](http://jaydson.org/experimento-de-web-scraping-com-nodejs/).
-Ainda em Junho, conseguimos liberar a [lista inicial de palestrantes da BrazilJS Conference](http://jaydson.org/braziljs-2012/).  
+Do estudo, acabou saindo o post [Web Scraping para crianças com nodeJS ](http://jaydson.com/web-scraping-para-criancas-com-nodejs/)e um [experimento](http://jaydson.com/experimento-de-web-scraping-com-nodejs/).
+Ainda em Junho, conseguimos liberar a [lista inicial de palestrantes da BrazilJS Conference](http://jaydson.com/braziljs-2012/).  
 
-Em Julho,[ anunciamos a Fundação BrazilJS](http://jaydson.org/fundacao-braziljs/), algo que cresceu e tomou forma. Estou bastante empolgado para 2013.  
+Em Julho,[ anunciamos a Fundação BrazilJS](http://jaydson.com/fundacao-braziljs/), algo que cresceu e tomou forma. Estou bastante empolgado para 2013.  
 
 Em Agosto foi impossível parar para postar algo. Estávamos envolvidos até o último fio de cabelo na BrazilJS Conference.  
 Até hoje não fiz nenhum resumo sobre o evento, mas digo que foi algo muito gratificante. Foi um marco na história FrontEnd no Brasil.  
-Na verdade, em Setembro, consegui fazer um post. [BrazilJS 2012 – Foto épica com o Brendan Eich](http://jaydson.org/braziljs-2012-foto-epica-com-o-brendan/).  
-[Até entrevista para a TV rolou](http://jaydson.org/braziljs-entrevista-na-tv/)!  
+Na verdade, em Setembro, consegui fazer um post. [BrazilJS 2012 – Foto épica com o Brendan Eich](http://jaydson.com/braziljs-2012-foto-epica-com-o-brendan/).  
+[Até entrevista para a TV rolou](http://jaydson.com/braziljs-entrevista-na-tv/)!  
 
-Em outubro, outro marco. [O W3C webbr 2102](http://jaydson.org/w3c-webbr-2102/).  
+Em outubro, outro marco. [O W3C webbr 2102](http://jaydson.com/w3c-webbr-2102/).  
 A Fundação BrazilJS, teve a honra de ser convidada pela [W3C Brasil](http://www.w3c.br/Home/WebHome), para fazer parte deste grande evento.  
 
-Em Novembro, para fechar o ano com chave de ouro, [EATI 2012 em Frederico Westphalen](http://jaydson.org/eati-2012-em-frederico-westphalen/).  
+Em Novembro, para fechar o ano com chave de ouro, [EATI 2012 em Frederico Westphalen](http://jaydson.com/eati-2012-em-frederico-westphalen/).  
 Este evento foi fora do comum. Algo realmente inexplicável.  
 
 Bom, este é um resumo do que aconteceu em 2012, e que está registrado no Blog.  

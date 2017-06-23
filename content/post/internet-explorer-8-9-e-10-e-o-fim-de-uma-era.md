@@ -16,7 +16,7 @@ Que dia histórico hein pessoal? 12 de Janeiro de 2016. Guardem esse dia em luga
 O dia em que a Microsoft aposentou o Internet Explorer.  
 Para quem não é tão velho como eu ou como o [Diego Eis](http://tableless.com.br/internet-explorer-8-9-e-10-foram-pro-saco/), talvez essa notícia não seja muito relevante, mas para quem viveu ao menos um pouco dos trágicos dias de desenvolvimento Web com a presença massiva do Internet Explorer, isso é um marco.  
 Assim como em 2009, o lançamento do Internet Explorer 8 também foi um marco.  
-Veja o meu velho relato aqui no Blog, no dia do lançamento do dito cujo: [http://jaydson.org/internet-explorer-8/](http://jaydson.org/internet-explorer-8/).  
+Veja o meu velho relato aqui no Blog, no dia do lançamento do dito cujo: [http://jaydson.com/internet-explorer-8/](http://jaydson.com/internet-explorer-8/).  
 Na época eu listava feliz os recusros do novo Browser, como uma ferramenta para desenvolvedores! Wow!  
 
 Parar de dar suporte as versões velhas do IE representa não apenas o que parece. Isso basicamente mostra uma nova Microsoft adaptada ao "mundo real", digamos assim.  

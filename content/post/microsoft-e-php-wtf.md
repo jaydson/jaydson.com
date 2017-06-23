@@ -44,7 +44,7 @@ Este ano (2010) a MS continuou continuou mostrando estar de "mente aberta".
 
 O exemplo mais claro foi o TechED, maior evento tecnologico da MS onde teve uma trilha de Interoperabilidade. Nesta trilha muitas palestras foram de PHP.  
 
-Tive a oportunidade de [apresentar](http://jaydson.org/criando-aplicacoes-net-com-o-thewebmind) o [TheWebMind](http://thewebmind.org) (projeto PHP) no evento, e foi realmente muito bom.  
+Tive a oportunidade de [apresentar](http://jaydson.com/criando-aplicacoes-net-com-o-thewebmind) o [TheWebMind](http://thewebmind.org) (projeto PHP) no evento, e foi realmente muito bom.  
 
 Na PHPConference 2010 a MS tambem se fez presente e ouvi bons feed-backsa respeito.  
 

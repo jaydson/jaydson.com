@@ -12,7 +12,7 @@ title = "Além do responsive design - Palestra do Sérgio Lopes"
 +++
 
 Ano passado(2013) fui em muitos eventos de FrontEnd, e obviamente, assisti muitas palestras.  
-Um destes eventos foi o FronInSampa, que inclusive relatei aqui no blog: [http://jaydson.org/frontinsampa-2013-inferno-lea-html5/](http://jaydson.org/frontinsampa-2013-inferno-lea-html5/).  
+Um destes eventos foi o FronInSampa, que inclusive relatei aqui no blog: [http://jaydson.com/frontinsampa-2013-inferno-lea-html5/](http://jaydson.com/frontinsampa-2013-inferno-lea-html5/).  
 
 Sem dúvida, uma das melhores palestras que assisti em 2013, foi a do [Sérgio Lopes](https://twitter.com/sergio_caelum), sobre responsive web design.  
 O pessoal do FrontInSampa liberou o vídeo da palestra, então pare o que estiver fazendo e assista, ok?  

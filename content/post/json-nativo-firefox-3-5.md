@@ -14,7 +14,7 @@ Muita coisa nova e útil para nós desenvolvedores no Firefox 3.5.
 Novo motor Javascript, suporte HTML 5 entre várias outras. [Acessem aqui ](https://developer.mozilla.org/En/Firefox_3.5_for_developers)caso ainda não tenham visto(deveriam caso sejam desenvolvedores).  
 Apesar de o JSON já ser nativo desde a versão 3.1, agora é que isso ficou bem evidenciado.  
 
-Bom, não vou comentar o que é JSON, até porque já fiz isto em outro post, então caso não saiba o que é JSON(deveria se é desenvolvedor) veja o meu [post antigo](http://jaydson.org/json/), ou melhor ainda, acesse a [página oficial](http://json.org/).  
+Bom, não vou comentar o que é JSON, até porque já fiz isto em outro post, então caso não saiba o que é JSON(deveria se é desenvolvedor) veja o meu [post antigo](http://jaydson.com/json/), ou melhor ainda, acesse a [página oficial](http://json.org/).  
 
 ## O que significa JSON nativo no browser?
 Bom, isso significa que o desenvolvedor não precisará usar nenhuma biblioteca extra para fazer o parse de um objeto JSON, e também não será necessário usar a função [eval()](http://www.w3schools.com/jsref/jsref_eval.asp) nativa no Javascript para fazer isso, o que é bem aconselhável pela insegurança desta função.  

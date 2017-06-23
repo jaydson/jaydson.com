@@ -12,7 +12,7 @@ title = "Fundação BrazilJS"
 
 Em 2008, eu e o Felipe Moura começamos a notar o movimento que estava acontecendo lá fora em torno do JavaScript e pensamos: "Por que não podemos ter este movimento no Brasil também?"
 
-Inclusive, [este post emblemático](http://jaydson.org/js-conf-2009/) ilustra nossa vontade em fazer acontecer aqui no Brasil algo semelhante.
+Inclusive, [este post emblemático](http://jaydson.com/js-conf-2009/) ilustra nossa vontade em fazer acontecer aqui no Brasil algo semelhante.
 
 _2012 tem sido um excelente ano para o JavaScript no Brasil. Na verdade, a linguagem está em extrema ascensão nos últimos anos, no mundo inteiro._
 

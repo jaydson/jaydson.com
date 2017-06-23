@@ -40,7 +40,7 @@ Abaixo cito os principais pontos que me preocupei antes de migrar:
 * Deploy  
 
 ## Manter as mesmas URL
-Para a nova estrutura eu mantive as mesmas URL's. Desde o início, sempre usei o padrão _http://jaydson.org/:post_name/, isso facilitou, pois não tenho nenhuma variável como data, identificador, etc.  
+Para a nova estrutura eu mantive as mesmas URL's. Desde o início, sempre usei o padrão _http://jaydson.com/:post_name/, isso facilitou, pois não tenho nenhuma variável como data, identificador, etc.  
 Tecnicamente, cada post/página é um diretório no servidor, com um arquivo index.html.  
 
 ## Manter caminho das Imagens

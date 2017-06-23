@@ -10,7 +10,7 @@ title = "HTML5 AppCache - Cache-Control: no-store"
 
 +++
 
-No[ meu último post](http://jaydson.org/html5-application-cache), falei sobre como tudo no [HTML5](http://www.w3.org/TR/html5/) é legal, e especificamente sobre o [Application Cache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html).  
+No[ meu último post](http://jaydson.com/html5-application-cache), falei sobre como tudo no [HTML5](http://www.w3.org/TR/html5/) é legal, e especificamente sobre o [Application Cache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html).  
 O legal de trabalhar com HTML5 é que tudo é muito novo.  
 O ruim de trabalhar com HTML5 é que tudo é muito novo.  
 

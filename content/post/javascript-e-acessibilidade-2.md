@@ -68,7 +68,7 @@ R: Na verdade eu nunca conheci alguém que desabilite, mas sei que existe. Mas s
 
 	
   4. **"merdas que tentam simular a interface desktop na web"**  
-R: Realmente esse comentário foi infeliz. Essa pessoa não conhece o conceito [RIA](http://jaydson.org/ria-aplicacoes-ricas-para-internet/).
+R: Realmente esse comentário foi infeliz. Essa pessoa não conhece o conceito [RIA](http://jaydson.com/ria-aplicacoes-ricas-para-internet/).
 
 	
   5. **"Web não é Desktop"**  

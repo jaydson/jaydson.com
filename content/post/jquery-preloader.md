@@ -20,6 +20,6 @@ O projeto está disponível no GitHub:
 [](http://github.com/edwardhotchkiss/Preloader)O plugin possui algumas configurações e _callbacks _que são extremamente úteis para o desenvolvimento.
 Acabei de testar o plugin aqui e gostei bastante. Fácil de se implementar e bem feito.
 Abaixo segue o link para o demo que fiz:
-[http://jaydson.org/code/jquery/plugins/jquery-preloader/](http://jaydson.org/code/jquery/plugins/jquery-preloader/)
+[http://jaydson.com/code/jquery/plugins/jquery-preloader/](http://jaydson.com/code/jquery/plugins/jquery-preloader/)
 
 O próprio blog do Edward esta usando o plugin, acessem lá e confiram: [http://www.edwardhotchkiss.com/](http://www.edwardhotchkiss.com/)

@@ -72,8 +72,8 @@ Acima da árvore, clique no botão "**_Explore Files_**" , este o conduzirá at�
 
 ## Passo 6 - Testando a Aplicação
 Seguindo esses passos temos um simples sistema de tarefas funcionando.  
-Para testar publiquei a aplicação gerada aqui: [http://source.jaydson.org/TaskList/  
-](http://source.jaydson.org/TaskList/)O ZendModels gera os formulários da aplicação, isso serve para testarmos se tudo esta funcionando corretamente.  
+Para testar publiquei a aplicação gerada aqui: [http://source.jaydson.com/TaskList/  
+](http://source.jaydson.com/TaskList/)O ZendModels gera os formulários da aplicação, isso serve para testarmos se tudo esta funcionando corretamente.  
 
 Bom, este foi um pequeno tutorial de como fazer um sistema simples com o TheWebMind utilizando o ZendModels.  
 Qualquer dúvida entrem em contato ou comentem.  

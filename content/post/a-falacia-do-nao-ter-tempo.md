@@ -43,7 +43,7 @@ Não contente em criar um site, antes mesmo de faze-lo, eu decidi criar um gerad
 
 Também resolvi mudar o meu blog. Não somente a parte visual, mas o back-end também.  
 Como criei um gerador de sites estáticos, fazia muito sentido usa-lo para o meu próprio blog.  
-Fiz a migração da plataforma Octpress para o Harmonic, e também dei uma [boa mudada](http://jaydson.org/novo-blog-powered-by-harmonic/) no layout.  
+Fiz a migração da plataforma Octpress para o Harmonic, e também dei uma [boa mudada](http://jaydson.com/novo-blog-powered-by-harmonic/) no layout.  
 Obviamente, manter um blog não é tarefa fácil, é necessário conteúdo, e este ano, fiz alguns posts como esse que escrevo agora.  
 
 Mas vocês podem estar pensando _"ah, mas ele só faz isso, nem deve se divertir"_.  

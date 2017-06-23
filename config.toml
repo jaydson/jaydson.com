@@ -1,5 +1,6 @@
 BaseUrl= "https://jaydson.com/"
 LanguageCode= "pt-BR"
+DefaultContentLanguage = "pt-BR"
 Title= "Jaydson Gomes"
 paginate = 7
 DisqusShortname = "jaydson"
@@ -7,8 +8,8 @@ Copyright = "Creative Commons - 2017"
 canonifyurls = true
 
 [params]
-  description = "Pensamentos, histórias e ideias"
-  metadescription = "Pensamentos, histórias e ideias"
+  description = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
+  metadescription = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
   cover = "images/2016/10/jaydson-header.jpg"
   author = "Jaydson Gomes"
   authorlocation = "Porto Alegre, Brasil"
@@ -26,7 +27,7 @@ canonifyurls = true
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [permalinks]
-    post = "/:title/"
+    post = "/:slug/"
   
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles

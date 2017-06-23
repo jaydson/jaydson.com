@@ -4,7 +4,7 @@ categories = ["Eventos", "JavaScript"]
 date = 2009-07-01T05:38:00Z
 description = ""
 draft = false
-slug = "javascript-conference-2009-2"
+slug = "js-conf-2009"
 tags = ["Eventos", "JavaScript"]
 title = "JavaScript Conference 2009"
 

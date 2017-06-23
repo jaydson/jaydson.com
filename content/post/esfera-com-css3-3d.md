@@ -12,7 +12,7 @@ title = "Esfera com CSS3 3D"
 +++
 
 Fiz mais um demo com CSS3 para o [Mozilla Dev Derby](https://developer.mozilla.org/en-US/demos/devderby).  
-Depois de ter feito um[ cubo 3d](http://jaydson.org/cubo-3d-com-css3/), minha ideia agora foi complicar um pouco e fazer uma esfera.  
+Depois de ter feito um[ cubo 3d](http://jaydson.com/cubo-3d-com-css3/), minha ideia agora foi complicar um pouco e fazer uma esfera.  
 Depois de pensar um pouco, saiu uma esfera legal.  
 Não desenvolvi a esfera com base nas fórmulas da geometria, o que seria o correto e faria ficar bem mais bacana, mas para um primeiro experimento, está Ok.  
 Deêm uma olhada, e se acharem legal podem curtir lá ;)  

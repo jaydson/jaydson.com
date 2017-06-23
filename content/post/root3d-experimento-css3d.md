@@ -10,7 +10,7 @@ title = "Root3D - experimento CSS3D"
 
 +++
 
-Para quem viu e gostou do meu humilde [cubo 3D feito com CSS3](http://jaydson.org/cubo-3d-com-css3/), vai simplesmente achar íncrivel o mais novo projeto que o [Felipe N. Moura](http://felipenmoura.org) está desenvolvendo.  
+Para quem viu e gostou do meu humilde [cubo 3D feito com CSS3](http://jaydson.com/cubo-3d-com-css3/), vai simplesmente achar íncrivel o mais novo projeto que o [Felipe N. Moura](http://felipenmoura.org) está desenvolvendo.  
 Trata-se de um experimento, e digo experimento porque isso ainda é muito novo, onde é possível criar elementos 3D em um ambiente todo desenvolvido com CSS3.  
 Não, eu não falei besteira, é em CSS3 mesmo.  
 Só vendo para ter a real noção do que realmente é.  

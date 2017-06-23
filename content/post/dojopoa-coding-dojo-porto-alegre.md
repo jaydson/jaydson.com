@@ -48,7 +48,7 @@ O Dojo possui algumas regras básicas:
 O mundo está cheio de malucos, e aqui em Porto Alegre não é diferente, então não demorou para que fosse parido o [DojoPOA](http://dojopoa.wordpress.com/).
 Não participei diretamente da criação do grupo, mas desde o inicio dou apoio e abraço a ideia.
 Creio que seja de consenso comum que só existem vantagens em uma iniciativa como esta.
-Compartilhar conhecimento nunca é demais! [[http://jaydson.org/dissemine-o-conhecimento/](http://jaydson.org/dissemine-o-conhecimento/)]
+Compartilhar conhecimento nunca é demais! [[http://jaydson.com/dissemine-o-conhecimento/](http://jaydson.com/dissemine-o-conhecimento/)]
 
 Tive a oportunidade de ser o Guru no [Coding Dojo de Javascript](http://dojopoa.wordpress.com/2010/11/07/pos-dojo-javascript/) que aconteceu no fim de outubro, foi realmente muito bom.
 

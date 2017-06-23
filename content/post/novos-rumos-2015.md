@@ -11,20 +11,20 @@ title = "Novos rumos 2015"
 
 +++
 
-Em 2011, ano da [primeira BrazilJS](http://jaydson.org/brazil-js-2011-epicwin/), eu comecei a trabalhar no Portal Terra.  
-Inclusive, fiz um post com título semelhante: [Novos rumos 2011](http://jaydson.org/novos-rumos-2011/).  
+Em 2011, ano da [primeira BrazilJS](http://jaydson.com/brazil-js-2011-epicwin/), eu comecei a trabalhar no Portal Terra.  
+Inclusive, fiz um post com título semelhante: [Novos rumos 2011](http://jaydson.com/novos-rumos-2011/).  
 Exatamente 4 anos depois estou aqui escrevendo sobre uma nova mudança, não faço mais parte do time do Portal Terra.  
 
 ## Bons tempos ou the struggle
 Foram bons tempos, onde aprendi e ensinei muito.  
 Uma empresa grande e com tantos anos de estrada acaba ficando estagnada em alguns aspectos e uma coisa que odeio é estagnação.  
 Em todos os momentos lutei bravamente para fazer o que achava melhor para a empresa crescer e evoluir.  
-Relatei aqui no Blog coisas relacionadas ao trabalho no Terra, como por exemplo o post ["Cultura maldita no desenvolvimento de software"](http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/), que por sinal é o meu post mais acessado ever.  
+Relatei aqui no Blog coisas relacionadas ao trabalho no Terra, como por exemplo o post ["Cultura maldita no desenvolvimento de software"](http://jaydson.com/cultura-maldita-no-desenvolvimento-de-software/), que por sinal é o meu post mais acessado ever.  
 Neste post eu levanto os sintomas desta Cultura e tento guiar a um caminho de extermínio da tal maldição.  
-Outro post relacionado é o ["Valorize a prata da casa"](http://jaydson.org/valorize-a-prata-da-casa/), onde falo sobre a falta de valorização de profissionais.  
-Também relatei em forma de post e de palestra o histórico do processo de desenvolvimento front-end: ["Processo de Desenvolvimento FrontEnd - Do caos ao Sublime"](http://jaydson.org/processo-de-desenvolvimento-frontend-do-caos-ao-sublime/).  
+Outro post relacionado é o ["Valorize a prata da casa"](http://jaydson.com/valorize-a-prata-da-casa/), onde falo sobre a falta de valorização de profissionais.  
+Também relatei em forma de post e de palestra o histórico do processo de desenvolvimento front-end: ["Processo de Desenvolvimento FrontEnd - Do caos ao Sublime"](http://jaydson.com/processo-de-desenvolvimento-frontend-do-caos-ao-sublime/).  
 Nesta palestra eu falo como mudamos radicalmente o processo de desenvolvimento front-end no Terra. Foram meses de trabalho e estudo e saio do Terra com a sensação de missão cumprida neste quesito.  
-Recentemente fiz um post sobre como estava o nosso [processo front-end](http://jaydson.org/processo-front-end-no-terra/) e este post teve uma boa repercussão, inclusive com um ["post resposta"](http://tableless.com.br/processo-front-end-na-locaweb/) do amigo [Diego Eis](https://twitter.com/diegoeis), no [Tableless](http://tableless.com.br/).  
+Recentemente fiz um post sobre como estava o nosso [processo front-end](http://jaydson.com/processo-front-end-no-terra/) e este post teve uma boa repercussão, inclusive com um ["post resposta"](http://tableless.com.br/processo-front-end-na-locaweb/) do amigo [Diego Eis](https://twitter.com/diegoeis), no [Tableless](http://tableless.com.br/).  
 Neste post eu basicamente listei tudo que estava sendo feito até o momento em relação a front-end no Terra.  
 
 ## Multithreading

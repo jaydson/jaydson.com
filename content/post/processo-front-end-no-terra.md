@@ -17,7 +17,7 @@ Nosso processo antigo baseava-se basicamente em uma coisa: fazer commit no [SVN]
 Em uma imagem:<br>  
 ![Go-Horse detected](http://i.giphy.com/GYU7rBEQtBGfe.gif)  
 
-Esse processo _testless_, _horseness_, etc, provavelmente foi aplicado em muitas empresas no passado (e ainda é!?!?!?!), e [mudar a cultura é algo difícil](http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/).  
+Esse processo _testless_, _horseness_, etc, provavelmente foi aplicado em muitas empresas no passado (e ainda é!?!?!?!), e [mudar a cultura é algo difícil](http://jaydson.com/cultura-maldita-no-desenvolvimento-de-software/).  
 Isso tudo foi na era pré-[jQuery](http://jquery.com/) e eu ainda nem fazia parte da empresa, mas quando cheguei, esse era o cenário.  
 
 Acredito que a base para se ter um produto de qualidade é garantir que o código também tenha qualidade.  

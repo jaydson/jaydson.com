@@ -13,16 +13,16 @@ title = "Analytics do Blog em 2013"
 
 Como de costume, gosto de compartilhar os dados do Analytics do Blog.  
 Venho fazendo isso desde 2010, e é legal ver como as coisas evoluem, mudam, etc.  
-Veja em 2010: [http://www.jaydson.org/analytics-do-blog-2010/](http://www.jaydson.org/analytics-do-blog-2010/)  
-Veja em 2011: [http://www.jaydson.org/analytics-do-blog-em-2011/](http://www.jaydson.org/analytics-do-blog-em-2011/)  
-Veja em 2012: [http://www.jaydson.org/analytics-do-blog-em-2012/](http://www.jaydson.org/analytics-do-blog-em-2012/)  
+Veja em 2010: [http://www.jaydson.com/analytics-do-blog-2010/](http://www.jaydson.com/analytics-do-blog-2010/)  
+Veja em 2011: [http://www.jaydson.com/analytics-do-blog-em-2011/](http://www.jaydson.com/analytics-do-blog-em-2011/)  
+Veja em 2012: [http://www.jaydson.com/analytics-do-blog-em-2012/](http://www.jaydson.com/analytics-do-blog-em-2012/)  
 
 Em 2013, postei bem menos do que gostaria.  
 No total, foram __23 posts__, dentre eles, vários técnicos e outros nem tanto.  
 Venho baixando a média, pois em 2011 foram 40 posts, 2012 um pouco mais de 30 e agora 23.  
 Cheguei a ousar ter como objetivo escrever 100 posts em 2013. Fiquei bem longe disso.  
 Quem sabe consigo escrever mais este ano.  
-Uma coisa legal é que em 2013 comecei a escrever coisas não técnicas, mas relacionadas a tecnologia, e a aceitação foi bem boa. Tanto que o post [Cultura Maldita no Desenvolvimento de Software](http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/) foi o post mais acessado do Blog.  
+Uma coisa legal é que em 2013 comecei a escrever coisas não técnicas, mas relacionadas a tecnologia, e a aceitação foi bem boa. Tanto que o post [Cultura Maldita no Desenvolvimento de Software](http://jaydson.com/cultura-maldita-no-desenvolvimento-de-software/) foi o post mais acessado do Blog.  
 
 O total de pageviews não chegou a __45.000__, e isso se deve aos poucos posts.  
 De 2011 para 2012 esse número tinha crescido __40%__, agora ficou na média.  

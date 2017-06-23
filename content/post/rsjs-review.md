@@ -11,7 +11,7 @@ title = "RSJS - Review"
 +++
 
 E aí galera.  
-Hoje (03/03/2012) foi o dia do [#RSJS](http://rsjs.org), a conferência gaúcha de JavaScript ([post sobre o evento](http://jaydson.org/rsjs-a-conferencia-gaucha-de-javascript/)).  
+Hoje (03/03/2012) foi o dia do [#RSJS](http://rsjs.org), a conferência gaúcha de JavaScript ([post sobre o evento](http://jaydson.com/rsjs-a-conferencia-gaucha-de-javascript/)).  
 Juntos, eu e  o [@felipenmoura](http://twitter.com/felipenmoura), conseguimos organizar um evento local de JavaScript que movimentou cerca de 100 pessoas.  
 Contamos com o  apoio forte do pessoal da [Grifo](http://gri.fo), que além de ser o principal patrocinador/apoiador do evento, desenvolveu o site, e ajudou com vários outros detalhes que fizeram a conferência ser um sucesso.  
 
@@ -32,7 +32,7 @@ O [Renatho](http://twitter.com/renatho), sócio-diretor da Grifo, apresentou des
 Na volta do almoço, o [Jean Carlo Emer](http://twitter.com/#!/jcemer) foi a fundo nos eventos, mostrando no bit, como funcionam nativamente no Browser, e com o jQuery. Muito boa a palestra.  
 
 Depois disso, foi minha vez de falar. Fiz uma palestra sobre Web Performance, onde abordei técnicas, práticas e tecnologias para otimizar a performance de um site. Além disso apresentei um estudo de caso de como reduzimos em 60% o tempo de carregamento da capa do Terra, mostrando quais técnicas falharam e como chegamos em uma solução.
-A minha palestra já está publicada aqui no Blog: [http://jaydson.org/extreme-web-performance-rsjs-2012/](http://jaydson.org/extreme-web-performance-rsjs-2012/)  
+A minha palestra já está publicada aqui no Blog: [http://jaydson.com/extreme-web-performance-rsjs-2012/](http://jaydson.com/extreme-web-performance-rsjs-2012/)  
 
 Na volta do Coffe-break, o [Ricardo Tomasi](http://twitter.com/ricardobeat) fez uma boa palestra sobre CoffeeScript e NodeJS. Confesso que fiquei com vontade de estudar o CoffeeScript. O Ricardo ainda fez um demo, usando Coffe, Node, WebSockets e fez a galera interagir em um mini-jogo. Bem interessante a palestra, e muito bem explicada.  
 

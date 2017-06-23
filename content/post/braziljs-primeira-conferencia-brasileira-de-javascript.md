@@ -14,7 +14,7 @@ Todos já devem estar sabendo sobre o BrazilJS.
 Se não sabe, está perdendo tempo. Corre lá: [http://braziljs.com.br/conf/2011/
 ](http://braziljs.com.br/2011/)Como o título sugere, esta é a primeira conferência brasileira de JavaScript e estou muito empolgado!  
 
-Tudo começou com esse post em junho de 2009: [http://jaydson.org/js-conf-2009](http://jaydson.org/js-conf-2009).  
+Tudo começou com esse post em junho de 2009: [http://jaydson.com/js-conf-2009](http://jaydson.com/js-conf-2009).  
 Falei sobre a JSConf 09 que tinha acontecido a pouco tempo e tinha sindo um grande sucesso.
 Desde então fiquei com essa ideia fixa na cabeça... Realizar um evento deste porte aqui no Brasil.
 Juntamente comigo, o [Felipe Moura](http://twitter.com/felipnmoura) obviamente apoiou a ideia e começamos a discutir essa possibilidade, conversando com pessoas e devs que assim como nós são apaixonados por Javascript.<!-- more -->

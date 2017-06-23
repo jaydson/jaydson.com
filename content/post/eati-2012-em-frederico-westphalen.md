@@ -13,7 +13,7 @@ title = "EATI 2012 em Frederico Westphalen"
 
 Estou aqui no Hotel na querida cidade [Frederico Westphalen](http://pt.wikipedia.org/wiki/Frederico_Westphalen).  
 Vim para participar do [EATI](http://www.cafw.ufsm.br/eati/2012/), o Encontro Anual de Tecnologia da Informação.  
-Assim como no [Webbr da W3C](http://jaydson.org/w3c-webbr-2102/),  o BrazilJS teve um espaço para palestras.  
+Assim como no [Webbr da W3C](http://jaydson.com/w3c-webbr-2102/),  o BrazilJS teve um espaço para palestras.  
 
 [Felipe Moura,](http://twitter.com/felipenmoura) [Zeno Rocha](http://twitter.com/zenorocha) e eu, comandamos as palestras, e tentamos passar o máximo de informção possível para o pessoal.  
 Foram várias palestras, e muito networking com a galera.  
