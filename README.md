@@ -9,6 +9,11 @@ If you're interested to build your website based on mine, feel free and follow t
 Please check Hugo installing page -> https://gohugo.io/overview/installing/  
 Hugo is written in [Go](https://gohugo.io/overview/installing/), so you'll first need to install it.  
 
+## New post
+```
+hugo new post/my-first-post.md
+```
+
 ## Running
 First, clone this repo and then.  
 I'm using the Casper theme, which is a "copy" of Ghost Casper theme (which I was using previously).  
@@ -18,6 +23,9 @@ If you want to use Casper, just clone it to the `themes` directory.
 hugo server --theme=casper
 ```
 Navigate to `localhost:1313` and you'll probably see my personal blog locally.  
+
+## Content
+
 
 # Deploy
 I wrote a simple shell script to automate the deploy.  

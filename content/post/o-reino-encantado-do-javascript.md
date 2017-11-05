@@ -15,8 +15,7 @@ Nesta semana tive o prazer de participar de um dos podcasts mais badalados da at
 
 > O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
 
-Neste episódio falamos sobre esse mundo que amo tanto, o mundo do JavaScript.  
-Foi um bate-papo bem legal onde contamos um pouco da história da linguagem, estado atual, Node.js, e muito mais.  
+Neste episódio falamos sobre esse mundo que amo tanto, o mundo do JavaScript. Foi um bate-papo bem legal onde contamos um pouco da história da linguagem, estado atual, Node.js, e muito mais.  
 
 ![Podcast O reino encantado do JavaScript](/images/2017/04/Hipsters-38-1.png)
 

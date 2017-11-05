@@ -13,6 +13,7 @@ title = "JavaScript Conference 2009"
 Para quem não sabe, este ano aconteceu a primeira Javascript Conference 2009.  
 Eu, por ser amante desta linguagem resolvi postar aqui o que aconteceu por lá.  
 Em primeiro lugar, essa é uma iniciativa do time [Iterative Designs](http://www.iterativedesigns.com/)(empresa americana que trabalha com desenvolvimento Web), para contribuir com a comunidade Javascript.  
+
 No site oficial tem o seguinte dizer:  
 "JSConf 2009 is a conference devoted to the programming language we all love to hate and hate to love, JavaScript".  
 Isso seria algo como, a conferência para linguagem de programação que todos amam odiar e odeiam amar.  
