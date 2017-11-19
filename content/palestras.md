@@ -65,6 +65,7 @@ Jaydson também é autor e editor no portal [**BrazilJS**](https://braziljs.org/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O8xmfaE4XUc" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xzTfi7Wz6ac" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3CkeSb5bL1I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1h3jjLqD39M" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tDGoXFM9afE" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8erF1b6_rmg" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jsyP1HU-g4I" frameborder="0" allowfullscreen></iframe>
@@ -76,6 +77,8 @@ Jaydson também é autor e editor no portal [**BrazilJS**](https://braziljs.org/
 ## Fotos
 Sinta-se livre para usar qualquer uma das imagens abaixo no site do seu evento.  
 <br>
+![Jaydson Gomes avatar](/images/2017/11/jaydson-avatar-github.jpeg)  
+
 ![Jaydson Gomes avatar](/images/2017/07/jaydson-gomes-avatar-5.jpg)  
 
 ![Jaydson Gomes avatar](/images/2017/07/jaydson-gomes-avatar-6.jpg)  

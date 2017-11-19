@@ -1,11 +1,11 @@
 [
     [
         [
-            "cd ~/Workspace/jaydson.com && ls", "cd ~/Workspace/jaydson.com && hugo server --theme=casper"
-        ],
-        [
-            "code ~/Workspace/jaydson.com",
-            ["tree -L 1", "top"]
+            "cd ~/Workspace/jaydson.com && ls", "cd ~/Workspace/jaydson.com && hugo server --theme=casper",
+            [
+                "code ~/Workspace/jaydson.com",
+                ["tree -L 1", "top"]
+            ]
         ]
     ]
 ]
