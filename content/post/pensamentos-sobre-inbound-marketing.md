@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["empreendedorismo","devaneios"]
-date = 2017-11-06T03:48:20-03:00
+date = 2017-11-06T03:48:00Z
 draft = false
 image = "/images/2017/11/inbound-mkt.jpg"
 slug = "pensamentos-sobre-inbound-marketing"
