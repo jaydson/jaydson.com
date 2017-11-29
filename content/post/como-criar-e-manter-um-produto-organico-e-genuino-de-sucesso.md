@@ -9,18 +9,26 @@ tags = ["empreendedorismo", "braziljs", "palestras"]
 title = "Como criar e manter um produto orgânico e genuíno de sucesso"
 +++ 
 <br />
-Este é o título da minha primeira palestra com foco 100% não-técnica.  
+Este é o título da minha primeira palestra com foco 100% não-técnica, em um evento (SouWebPel) com um público em sua grande maioria não-técnico.  
 Ao longo destes quase 15 anos no desenvolvimento de software sempre estive muito envolvido em comunidades, participando de eventos, palestrando e conhecendo muita gente.  
 Meu entusiasmo acabou me guiando para um caminho inesperado, onde juntamente com o meu sócio e primo [Felipe](https://twitter.com/felipenmoura) (igualmente entusiasmado) criei a [Nasc](https://nasc.io), empresa responsável pela [BrazilJS](https://braziljs.org).  
 
+Neste *post* eu abordo a história de um negócio criado totalmente de forma orgânica e conto como conseguimos trilhar um caminho de sucesso neste mercado tão competitivo e muitas vezes cheio de armadilhas e técnicas focadas apenas em gerar receita a todo custo.  
+Eu não falo apenas sobre o negócio em si, mas sim exploro territórios que fazem parte do meu cotidiano, como a música, fazendo uma analogia entre o desgaste desta indústria e o nosso mercado.  
+
+Além disso, o texto e a palestra abordam algumas das (má) práticas exercidas atualmente, como os *Dark Patterns* e estratégias baseadas na enganação absoluta.  
+
+Boa leitura 🤓
+
+
 ### Prelude
 Em meados de 2008, eu estava trabalhando em uma agência em Porto Alegre, a AG2.  
-Nesta época eu já fazia muito código JavaScript, em projetos paralelos e open-source, e também como daily job na agência.  
+Nesta época eu já fazia muito código JavaScript, em projetos paralelos e open-source, e também como *daily job* na agência.  
 JavaScript sempre foi minha paixão, mesmo no auge de sua impopularidade.  
 Porém, em 2009 algo aconteuceu, não aqui no Rio Grande do Sul, e nem mesmo no Brasil, mas sim nos EUA.  
 Em 2009 nasceu a JSConf, a primeira conferência sobre a linguagem JavaScript.  
 Fiquei tão entusiasmado na época que fiz um post sobre o evento: [https://jaydson.com/js-conf-2009/](https://jaydson.com/js-conf-2009/).  
-No post eu falo o seguinte:  
+Eu concluo o post com a seguinte frase:  
 
 > Pena que no Brasil a comunidade JavaScript ainda não é tão organizada e valorizada da mesma maneira.  
 
@@ -28,7 +36,7 @@ A história poderia ter terminado por ali. Apenas uma reclamação em um post de
 
 ### Nascimento da BrazilJS
 Ideias não valem nada. Entusiasmo não vale nada. Paixão não vale de nada.  
-Mesmo com a ideia na cabeça, sendo entusiasta e apaixanado, os primeiros passos foram praticamente nulos.  
+Mesmo com a ideia na cabeça, sendo entusiasta e apaixonado, os primeiros passos foram praticamente nulos.  
 Iniciar um projeto do zero não é fácil. Eu tentei de várias maneiras.  
 Reuniões, grupo do Google Groups com algumas pessoas que se mostraram interessadas em fazer um evento de JavaScript, *smalltalk* na empresa, conversas em *chats* com pessoas da comunidade (recém engatinhando).  
 Nenhuma dessas ações resultou em algo paupável, e daí o aprendizado (o tweet é de anos depois, demorei a aprender):  
@@ -38,16 +46,17 @@ Nenhuma dessas ações resultou em algo paupável, e daí o aprendizado (o tweet
 </p>
 
 Não basta uma ideia na cabeça, por mais genial que seja, e por mais inovadora que seja.  
-A BrazilJS começou a nascer quando de fato sentei com o Felipe e começamos a colocar no papel e ir atrás do que queríamos.  
-Em poucos meses já tínhamos palestrantes nacionais e interncionais confirmados, empresas patrocinando o projeto, um *roadmap* de como tudo deveria funcionar, local para o evento e uma parceria ([Cristiano Milfont](https://twitter.com/cmilfont)) que foi crucial para o projeto decolar.  
+A BrazilJS só começou a nascer quando de fato sentei com o Felipe e começamos a colocar no papel e ir atrás do que queríamos.  
+Em poucos meses já tínhamos palestrantes nacionais e internacionais confirmados, empresas patrocinando o projeto, um *roadmap* de como tudo deveria funcionar, local para o evento e uma parceria ([Cristiano Milfont](https://twitter.com/cmilfont)) que foi crucial para o projeto decolar.  
 
 ### A BrazilJS nos dias de hoje
 ![Crescimento BrazilJS Conf](/images/2017/12/crescimento-braziljs.png)  
+<center style="margin-top:-50px">*Gráfico de crescimento da BrazilJS Conf de 2011 a 2017*</center>
 
-A BrazilJS Conf vem crescendo ano a ano desde de 2011.  
-O projeto que iniciou como um sonho de 2 programadores JavaScript, hoje é um negócio saudável, que gera receita, ajuda a comunidade e se mantêm relevante no meio de tanto evento que surge no Brasil e no mundo.  
+A BrazilJS Conf vem crescendo ano a ano desde 2011.  
+O projeto que iniciou como um sonho de 2 desenvolvedores JavaScript, hoje é um negócio saudável, que gera receita, ajuda a comunidade e se mantêm relevante no meio de tanto evento que surge no Brasil e no mundo.  
 Nos 2 primeiros anos o evento foi feito no "peito e na raça", contando com muita ajuda de terceiros.  
-O projeto não tinha ambições mercadológicas, era algo feito com o amor e dedicação de pessoas que estavam fazendo algo que gostavam e queriam.  
+O projeto não tinha ambições mercadológicas, era algo feito com o amor e dedicação de pessoas que estavam fazendo simplesmente algo que gostavam e queriam.  
 
 No terceiro ano, já com um pouco mais de maturidade, vimos que toda aquela paixão poderia também virar uma empresa.  
 Abrimos a [Nasc](https://nasc.io) em 2013, e durante mais 2 anos, Felipe e eu dividimos a vida profissional entre a BrazilJS e o trabalho tradicional, no portal Terra.  
@@ -56,23 +65,28 @@ Abrimos a [Nasc](https://nasc.io) em 2013, e durante mais 2 anos, Felipe e eu di
 No meu post "[Novos rumos](https://jaydson.com/novos-rumos-2015/)", do mesmo ano, conto um pouco sobre essa transição.  
 De lá pra cá, a BrazilJS só cresceu.  
 Nos tornamos um [portal de tecnologia](https://braziljs.org), temos uma newsletter super popular com mais de **10.000 inscritos**, a BrazilJS Weekly, começamos a produzir conteúdo inédito em [vídeo no YouTube](https://youtube.com/braziljs), entre outras ações, sempre com foco na comunidade de desenvolvedores e sempre tentando fugir dos modelos tradicionais.  
-Hoje a BrazilJS atinge mais de **100.000 desenvolvedores** mensalmente somando todos seus canais online e offline.  
+Hoje a BrazilJS atinge mais de **100.000 desenvolvedores** mensalmente somando todos seus canais *online* e *offline*.  
 
 Nossa projeção de crescimento para 2018 somente em eventos é bem ousada:  
 
 ![Projeção crescimento BrazilJS 2018](/images/2017/12/crescimento-braziljs-2018.png)
+<center style="margin-top:-30px">*Projeção de crescimento BrazilJS 2018*</center>
 
 Além da já tradicional BrazilJS Conf, em sua 8ª edição, vamos iniciar o projeto "BrazilJS on the road", que vai levar eventos com a curadoria BrazilJS para todo o Brasil, focando principalmente em cidades com carência de eventos de tecnologia.  
-Tivemos mais de 100 cidades sugeridas em uma [pesquisa](https://braziljs.org/blog/braziljs-road-2018-pesquisa/) que fizemos com a comunidade e quase 1000 respostas.  
+Tivemos mais de 100 cidades sugeridas em uma [pesquisa](https://braziljs.org/blog/braziljs-road-2018-pesquisa/) que fizemos com a comunidade e quase 1.000 respostas.  
 
 
 ### Como fizemos - parte I - Death to Bullshit
 O nosso negócio é 100% orgânico e genuíno.  
 Poucas empresas conseguem criar ou manter um *business* com essa característica.  
-Mas como conseguimos atingir essa estrutura e crescimento?  
+Mas como conseguimos atingir tamanha relevância e crescimento?  
 Minha resposta é: *Avoid bullshit*.  
 
-![Avoid bullshit](/images/2017/12/bullshit.gif)  
+<p>
+<center>
+<video width="480" height="360" ontrols autoplay loop muted playsinline><source src="/images/2017/12/bullshit.mp4" type="video/mp4">Your browser does not support the video tag or this video format. You can download the video anyway.</video>  
+</center>
+</p>
 
 O mercado atual está repleto de *bullshit*. Evitar essa pseudo "técnica" deveria estar na missão de todas as empresas.  
 Em 2013 eu vi uma *talk* incrível do [Brad Frost](https://twitter.com/brad_frost), chamada "*death to bullshit*".  
@@ -119,7 +133,7 @@ Como prática, eu normalmente fecho o site que usa desta artimanha.
 
 Este fenômeno do Marketing digital se alastrou como praga.  
 Em algum momento da história essa estratégia pode ter funcionado, mas atualmente o que acontece é puara malandragem.  
-Conteúdo raso, com um blá blá blá que não pode nem ser considerado conteúdo e tudo isso apenas para conseguir um email válido de um possível interessado no assunto.  
+Conteúdo raso, com um *blá blá blá* que não pode nem ser considerado conteúdo e tudo isso apenas para conseguir um email válido de um possível interessado no assunto.  
 
 <p>
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Atenção, dica de ouro para quem faz Ebook raso para capturar emails: Não faça.<br>Dica 2: Faz um artigo aberto nas internertz, é bem + legal</p>&mdash; Jaydson Gomes (@jaydson) <a href="https://twitter.com/jaydson/status/902531716270759936?ref_src=twsrc%5Etfw">August 29, 2017</a></blockquote>
@@ -139,7 +153,7 @@ Obviamente essa é uma tática nunca usada na BrazilJS e pretendemos continuar a
 Para manter-se genuíno, temos que ser... genuínos, certo?  
 
 A lista de *bulshit* segue e infelizmente é infinita.  
-GoDaddy enviando emails sobre domínios que eu não tenho, Zap me torturando com novos apartamentos que eu não quero alugar, UniRitter chamando o seu vestibular de "Vestibular Experience" e robôs falhos do Itaú respondendo clientes que cancelaram a conta.  
+GoDaddy enviando emails sobre domínios que eu não tenho, Zap me torturando com novos apartamentos que eu não quero alugar, UniRitter chamando o seu vestibular de "Vestibular Experience" e robôs falhos do Itaú respondendo clientes que já cancelaram a conta.  
 Estamos cercados por todos os tipos de *bullshit*, em todos os canais, seja na Internet, na TV, nas lojas, em eventos.  
 Seja qual for o seu nogócio, notar e fugir destes padrões pode se tornar um diferencial interessante.  
 
@@ -150,6 +164,7 @@ Não tô de brincadeira não, é isso mesmo.
 Os *Dark Patterns* estão aí, sendo aplicados por pequenos sites e por grandes corporações.  
 
 ![Dark Patterns](/images/2017/12/dark-patterns.jpg)  
+<center style="margin-top:-50px">*Os Dark Patterns estão presentes no nosso dia a dia, basta prestar atenção*</center>
 
 A definição de *Dark Patterns* é a seguinte:  
 
@@ -157,11 +172,11 @@ A definição de *Dark Patterns* é a seguinte:
 
 Alguns dos principais *Dark Patterns* são *[Bait and Switch](https://darkpatterns.org/types-of-dark-pattern/bait-and-switch), [Disguised Ads](https://darkpatterns.org/types-of-dark-pattern/disguised-ads), [Forced Continuity](https://darkpatterns.org/types-of-dark-pattern/forced-continuity), [Friend Spam](https://darkpatterns.org/types-of-dark-pattern/friend-spam), [Hidden Costs](https://darkpatterns.org/types-of-dark-pattern/hidden-costs), [Misdirection](https://darkpatterns.org/types-of-dark-pattern/misdirection), [Price Comparison Prevention](https://darkpatterns.org/types-of-dark-pattern/price-comparison-prevention), [Privacy Zuckering](https://darkpatterns.org/types-of-dark-pattern/privacy-zuckering), [Roach Motel](https://darkpatterns.org/types-of-dark-pattern/roach-motel), [Sneak into Basket](https://darkpatterns.org/types-of-dark-pattern/sneak-into-basket), [Trick Questions](https://darkpatterns.org/types-of-dark-pattern/trick-questions)*.  
 
-Na minha pesquisa para a palestra me deparei com a [lei de Sturgeon](https://en.wikipedia.org/wiki/Sturgeon%27s_law), que define em uma frase muito bem tudo dito até agora sobre *bullshit* e *dark patterns*:  
+Na palestra do Brad, ele cita a [lei de Sturgeon](https://en.wikipedia.org/wiki/Sturgeon%27s_law), que define em uma frase muito bem tudo dito até agora sobre *bullshit* e *dark patterns*:  
 
 > 90% of everything is crap.  
 
-Essa frase/lei me atordoou um pouco e o niilista em mim cresceu ainda mais.  
+Essa frase/lei me atordoou um pouco e o niilista em mim cresceu ainda mais desde então.  
 Ser relevante no meio de tanta porcaria pode ser difícil, mas com dedicação e integridade é possível se destacar sem apelar para truques.  
 Creio que temos uma vantagem que se da pelo fato de que criamos um negócio no meio de algo que já faziamos parte.  
 Quando se cria algo por pura paixão o resultado orgânico é simples consequência.  
@@ -169,7 +184,8 @@ Quando se cria algo por pura paixão o resultado orgânico é simples consequên
 Tudo que foi feito até agora, em 8 anos de BrazilJS, foi puramente baseado no que seria bom, útil e relevante para o consumidor final, que no nosso caso é o participante de um de nossos eventos, leitor de um artigo no portal, assinante da *newsletter* ou do YouTube.  
 Isso é infalível e pode ser aplicado em todos os negócios? Não.  
 Sofremos por conta dessa postura? Sim.  
-Negar a base de emails da BrazilJS para TODOS os patrocinadores é uma briga anual.  
+Negar a base de emails da BrazilJS para os patrocinadores é uma briga anual.  
+Negar palestras comerciais, perder um bom patrocínio por não atender as expectativas do patrocinador, não fechar um valor maior por fazer algo que não acreditamos, tentar de todas maneiras justificar que o participante de um evento não é apenas um número, e que tentar justificar o investimento em um evento baseando-se apenas na possível conversão de um futuro consumidor não é uma abordagem correta, tudo isso faz parte da nossa rotina.  
 Os Dark Patterns nos afetam de uma meneira ou de outra.  
 Se os concorrentes fazem uso de alguma má-prática que pode dar algum tipo de resultado, mesmo que superficial, o mesmo nos é exigido.  
 O mercado é assim mesmo, mas cabe a nós lutar para continuar no time dos 10% e não dos 90%.  
@@ -194,17 +210,17 @@ O valor perdido em 2017 é mais do que o dobro de 2016.
 Alguns dados estatísticos fornecidos pelo Brave são ainda mais chocantes:  
 
 - Nos últimos 12 anos, *publishers* perderam aproximadamente 66% de sua receita  
-- Em 2016, fraude em publicidade custou $7.2 bilhões de dóalres, e em 2015 $6.3 bilhões  
+- Em 2016, fraude em publicidade custou $7.2 bilhões de dólares, e em 2015 $6.3 bilhões  
 - Cerca de 50% dos dados móveis de usuários é usado para publicidade e trackers, o que custa em média $23 dólares no mês  
 - Publicidades tornam páginas muito lentas e fazem com que a vida útil da bateria dure 21% menos  
 - O Google e o Facebook, que juntos reivindicam 73% da receita de anúncios digitais e 99% de todo o crescimento, estão exacerbando a crise  
 
 ### Como fizemos - parte IV - Negócios orgânicos
-Eu sou apaixonado por música. Ouço e pesquiso sobre Rock e seus sub-genêros, principalmente o Punk e o Metal.  
+Eu sou apaixonado por música. Ouço e adoro Rock e seus sub-gêneros, principalmente o Punk e o Metal.  
 Provavelmente o tópico mais presente em minha vida, talvez até mais do que tecnologia, seja a música.  
 Sempre tento achar alguma relação com tudo que faço com o mundo da música.  
 No último mês fui pela primeira vez no show do [Green Day](https://en.wikipedia.org/wiki/Green_Day), banda que fez parte da minha adolescência.  
-A relação aqui é a seguinte: Como um negócio de + de 30 anos de idade consegue se manter relevante por tanto tempo?  
+A relação aqui é a seguinte: Como um negócio com + de 30 anos de idade consegue se manter relevante por tanto tempo?  
 Além disso, como é possível tamanha paixão por parte de seus "funcionários" e "consumidores"?  
 O "produto" ofertado pelo Green Day é totalmente orgânico, e faz com que "jovens" com mais de 30 anos cantem suas músicas sem parar durante 3 horas.  
 A "empresa" Green Day sabe dosar com maestria o orgânico e o comercial tradicional.  
@@ -216,4 +232,67 @@ Cliente 100% satisfeito!
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </p>
 
+É possível ser comercial, fazer sucesso, gerar receita e ainda assim ser orgânico e genuíno.  
+O Punk Rock é um bom exemplo. Diversas bandas nos anos 90 tentaram se adequar e usar técnicas comerciais e acabaram deixando de existir.  
+Os que conseguiram achar o equilíbrio, assim como o Green Day, tiveram sucesso.  
+Mas também é possível ter sucesso no *underground*, tome como exemplo minha banda preferida: [NOFX](https://en.wikipedia.org/wiki/NOFX).  
+A banda não se rendeu à industria da música, muito pelo contrário, trilhou o seu próprio caminho e após 30 anos continua na ativa com uma base de consumidores fiel.  
+Mesmo sem grandes shows a banda gerou um negócio lucrativo e achou maneiras de trilhar o sucesso.  
 
+Dadas as devidas proporções, é possível achar uma simetria com o mundo da música, ao menos eu consigo ver e aplicar soluções semelhantes.  
+As estratégias da indústria da música pop moderna por exemplo, são muito semelhantes com os 2 primeiros tópicos: *Bullshit* e *Dark Patterns*.  
+O canal [VSauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) explica muito bem como isso funciona no [vídeo "Juvenoia"](https://youtu.be/LD0x7ho_IYc?t=14m57s)(a partir dos 14:57).  
+Mesmo com todas melodias matematicamente possíveis, a música pop moderna encontrou a receita perfeita para fazer músicas que seguem o mesmo padrão.  
+
+O vídeo "[Why Is Modern Pop Music So Terrible?](https://www.youtube.com/watch?v=oVME_l4IwII)", do canal [Thoughty2](https://www.youtube.com/channel/UCRlICXvO4XR4HMeEB9JjDlA), mostra em detalhes o quanto *bullshit* a indústria da música pop atual se tornou.  
+Como em tão pouco tempo (1967) fomos de uma obra prima como o disco [Sgt. Pepper's Lonely Hearts Club Band](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band), que é considerado um dos melhores discos de todos os tempos, para "*🎶 baby, baby, baby 🎶*" de Justin Bieber (2010)?  
+No geral, a música está ficando cada vez pior, e novamente não sou eu que estou dizendo.  
+Um recente estudo revelou que nos últimos anos o timbre, que é o que caracteriza a qualidade e riqueza de uma música, caiu drasticamente.  
+Desde os anos 60, as melodias e letras estão cada vez mais pobres.  
+Neste estudo foram analisadas mais de 500.000 músicas de gêneros variados de 1955 até 2010.  
+Estas músicas foram avaliadas por uma série de algoritimos, buscando avaliar 3 tipos de métricas: harmonia, timbre e sonoridade.  
+O maior pico de timbre foi encontrado nos anos 60, e vem caindo desde então.  
+Voltando aos Beatles, vejamos um exemplo. A música [*A day in the life*](https://www.youtube.com/watch?v=usNsCeOV4GM) (que é uma música pop), usou uma orquestra de 40 músicos, além é claro, de John, Paul, Ringo e George com seus respectivos instrumentos.  
+A música pop atual usa por padrão 4 elementos: teclado, uma drum-machine, samples e software, além é claro, de todas as ténicas mercadológicas, psicológicas e truques que fazem as pessoas gostarem de um conteúdo tão pobre.  
+
+[Patrick Metzger](http://www.pmetzger.com/), um músico, compositor e cantor, descreve o fenômeno "*[The Millennial Whoop](https://thepatterning.com/2016/08/20/the-millennial-whoop-a-glorious-obsession-with-the-melodic-alternation-between-the-fifth-and-the-third/)*" em seu blog.  
+O Millennial Whoop nada mais é que a descoberta de um *Dark Pattern* na música.  
+Segundo Patrick, o fenênomeno é o seguinte:  
+
+> É uma sequência de notas que alternam entre a quinta e a terceira nota de uma escala maior, tipicamente iniciando na quinta. O ritmo é geralmente é regular com oitavas, mas pode iniciar com um *downbeat* ou com um *upbeat* em diferentes músicas. Um(a) cantor(a) normalmente faz estas notas com um fonêma “Oh”, frequentemente em um padrão “Wa-oh-wa-oh”
+
+Para os mais corajosos ou descrentes, segue um vídeo que comprova o fenômeno:  
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MN23lFKfpck" frameborder="0" allowfullscreen></iframe>
+</p>
+
+Mas é claro que é possível fazer algo relevante no meio disso tudo.  
+Ainda existem empresas que continuam sendo genuínas e acabam tendo um resultado orgânico.  
+A banda [Foo Fighters](https://en.wikipedia.org/wiki/Foo_Fighters) por exemplo, chegou a utilizar 32 vozes sobrepostas em uma de suas músicas em seu último trabalho, buscando uma sonoridade tão rica quanto o Pink Floyd.  
+
+Música pop moderna faz uso de diferentes *Dark Patters*, entretanto, acredito que é uma boa analogia com o nosso mundo.  
+Um *business* pode ser saudável mesmo não alcançando o *mainstream*, e pode alcançar o *mainstream* sem se utilizar de técnicas que enganam seus consumidores.  
+
+### Conclusão e pensamentos para o futuro
+Em 2020 realizaremos a 10ª edição da BrazilJS Conf.  
+Ainda faltam alguns anos e temos muito trabalho pela frente, mas sigo confiante de que enquanto nossa estratégia seguir os pilares básicos que temos desde o nascimento do projeto, chegaremos lá com uma história ainda maior de sucesso para contar.  
+
+Obviamente não existem fórmulas mágicas para o sucesso, porém, existem fórmulas que que podem levar o seu negócio para o grupo dos 90%.  
+Evitar o uso de tais fórmulas pode garantir a integridade e genuinidade.  
+As estratégias apresentadas neste texto são amplamente utilizadas e normalmente nascem já com o um propósito obscuro.  
+Focar de verdade no cliente/consumidor, pensar em como a sua empresa, seu serviço ou produto pode ajudar, é o que irá manter o ciclo orgânico.  
+
+O desafio para quem possui um *business* orgânico é achar o ponto de equilíbrio.  
+É claro que precisamos crescer a audiência, aumentar a receita e manter-se saudável financeiramente, mas antes disso é preciso uma reflexão e um olhar para os alicerces da empresa.  
+A fundação jamais pode ser atingida, e se para crescer for necessário mudar algo neste nível, talvez o esforço não valha a pena, e pior, o esforço pode trazer resultados negativos.  
+
+Mas qual é a minha resposta para a pergunta "Como criar e manter um produto orgânico e genuíno de sucesso"?  
+
+- Evite o "*bulshitismo*"  
+    - Vá direto ao ponto, sem enganação. A verdade mesmo que não sendo tão *cool* é sempre melhor
+    - Não siga tendências de grandes *players* sem antes saber se isso faz sentido para o seu negócio
+    - O "U" de "UX" é de User, fazer UX pensando em como enganar o seu usuário não é legal
+    - Patamares e paradigmas estão aí para ser quebrados
+    - 
+- Evite
