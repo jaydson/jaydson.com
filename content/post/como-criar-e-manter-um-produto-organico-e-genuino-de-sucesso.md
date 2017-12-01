@@ -2,7 +2,7 @@
 author = "Jaydson Gomes"
 categories = ["empreendedorismo","braziljs","palestras"]
 date = 2017-11-19T02:15:00Z
-draft = false
+draft = true
 image = "/images/2017/12/braziljs-bg.jpg"
 slug = "como-criar-e-manter-um-produto-organico-e-genuino-de-sucesso"
 tags = ["empreendedorismo", "braziljs", "palestras"]
@@ -25,7 +25,7 @@ Boa leitura 🤓
 Em meados de 2008, eu estava trabalhando em uma agência em Porto Alegre, a AG2.  
 Nesta época eu já fazia muito código JavaScript, em projetos paralelos e open-source, e também como *daily job* na agência.  
 JavaScript sempre foi minha paixão, mesmo no auge de sua impopularidade.  
-Porém, em 2009 algo aconteuceu, não aqui no Rio Grande do Sul, e nem mesmo no Brasil, mas sim nos EUA.  
+Porém, em 2009 algo aconteceu, não aqui no Rio Grande do Sul, e nem mesmo no Brasil, mas sim nos EUA.  
 Em 2009 nasceu a JSConf, a primeira conferência sobre a linguagem JavaScript.  
 Fiquei tão entusiasmado na época que fiz um post sobre o evento: [https://jaydson.com/js-conf-2009/](https://jaydson.com/js-conf-2009/).  
 Eu concluo o post com a seguinte frase:  
@@ -39,7 +39,7 @@ Ideias não valem nada. Entusiasmo não vale nada. Paixão não vale de nada.
 Mesmo com a ideia na cabeça, sendo entusiasta e apaixonado, os primeiros passos foram praticamente nulos.  
 Iniciar um projeto do zero não é fácil. Eu tentei de várias maneiras.  
 Reuniões, grupo do Google Groups com algumas pessoas que se mostraram interessadas em fazer um evento de JavaScript, *smalltalk* na empresa, conversas em *chats* com pessoas da comunidade (recém engatinhando).  
-Nenhuma dessas ações resultou em algo paupável, e daí o aprendizado (o tweet é de anos depois, demorei a aprender):  
+Nenhuma dessas ações resultou em algo palpável, e daí o aprendizado (o tweet é de anos depois, demorei a aprender):  
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="pt" dir="ltr">A dica de ouro é: Tem uma ideia? Faz. Sozinho. Sem falar nada pra ninguém. Depois de algo pronto, no ar, interessados e entusiastas surgirão</p>&mdash; Jaydson Gomes (@jaydson) <a href="https://twitter.com/jaydson/status/539955218319147008?ref_src=twsrc%5Etfw">December 3, 2014</a></blockquote>
@@ -84,7 +84,7 @@ Minha resposta é: *Avoid bullshit*.
 
 <p>
 <center>
-<video width="480" height="360" ontrols autoplay loop muted playsinline><source src="/images/2017/12/bullshit.mp4" type="video/mp4">Your browser does not support the video tag or this video format. You can download the video anyway.</video>  
+<video width="480" height="360" autoplay loop muted playsinline><source src="/images/2017/12/bullshit.mp4" type="video/mp4">Your browser does not support the video tag or this video format. You can download the video anyway.</video>  
 </center>
 </p>
 
@@ -124,7 +124,7 @@ Sinceramente, alguém acredita em alguma palavra deste email enviado pelos "rob�
 
 O "leia mais" se espalhou pela internet em quase todos sites de notícias.  
 No meu ponto de vista esta prática é uma afronta aos usuários/leitores.  
-Além de ter um objetivo sórdido por trás, normalmente a implementação ténica é extremamente mal feita, causando um resultado ainda pior ao usuário.  
+Além de ter um objetivo sórdido por trás, normalmente a implementação técnica é extremamente mal feita, causando um resultado ainda pior ao usuário.  
 O "leia mais" restringe acesso direto ao conteúdo, torna a experiência maçante e deixa o seu navegador mais lento.  
 Como prática, eu normalmente fecho o site que usa desta artimanha.  
 
@@ -132,7 +132,7 @@ Como prática, eu normalmente fecho o site que usa desta artimanha.
 ![Ebook Bait](/images/2017/12/ebook-bait.jpg)  
 
 Este fenômeno do Marketing digital se alastrou como praga.  
-Em algum momento da história essa estratégia pode ter funcionado, mas atualmente o que acontece é puara malandragem.  
+Em algum momento da história essa estratégia pode ter funcionado, mas atualmente o que acontece é pura malandragem.  
 Conteúdo raso, com um *blá blá blá* que não pode nem ser considerado conteúdo e tudo isso apenas para conseguir um email válido de um possível interessado no assunto.  
 
 <p>
@@ -155,7 +155,7 @@ Para manter-se genuíno, temos que ser... genuínos, certo?
 A lista de *bulshit* segue e infelizmente é infinita.  
 GoDaddy enviando emails sobre domínios que eu não tenho, Zap me torturando com novos apartamentos que eu não quero alugar, UniRitter chamando o seu vestibular de "Vestibular Experience" e robôs falhos do Itaú respondendo clientes que já cancelaram a conta.  
 Estamos cercados por todos os tipos de *bullshit*, em todos os canais, seja na Internet, na TV, nas lojas, em eventos.  
-Seja qual for o seu nogócio, notar e fugir destes padrões pode se tornar um diferencial interessante.  
+Seja qual for o seu negócio, notar e fugir destes padrões pode se tornar um diferencial interessante.  
 
 ### Como fizemos - parte II - Dark Patterns
 Conectado e muito relacionado ao item anterior, estão os [*Dark Patterns*](https://darkpatterns.org).  
@@ -178,7 +178,7 @@ Na palestra do Brad, ele cita a [lei de Sturgeon](https://en.wikipedia.org/wiki/
 
 Essa frase/lei me atordoou um pouco e o niilista em mim cresceu ainda mais desde então.  
 Ser relevante no meio de tanta porcaria pode ser difícil, mas com dedicação e integridade é possível se destacar sem apelar para truques.  
-Creio que temos uma vantagem que se da pelo fato de que criamos um negócio no meio de algo que já faziamos parte.  
+Creio que temos uma vantagem que se da pelo fato de que criamos um negócio no meio de algo que já fazíamos parte.  
 Quando se cria algo por pura paixão o resultado orgânico é simples consequência.  
 
 Tudo que foi feito até agora, em 8 anos de BrazilJS, foi puramente baseado no que seria bom, útil e relevante para o consumidor final, que no nosso caso é o participante de um de nossos eventos, leitor de um artigo no portal, assinante da *newsletter* ou do YouTube.  
@@ -186,7 +186,7 @@ Isso é infalível e pode ser aplicado em todos os negócios? Não.
 Sofremos por conta dessa postura? Sim.  
 Negar a base de emails da BrazilJS para os patrocinadores é uma briga anual.  
 Negar palestras comerciais, perder um bom patrocínio por não atender as expectativas do patrocinador, não fechar um valor maior por fazer algo que não acreditamos, tentar de todas maneiras justificar que o participante de um evento não é apenas um número, e que tentar justificar o investimento em um evento baseando-se apenas na possível conversão de um futuro consumidor não é uma abordagem correta, tudo isso faz parte da nossa rotina.  
-Os Dark Patterns nos afetam de uma meneira ou de outra.  
+Os Dark Patterns nos afetam de uma maneira ou de outra.  
 Se os concorrentes fazem uso de alguma má-prática que pode dar algum tipo de resultado, mesmo que superficial, o mesmo nos é exigido.  
 O mercado é assim mesmo, mas cabe a nós lutar para continuar no time dos 10% e não dos 90%.  
 
@@ -236,7 +236,7 @@ Cliente 100% satisfeito!
 O Punk Rock é um bom exemplo. Diversas bandas nos anos 90 tentaram se adequar e usar técnicas comerciais e acabaram deixando de existir.  
 Os que conseguiram achar o equilíbrio, assim como o Green Day, tiveram sucesso.  
 Mas também é possível ter sucesso no *underground*, tome como exemplo minha banda preferida: [NOFX](https://en.wikipedia.org/wiki/NOFX).  
-A banda não se rendeu à industria da música, muito pelo contrário, trilhou o seu próprio caminho e após 30 anos continua na ativa com uma base de consumidores fiel.  
+A banda não se rendeu à indústria da música, muito pelo contrário, trilhou o seu próprio caminho e após 30 anos continua na ativa com uma base de consumidores fiel.  
 Mesmo sem grandes shows a banda gerou um negócio lucrativo e achou maneiras de trilhar o sucesso.  
 
 Dadas as devidas proporções, é possível achar uma simetria com o mundo da música, ao menos eu consigo ver e aplicar soluções semelhantes.  
@@ -250,16 +250,16 @@ No geral, a música está ficando cada vez pior, e novamente não sou eu que est
 Um recente estudo revelou que nos últimos anos o timbre, que é o que caracteriza a qualidade e riqueza de uma música, caiu drasticamente.  
 Desde os anos 60, as melodias e letras estão cada vez mais pobres.  
 Neste estudo foram analisadas mais de 500.000 músicas de gêneros variados de 1955 até 2010.  
-Estas músicas foram avaliadas por uma série de algoritimos, buscando avaliar 3 tipos de métricas: harmonia, timbre e sonoridade.  
+Estas músicas foram avaliadas por uma série de algoritmos, buscando avaliar 3 tipos de métricas: harmonia, timbre e sonoridade.  
 O maior pico de timbre foi encontrado nos anos 60, e vem caindo desde então.  
 Voltando aos Beatles, vejamos um exemplo. A música [*A day in the life*](https://www.youtube.com/watch?v=usNsCeOV4GM) (que é uma música pop), usou uma orquestra de 40 músicos, além é claro, de John, Paul, Ringo e George com seus respectivos instrumentos.  
-A música pop atual usa por padrão 4 elementos: teclado, uma drum-machine, samples e software, além é claro, de todas as ténicas mercadológicas, psicológicas e truques que fazem as pessoas gostarem de um conteúdo tão pobre.  
+A música pop atual usa por padrão 4 elementos: teclado, uma drum-machine, samples e software, além é claro, de todas as técnicas mercadológicas, psicológicas e truques que fazem as pessoas gostarem de um conteúdo tão pobre.  
 
 [Patrick Metzger](http://www.pmetzger.com/), um músico, compositor e cantor, descreve o fenômeno "*[The Millennial Whoop](https://thepatterning.com/2016/08/20/the-millennial-whoop-a-glorious-obsession-with-the-melodic-alternation-between-the-fifth-and-the-third/)*" em seu blog.  
 O Millennial Whoop nada mais é que a descoberta de um *Dark Pattern* na música.  
-Segundo Patrick, o fenênomeno é o seguinte:  
+Segundo Patrick, o fenômeno é o seguinte:  
 
-> É uma sequência de notas que alternam entre a quinta e a terceira nota de uma escala maior, tipicamente iniciando na quinta. O ritmo é geralmente é regular com oitavas, mas pode iniciar com um *downbeat* ou com um *upbeat* em diferentes músicas. Um(a) cantor(a) normalmente faz estas notas com um fonêma “Oh”, frequentemente em um padrão “Wa-oh-wa-oh”
+> É uma sequência de notas que alternam entre a quinta e a terceira nota de uma escala maior, tipicamente iniciando na quinta. O ritmo é geralmente é regular com oitavas, mas pode iniciar com um *downbeat* ou com um *upbeat* em diferentes músicas. Um(a) cantor(a) normalmente faz estas notas com um fonema “Oh”, frequentemente em um padrão “Wa-oh-wa-oh”
 
 Para os mais corajosos ou descrentes, segue um vídeo que comprova o fenômeno:  
 
@@ -285,14 +285,36 @@ Focar de verdade no cliente/consumidor, pensar em como a sua empresa, seu servi�
 
 O desafio para quem possui um *business* orgânico é achar o ponto de equilíbrio.  
 É claro que precisamos crescer a audiência, aumentar a receita e manter-se saudável financeiramente, mas antes disso é preciso uma reflexão e um olhar para os alicerces da empresa.  
-A fundação jamais pode ser atingida, e se para crescer for necessário mudar algo neste nível, talvez o esforço não valha a pena, e pior, o esforço pode trazer resultados negativos.  
+A fundação jamais pode ser atingida, e se para crescer for necessário mudar algo nesse nível, talvez o esforço não valha a pena, e pior, o esforço pode trazer resultados negativos.  
 
 Mas qual é a minha resposta para a pergunta "Como criar e manter um produto orgânico e genuíno de sucesso"?  
+Se os itens acima não te deram nenhum *insight*, listo abaixo possíveis dicas.  
 
 - Evite o "*bulshitismo*"  
-    - Vá direto ao ponto, sem enganação. A verdade mesmo que não sendo tão *cool* é sempre melhor
+    - Vá direto ao ponto, sem enganação. A verdade, mesmo não sendo tão *cool*, é sempre melhor
     - Não siga tendências de grandes *players* sem antes saber se isso faz sentido para o seu negócio
-    - O "U" de "UX" é de User, fazer UX pensando em como enganar o seu usuário não é legal
-    - Patamares e paradigmas estão aí para ser quebrados
-    - 
-- Evite
+    - O "U" de "UX" é de *User*, fazer UX pensando em como enganar o seu usuário não é legal
+    - Patamares e paradigmas estão aí para serem quebrados
+    - Remova as camadas desnecessárias e foque no núcleo genuíno do seu negócio
+- Não use Dark *Patterns*
+    - Busque técnicas e padrões que vão ajudar o usuário/cliente/consumidor, e não truques enganosos
+    - Seja 100% transparente
+    - O que funciona para o Google e Facebook pode não funcionar na sua empresa
+    - Copiar padrões duvidosos "de mercado" não isenta a responsabilidade de sua empresa
+    - Se o objetivo é obscuro e baseado em algum tipo de malandragem, não faça
+- Busque inspiração em outros ambientes
+    - Seja na música ou em qualquer outra área, busque inspiração em *cases* de sucesso
+    - Identifique padrões ruins e bons e tente aplicar, ou não, no seu negócio
+- Questione as técnicas tradicionais
+    - Ouça e aprenda com os mais experientes, mas questione os motivos
+    - Menos burocracia e um pouco de caos é bom
+    - Não acredite em fórmulas milagrosas (de lançamento, de sucesso, etc)
+    - O cliente nem sempre está certo
+    - Busque e invente novos modelos de negócio
+- Busque o equilíbrio
+    - Em alguns casos o orgânico pode não escalar, e em alguns casos, tudo bem não escalar
+    - Unir técnicas de mercado com o seu negócio, sem perder a genuinidade, é a melhor abordagem
+
+É isso, se tu chegou até aqui, fico muito agradecido pelo seu tempo 🙂  
+Espero ter contribuído de alguma forma para o seu negócio.  
+Fique à vontade para enviar enviar o seu *feedback* por aqui ou em qualquer outro canal.
