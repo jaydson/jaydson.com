@@ -2,7 +2,7 @@
 author = "Jaydson Gomes"
 categories = ["empreendedorismo","braziljs","palestras"]
 date = 2017-11-19T02:15:00Z
-draft = true
+draft = false
 image = "/images/2017/12/braziljs-bg.jpg"
 slug = "como-criar-e-manter-um-produto-organico-e-genuino-de-sucesso"
 tags = ["empreendedorismo", "braziljs", "palestras"]
@@ -20,6 +20,13 @@ Além disso, o texto e a palestra abordam algumas das (má) práticas exercidas 
 
 Boa leitura 🤓
 
+### Em vídeo
+Preparei um *screencast* também para deixar registrado em vídeo o conteúdo em um formato diferente.  
+Tanto vídeo, como palestra e *screencast* se complementam.  
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-Q4gSbQcAI" frameborder="0" allowfullscreen></iframe>
+</p>
 
 ### Prelude
 Em meados de 2008, eu estava trabalhando em uma agência em Porto Alegre, a AG2.  
