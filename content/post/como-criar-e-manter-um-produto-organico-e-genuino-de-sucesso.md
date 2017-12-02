@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["empreendedorismo","braziljs","palestras"]
-date = 2017-11-19T02:15:00Z
+date = 2017-12-01T00:00:00Z
 draft = false
 image = "/images/2017/12/braziljs-bg.jpg"
 slug = "como-criar-e-manter-um-produto-organico-e-genuino-de-sucesso"
