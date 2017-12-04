@@ -28,6 +28,11 @@ Tanto vídeo, como palestra e *screencast* se complementam.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c-Q4gSbQcAI" frameborder="0" allowfullscreen></iframe>
 </p>
 
+### Slides da palestra
+<p>
+<script async class="speakerdeck-embed" data-id="25b938ff09cf443d99752b96a3f365bc" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</p>
+
 ### Prelude
 Em meados de 2008, eu estava trabalhando em uma agência em Porto Alegre, a AG2.  
 Nesta época eu já fazia muito código JavaScript, em projetos paralelos e open-source, e também como *daily job* na agência.  
