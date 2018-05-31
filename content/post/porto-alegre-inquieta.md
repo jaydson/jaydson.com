@@ -11,8 +11,14 @@ tags = ["empreendedorismo","porto alegre", "eventos"]
 <br/>
 Eu nasci e cresci em [Porto Alegre](https://pt.wikipedia.org/wiki/Porto_Alegre).  
 Estudei, me formei, trabalhei, empreendi e me diverti (ainda me divirto) nessa cidade ao longo dos meus 33 anos de vida.  
-Não sei exatamente como funciona hoje, mas eu cresci amando Porto Alegre. Todos amavam. Todos se orgulhavam da cidade.  
-De fato, existe algo diferente em Porto Alegre.  
+Nos dias de hoje a realidade é um pouco diferente, mas eu cresci amando Porto Alegre. Todos amavam. Todos se orgulhavam da cidade.  
+De fato, acho que existe algo diferente em Porto Alegre.  
+Não temos belas praias, grandes monumentos, grandes pontos turísticos que sejam referência.  
+A combinação das pequenas coisas é que deve fazer com que Porto Alegre seja uma cidade legal.  
+Particularmente, adoro os bares da [Cidade Baixa](https://pt.wikipedia.org/wiki/Cidade_Baixa_(Porto_Alegre)).  
+Tem a [Redenção](https://pt.wikipedia.org/wiki/Parque_Farroupilha), o [Parcão](https://pt.wikipedia.org/wiki/Parque_Moinhos_de_Vento), o [Marinha](https://pt.wikipedia.org/wiki/Parque_Marinha_do_Brasil).  
+E claro, a [Usina do Gasômetro](https://pt.wikipedia.org/wiki/Usina_do_Gas%C3%B4metro), que inclusive está em fase de revitalização.  
+
 "Estamos na área" desde o século XVIII e atualmente já somos mais de _1,4 milhões_ de pessoas, sem contar a região metropolitana.  
 
 Nos últimos anos a cidade vem sofrendo. São inúmeros fatores que influenciam no cenário atual, fatores esses que nem tenho embasamento suficiente para escrever aqui.  
@@ -29,9 +35,22 @@ Entretanto, o que também é inegável é que existem movimentos, empresas, pess
 
 ### Porto Alegre e a economia criativa
 Até bater um papo com o [Cesar Paz](https://www.linkedin.com/in/cesar-paz-2a026b/), eu nem tinha a real noção de que as ações da minha empresa ([Nasc](https://nasc.io)/[BrazilJS](https://braziljs.org)) faziam parte da [economia criativa](https://pt.wikipedia.org/wiki/Economia_criativa) da cidade.  
-Acontece que dentre as maiores expressões desta economia se encaixam os eventos.  
+
+Sobre economia criativa:  
+
+> São atividades nas quais a criatividade e o capital intelectual são a matéria-prima para a criação, produção e distribuição de bens e serviços.  
+- John Howkins
+
+<hr/>
+
+> O que move a Economia Criativa é a criatividade e a inovação como matéria-prima, portanto, o processo de criação é tão importante quanto o produto final, ou seja, uma cadeia produtiva baseada no conhecimento e capaz de produzir riqueza, gerar empregos e distribuir renda.  
+-  Andrea Matarazzo  
+
+Dentre as maiores expressões desta economia se encaixam os eventos.  
 Só a [BrazilJS Conf](https://braziljs.org/conf), evento que realizamos há 8 anos aqui na cidade, movimenta um número enorme de pessoas. Já são mais de 10.000 participantes somando todas as edições.  
-Em 2018 esperamos 2.000 pessoas por dia no evento que acontece agora no final de Agosto.  
+Em 2018 esperamos 2.000 pessoas por dia.  
+
+Todo ano novos desafios surgem e todo ano driblamos seja qual for o problema para fazer acontecer o evento que atualmente é dos principais eventos de tecnologia do país.    
 O nosso evento específico atua em um nicho dentro da tecnologia, porém, não somos os únicos.  
 Existem inúmeros outros eventos, meetups, festivais, encontros, festas, feiras, shows, etc, que de alguma maneira se enquadram e contribuem ativamente para a economia e desenvolvimento da cidade.  
 
@@ -57,7 +76,7 @@ Queremos, dessa forma, transformar, influenciar, provocar a reflexão e, por fim
 Porto Alegre Inquieta é, em um primeiro momento, um movimento de união em busca de um bem comum.  
 Um movimento que busca transformar a cidade por meio de soluções criativas.  
 O primeiro passo já foi dado: A conexão entre as pessoas que fazem acontecer, independente dos problemas da cidade.  
-Desta conexão iniciaram-se debates importantes, se criou um manifesto e um marca.  
+Desta conexão iniciaram-se debates importantes, se criou um manifesto e uma marca.  
 O que vem por aí? Muita coisa legal!  
 Estamos mirando em 2020, mas Porto Alegre já começa a se movimentar a partir de agora.  
 
