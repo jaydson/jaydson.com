@@ -19,11 +19,11 @@ Particularmente, adoro os bares da [Cidade Baixa](https://pt.wikipedia.org/wiki/
 Tem a [Redenção](https://pt.wikipedia.org/wiki/Parque_Farroupilha), o [Parcão](https://pt.wikipedia.org/wiki/Parque_Moinhos_de_Vento), o [Marinha](https://pt.wikipedia.org/wiki/Parque_Marinha_do_Brasil).  
 E claro, a [Usina do Gasômetro](https://pt.wikipedia.org/wiki/Usina_do_Gas%C3%B4metro), que inclusive está em fase de revitalização.  
 
-"Estamos na área" desde o século XVIII e atualmente já somos mais de _1,4 milhões_ de pessoas, sem contar a região metropolitana.  
+"Estamos na área" desde o século XVIII e atualmente já somos mais de _1,4 milhão_ de pessoas, sem contar a região metropolitana.  
 
 Nos últimos anos a cidade vem sofrendo. São inúmeros fatores que influenciam no cenário atual, fatores esses que nem tenho embasamento suficiente para escrever aqui.  
 O que sei é o óbvio. O sistema está quebrado, e claro, isso não é um problema exclusivo nosso.  
-A políica vai de mal a pior, a criminalidade aumentou, o trânsito piorou, o custo de vida cresceu e aquele amor se desgastou 💔  
+A política vai de mal a pior, a criminalidade aumentou, o trânsito piorou, o custo de vida cresceu e aquele amor se desgastou 💔  
 No meu ponto de vista, Porto Alegre parou nos anos 80.  
 
 ![Porto Alegre nos anos 80](/images/2018/06/porto-alegre-anos-80.jpg)  
@@ -46,11 +46,13 @@ Sobre economia criativa:
 > O que move a Economia Criativa é a criatividade e a inovação como matéria-prima, portanto, o processo de criação é tão importante quanto o produto final, ou seja, uma cadeia produtiva baseada no conhecimento e capaz de produzir riqueza, gerar empregos e distribuir renda.  
 -  Andrea Matarazzo  
 
+Pesquisas apontam que a economia criativa gera em torno de 3% do PIB do país (informação de 2017), já o setor de eventos representa 5% (informação de 2015).  
+
 Dentre as maiores expressões desta economia se encaixam os eventos.  
 Só a [BrazilJS Conf](https://braziljs.org/conf), evento que realizamos há 8 anos aqui na cidade, movimenta um número enorme de pessoas. Já são mais de 10.000 participantes somando todas as edições.  
 Em 2018 esperamos 2.000 pessoas por dia.  
 
-Todo ano novos desafios surgem e todo ano driblamos seja qual for o problema para fazer acontecer o evento que atualmente é dos principais eventos de tecnologia do país.    
+Todo ano novos desafios surgem e todo ano driblamos seja qual for o problema para fazer acontecer o evento que atualmente é um dos principais eventos de tecnologia do país.    
 O nosso evento específico atua em um nicho dentro da tecnologia, porém, não somos os únicos.  
 Existem inúmeros outros eventos, meetups, festivais, encontros, festas, feiras, shows, etc, que de alguma maneira se enquadram e contribuem ativamente para a economia e desenvolvimento da cidade.  
 
@@ -78,7 +80,7 @@ Um movimento que busca transformar a cidade por meio de soluções criativas.
 O primeiro passo já foi dado: A conexão entre as pessoas que fazem acontecer, independente dos problemas da cidade.  
 Desta conexão iniciaram-se debates importantes, se criou um manifesto e uma marca.  
 O que vem por aí? Muita coisa legal!  
-Estamos mirando em 2020, mas Porto Alegre já começa a se movimentar a partir de agora.  
+Estamos mirando em 2020, mas a Porto Alegre começa a ficar mais inquieta a partir de agora.  
 
 Compartilharei por aqui ao longo dos meses informações sobre ações planejadas e executadas, então fiquem ligados.
 
