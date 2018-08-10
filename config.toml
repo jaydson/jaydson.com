@@ -3,7 +3,6 @@ LanguageCode= "pt-BR"
 DefaultContentLanguage = "pt-BR"
 Title= "Jaydson Gomes"
 paginate = 7
-DisqusShortname = "jaydson"
 Copyright = "Creative Commons - 2017"
 canonifyurls = true
 
@@ -16,7 +15,6 @@ canonifyurls = true
   authorwebsite = "https://jaydson.com"
   bio= "Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software, autor e editor no portal BrazilJS."
   logo = "images/2016/09/logo-jaydson-gray-1.png"
-  googleAnalyticsUserID = "UA-1264252-8"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "jaydson"

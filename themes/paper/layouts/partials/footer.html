@@ -1,0 +1,16 @@
+</main>
+<footer class="footer">
+  <span>{{ now.Year }} - {{ .Site.Title }} 🤘</span>
+</footer>
+<script>
+  function addMenuListener() {
+    var $toggle = document.querySelector('.menu-toggle');
+    var $body = document.querySelector('body');
+    $toggle.addEventListener('click', function() {
+      $body.classList.toggle('noscroll');
+    }, false);
+  }
+  addMenuListener();
+</script>
+</body>
+</html>
