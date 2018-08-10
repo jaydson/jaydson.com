@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --theme=casper"
+command = "hugo --theme=paper"
 
 [context.production.environment]
 HUGO_VERSION = "0.41"
