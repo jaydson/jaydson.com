@@ -1,4 +1,4 @@
-![Jaydson's personal website](https://cldup.com/tkzzB4YsmB-3000x3000.png)
+![Jaydson's personal website](https://cldup.com/dPihpusvs--2000x2000.png)
 # jaydson.com
 This is the source code for my personal website (https://jaydson.com/). I'm using [Hugo](https://gohugo.io) static site generator.  
 If you're interested to build your website based on mine, feel free and follow the guidelines below.  
