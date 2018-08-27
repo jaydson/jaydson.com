@@ -15,6 +15,7 @@
     {{- .Site.Title -}}
   </title>
   <!-- Meta -->
+  <meta name="theme-color" content="#fafafa">
   {{- if eq .Kind "page" }}
   <meta name="description" content="{{ .Summary }}">
   <meta name="author" content="{{ .Params.author | default .Site.Params.author }}">
