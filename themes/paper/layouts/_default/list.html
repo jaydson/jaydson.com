@@ -24,7 +24,7 @@
   <footer class="post-footer">
     <p class="post-meta">{{ .Date.Format "2006.1.2" }}</p>
   </footer>
-  <a class="post-link" href="{{ .Permalink }}"></a>
+  <a alt="{{ .Title }}" class="post-link" href="{{ .Permalink }}"></a>
 </article>
 {{ end }}
 {{ end }}
@@ -32,10 +32,10 @@
 <footer class="list-footer">
   <nav class="pagination">
     {{ if $paginator.HasPrev }}
-    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Prev Page</a>
+    <a alt="anterior" class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Prev Page</a>
     {{ end }}
     {{ if $paginator.HasNext }}
-    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Next Page →</a>
+    <a alt="próximo" class="pagination-next" href="{{ $paginator.Next.URL }}">Next Page →</a>
     {{ end }}
   </nav>
 </footer>

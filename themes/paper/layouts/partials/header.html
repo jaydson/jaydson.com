@@ -41,7 +41,7 @@
     {{ else }}
     <p class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></p>
     {{ end }}
-    <button class="menu-toggle" type="button"></button>
+    <button aria-label="Menu do site" class="menu-toggle" type="button"></button>
     <nav class="menu">
       <ul>
         {{ $currentPage := . }}
