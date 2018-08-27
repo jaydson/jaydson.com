@@ -20,7 +20,7 @@ I'm using the Casper theme, which is a "copy" of Ghost Casper theme (which I was
 If you want to use Casper, just clone it to the `themes` directory.  
 
 ```
-hugo server --theme=casper
+hugo server --theme=paper
 ```
 Navigate to `localhost:1313` and you'll probably see my personal blog locally.  
 
