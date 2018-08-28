@@ -70,3 +70,4 @@ Tenho usado bastante o Telegram, podem me adicionar por lá também.
 
 Até a próxima minha gente, não nas redes sociais, talvez por aqui, talves em um evento presencial, em um show, no bar, etc.
 
+
