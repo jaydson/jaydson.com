@@ -9,7 +9,7 @@ tags = ["social","internet"]
 title = "Social Detox/Rehab"
 +++
 
-Olá, meu nome é Jaydson Gomes e estou há **32 dias**, **13 horas**, **36 minutos** e **47 segundos** sem usar redes sociais.  
+Olá, meu nome é Jaydson Gomes e estou há **34 dias**, **10 horas**, **18 minutos** e **34 segundos** sem usar redes sociais.  
 Levando em consideração o dia da publicação deste texto e o meu último *tweet* (https://twitter.com/jaydson/status/1022602379064168448), este é o tempo que estou *clean*.  
 
 ___
