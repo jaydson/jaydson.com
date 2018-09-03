@@ -8,13 +8,13 @@ slug = "mudancas-no-blog-2018"
 tags = ["blog","pwa","web"]
 title = "Mudanças no Blog 2018"
 +++
-Em Julho de 2017 eu fiz uma mudança aqui no blog, migrei para o [Hugo](https://gohugo.io/).  
+Em julho de 2017 eu fiz uma mudança aqui no blog, migrei para o [Hugo](https://gohugo.io/).  
 Relatei tudo no post [Migrando para o Hugo](https://jaydson.com/migrando-para-o-hugo/).  
 Quase um ano depois, resolvi fazer mais algumas mudanças.  
 
 ### Design
 
-A primeira e mais relevante é uma mudança que a primeira vista parece somente estética, porém, vai muito além disso (veja nos itens posteriores).  
+A primeira e mais relevante é uma mudança que, à primeira vista, parece somente estética, porém, vai muito além disso (veja nos itens posteriores).  
 O layout do blog está bem mais *clean*.  
 A home possui apenas os últimos cinco posts, cada um sendo listado com o título e algumas linhas de introdução.  
 
@@ -46,8 +46,8 @@ Também é possível adicionar o meu blog na *homescreen* do seu smartphone.
 
 ### Adeus Disqus
 Eu usava o Disqus como ferramenta para comentários.  
-Depois de pensar um pouco e estudar alternativas, cheguei a conclusão de que o preço que se paga ao usar essas soluções não vale a pena.  
-São muitas requisições, muito *tracking* desnecessário e sinceremante, comentários na internet atualmente não me interessam.  
+Depois de pensar um pouco e estudar alternativas, cheguei à conclusão de que o preço que se paga ao usar essas soluções não vale a pena.  
+São muitas requisições, muito *tracking* desnecessário e sinceramente, comentários na internet atualmente não me interessam.  
 Quem quiser entrar em contato comigo, seja para falar sobre um post ou qualquer outro assunto, pode me mandar um email/IM.  
 Abolir o Disqus está relacionado ao meu [Social Detox/Rehab](https://jaydson.com/social-detox-rehab/).  
 
