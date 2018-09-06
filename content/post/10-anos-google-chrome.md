@@ -8,8 +8,8 @@ slug = "10-anos-google-chrome"
 tags = ["browsers","chrome"]
 title = "10 anos de Google Chrome"
 +++
-Me deparei hoje com a notícia que o Google Chrome está fazendo 10 anos.  
-Na época (2008), lembro que fiquei super animado com a [notícia](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html).  
+Me deparei hoje com a [notícia](https://www.theverge.com/2018/9/2/17811844/google-chrome-browser-10-years-history) que o Google Chrome está fazendo 10 anos.  
+Na época do lançamento (2008), lembro que fiquei super animado com a [notícia](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html).  
 Eu já trabalhava com desenvolvimento Web e o mercado era muito diferente do atual.  
 Era muito frustrante lidar com o navegador da Microsoft - o famoso e odiado Internet Explorer - que ainda era o navegador mais relevante e utilizado, com quase 70% de *market share*.  
 
