@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["blog","pwa","web"]
-date = 2018-08-13T18:38:17-03:00
+date = 2018-09-03T18:38:17-03:00
 draft = false
 image = ""
 slug = "mudancas-no-blog-2018"
