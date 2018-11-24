@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["social","internet"]
-date = 2018-08-13T18:38:17-03:00
+date = 2018-08-13T18:38:17Z
 draft = false
 image = ""
 slug = "social-detox-rehab"

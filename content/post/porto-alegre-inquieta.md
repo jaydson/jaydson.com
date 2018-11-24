@@ -1,6 +1,6 @@
 +++
 title= "Porto Alegre Inquieta"
-date= 2018-05-30T23:55:28-03:00
+date= 2018-05-30T23:55:28Z
 draft= false
 author = "Jaydson Gomes"
 categories = ["empreendedorismo","porto alegre", "eventos"]

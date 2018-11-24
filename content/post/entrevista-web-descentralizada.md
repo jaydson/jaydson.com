@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["web","dweb", "entrevistas"]
-date = 2018-10-05T08:37:17-03:00
+date = 2018-10-05T08:37:17Z
 draft = false
 image = ""
 slug = "entrevista-web-descentralizada"

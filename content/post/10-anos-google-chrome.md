@@ -1,7 +1,7 @@
 +++
 author = "Jaydson Gomes"
 categories = ["browsers","chrome"]
-date = 2018-09-05T09:00:17-03:00
+date = 2018-09-05T09:00:17Z
 draft = false
 image = ""
 slug = "10-anos-google-chrome"
