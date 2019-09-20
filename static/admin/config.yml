@@ -1,0 +1,5 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "content/images" # Media files will be stored in the repo under images/uploads
