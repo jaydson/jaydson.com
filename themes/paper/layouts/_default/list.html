@@ -2,7 +2,7 @@
 {{ if not .IsHome }}
 <header class="list-header">
   {{ if eq .Data.Singular "tag" }}<span>Tagged in</span>
-  <h1 class="list-title">{{ .Data.Term | humanize }}</h1>
+  <h1 class="list-title">{{ humanize .Data.Term }}</h1>
   {{ else }}<h1 class="list-title">Posts</h1>
   {{ end }}
 </header>
