@@ -4,6 +4,7 @@ categories = ["web","dweb", "entrevistas"]
 date = 2018-10-05T08:37:17Z
 draft = false
 image = ""
+micro = true
 slug = "entrevista-web-descentralizada"
 tags = ["web","dweb", "entrevistas"]
 title = "Entrevista Web Descentralizada"

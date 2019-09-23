@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="/css/tailwind.min.css" rel="stylesheet">
   <!-- Title -->
   <title>
     {{- if not .IsHome }}
@@ -26,7 +27,7 @@
   <!-- Styles -->
   {{ partial "css-inline.html" . }}
   <!-- Favicons -->
-  <link rel="apple-touch-icon" href="{{.Site.BaseURL}}img/apple-touch-  icon.png">
+  <link rel="apple-touch-icon" href="{{.Site.BaseURL}}img/logo-jaydson.png">
   <link rel="icon" href="/img/favicon.ico">
   <!-- Generator -->
   <meta name="generator" content="Hugo {{ .Hugo.Version }}">
@@ -35,13 +36,30 @@
   <link rel="manifest" href="/manifest.json">
 </head>
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
+
+    <nav class="flex items-center justify-between flex-wrap bg-gray-800 p-6">
+        <div class="flex items-center flex-shrink-0 text-white mr-6">
+            <a href="{{.Site.BaseURL}}">
+              <img class="logo" src="{{.Site.BaseURL}}img/logo-jaydson-white.png" alt="{{ .Site.Title }}" />
+            </a>
+          <h1 class="font-semibold text-xl tracking-tight"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></h1>
+        </div>
+        <div class="block lg:hidden">
+          <button id="bt-toggle" class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
+            <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+          </button>
+        </div>
+        <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+          <div id="menu-toggle" class="text-sm lg:flex-grow">
+              {{ $currentPage := . }}
+              {{ range .Site.Menus.main }}
+                <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="{{ .URL }}">{{ .Name }}</a>
+              {{ end }}
+          </div>
+        </div>
+      </nav>
+
   <header class="header">
-    {{ if .IsHome }}
-    <h1 class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></h1>
-    {{ else }}
-    <p class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></p>
-    {{ end }}
-    <button aria-label="Menu do site" class="menu-toggle" type="button"></button>
     <nav class="menu">
       <ul>
         {{ $currentPage := . }}

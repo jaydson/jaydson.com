@@ -3,6 +3,7 @@ author = "Jaydson Gomes"
 categories = ["braziljs","eventos", "entrevistas"]
 date = 2018-10-05T08:37:17Z
 draft = false
+micro = true
 image = ""
 slug = "entrevista-braziljs-conf-2018"
 tags = ["braziljs","eventos", "entrevistas"]

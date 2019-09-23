@@ -3,15 +3,6 @@
   <span>{{ now.Year }} - {{ .Site.Title }} 🤘</span>
 </footer>
 <script>
-  function addMenuListener() {
-    var $toggle = document.querySelector('.menu-toggle');
-    var $body = document.querySelector('body');
-    $toggle.addEventListener('click', function() {
-      $body.classList.toggle('noscroll');
-    }, false);
-  }
-  addMenuListener();
-
   if (navigator.serviceWorker.controller) {
     console.log('[PWA Builder] active service worker found, no need to register')
   } else {

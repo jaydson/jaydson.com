@@ -2,7 +2,7 @@
 {{ if not .IsHome }}
 <header class="list-header">
   {{ if eq .Data.Singular "tag" }}<span>Tagged in</span>
-  <h1 class="list-title">{{ .Data.Term }}</h1>
+  <h1 class="list-title">{{ .Data.Term | humanize }}</h1>
   {{ else }}<h1 class="list-title">Posts</h1>
   {{ end }}
 </header>
@@ -16,26 +16,48 @@
 {{ else }}
 {{ .Scratch.Set "postClass" "post-entry" }}
 {{ end }}
+
 <article class="post {{ .Scratch.Get `postClass` }}">
-  <header class="post-header">
-    <h2 class="post-title">{{ .Title }}</h2>
-  </header>
-  <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
-  <footer class="post-footer">
-    <p class="post-meta">{{ .Date.Format "2006.1.2" }}</p>
-  </footer>
-  <a alt="{{ .Title }}" class="post-link" href="{{ .Permalink }}"></a>
+    {{ if .Params.image }}
+      <img class="w-full" src="{{.Params.image}}">
+    {{ end }}
+    <div class="px-6 py-4">
+      <div class="font-bold text-xl mb-2">{{ .Title }}</div>
+      <p class="text-gray-700 text-base">
+        {{ if .Params.micro }}
+          <div class="post-content">{{ .Content }}</div>
+        {{ else }}
+        {{ .Summary | plainify | htmlUnescape }}...
+        {{ end}}
+      </p>
+      <p class="post-meta"><time>{{ .Date.Format "2/1/2006" }}</time></p>
+    </div>
+    <div class="px-6 py-4">
+        {{ if .Params.tags }}
+          {{ range .Params.tags }}
+            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
+              <a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">{{ . }}</a>
+            </span>
+          {{ end }}
+        {{ end }}
+    </div>
+    <a alt="{{ .Title }}" class="post-link" href="{{ .Permalink }}"></a>
 </article>
+
 {{ end }}
 {{ end }}
 {{ if gt $paginator.TotalPages 1 }}
 <footer class="list-footer">
   <nav class="pagination">
     {{ if $paginator.HasPrev }}
-    <a alt="anterior" class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Prev Page</a>
+      <a href="{{ $paginator.Prev.URL }}" class="pagination-prev bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
+        ← Prev Page
+      </a>
     {{ end }}
     {{ if $paginator.HasNext }}
-    <a alt="próximo" class="pagination-next" href="{{ $paginator.Next.URL }}">Next Page →</a>
+      <a href="{{ $paginator.Next.URL }}" class="pagination-next bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
+        Next Page →
+      </a>
     {{ end }}
   </nav>
 </footer>

@@ -2,9 +2,9 @@ BaseUrl= "/"
 LanguageCode= "pt-BR"
 DefaultContentLanguage = "pt-BR"
 Title= "Jaydson Gomes"
-paginate = 7
-Copyright = "Creative Commons - 2017"
+Copyright = "Creative Commons - 2019"
 canonifyurls = true
+theme = "paper"
 
 [params]
   description = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
@@ -15,6 +15,7 @@ canonifyurls = true
   authorwebsite = "https://jaydson.com"
   bio= "Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software, autor e editor no portal BrazilJS."
   logo = "images/2016/09/logo-jaydson-gray-1.png"
+  paginate = 10
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "jaydson"
@@ -35,14 +36,14 @@ canonifyurls = true
   [params.social]
     twitter = "jaydson"
 
- [[menu.main]]
-  name = "Home"
-  weight = -100
-  identifier = "home"
-  url = "/"
-
 [[menu.main]]
   name = "Palestras"
   weight = -110
   identifier = "palestras"
   url = "/palestras"
+
+[[menu.main]]
+  name = "Twiiter"
+  weight = -120
+  identifier = "twiiter"
+  url = "https://twitter.jaydson.com"

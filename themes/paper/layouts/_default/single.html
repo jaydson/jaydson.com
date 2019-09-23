@@ -6,18 +6,20 @@
     <p class="post-meta">
       {{- if or .Params.author .Site.Params.author -}}
       {{ .Params.author | default .Site.Params.author }} · {{ end }}
-      {{- .Date.Format "2006.1.2" -}}
+      <time>{{ .Date.Format "2/1/2006" }}</time>
     </p>
   </header>
   <div class="post-content">{{ .Content }}</div>
   <footer class="post-footer">
-    {{ if .Params.tags }}
-    <ul class="post-tags">
-      {{ range .Params.tags }}
-      <li><a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">{{ . }}</a></li>
-      {{ end }}
-    </ul>
-    {{ end }}
+    <div class="px-6 py-4">
+        {{ if .Params.tags }}
+          {{ range .Params.tags }}
+            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
+              <a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">{{ . }}</a>
+            </span>
+          {{ end }}
+        {{ end }}
+    </div>
   </footer>
 </article>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js" data-no-instant></script>
