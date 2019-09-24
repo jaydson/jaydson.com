@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Node.js", "Eventos"]
-date = 2010-10-11T09:09:00Z
-description = ""
-draft = false
-slug = "nodejs-devinrio-2010"
-tags = ["Node.js", "Eventos"]
-title = "Node.js DevInRio 2010"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Node.js
+- Eventos
+date: "2010-10-11T09:09:00Z"
+description: ""
+draft: false
+slug: nodejs-devinrio-2010
+tags:
+- Node.js
+- Eventos
+title: Node.js DevInRio 2010
+---
 
 Uma das palestras que rolou agora dia 09 no [DevInRio 2010](http://www.devinrio.com.br/) (do qual infelizmente não pude participar) foi **_"nodeJS - A performance que eu sempre quis ter"_**.  
 

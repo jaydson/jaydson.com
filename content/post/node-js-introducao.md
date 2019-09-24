@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Node.js"]
-date = 2010-03-30T10:23:00Z
-description = ""
-draft = false
-slug = "node-js-introducao"
-tags = ["Node.js"]
-title = "Node.js - Introdução"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Node.js
+date: "2010-03-30T10:23:00Z"
+description: ""
+draft: false
+slug: node-js-introducao
+tags:
+- Node.js
+title: Node.js - Introdução
+---
 
 Há tempos que penso em testar o [**Node.js**](http://nodejs.org/), mas só esta semana pude parar e dedicar um pouco de tempo a este obejtivo.  
 Meu intuito com este post é apenas "compilar" algumas informações sobre o node e passar adiante para aqueles que ainda não tiveram a oportunidade de conhecer.  

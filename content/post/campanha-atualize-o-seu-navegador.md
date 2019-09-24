@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers"]
-date = 2009-05-03T22:09:00Z
-description = ""
-draft = false
-slug = "campanha-atualize-o-seu-navegador"
-tags = ["Browsers"]
-title = "Campanha Atualize o seu Navegador"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+date: "2009-05-03T22:09:00Z"
+description: ""
+draft: false
+slug: campanha-atualize-o-seu-navegador
+tags:
+- Browsers
+title: Campanha Atualize o seu Navegador
+---
 
 Achei essa campanha hoje e estou compartilhando a ideia. Tudo é válido para fazer com que o IE 6 saia de circulação.  
 

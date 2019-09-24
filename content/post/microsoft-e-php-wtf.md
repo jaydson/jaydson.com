@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2010-12-28T22:36:00Z
-description = ""
-draft = false
-slug = "microsoft-e-php-wtf"
-tags = ["PHP"]
-title = "Microsoft e PHP? #WTF"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2010-12-28T22:36:00Z"
+description: ""
+draft: false
+slug: microsoft-e-php-wtf
+tags:
+- PHP
+title: 'Microsoft e PHP? #WTF'
+---
 
 Calma lá! Não vou falar mal da Microsoft não.  
 Quem me conhece nem vai ler o post por achar que vou falar mal ou algo do genêro.  

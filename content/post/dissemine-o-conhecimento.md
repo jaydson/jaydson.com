@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2010-05-06T08:00:00Z
-description = ""
-draft = false
-slug = "dissemine-o-conhecimento"
-tags = ["Off-topic"]
-title = "Dissemine o conhecimento"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2010-05-06T08:00:00Z"
+description: ""
+draft: false
+slug: dissemine-o-conhecimento
+tags:
+- Off-topic
+title: Dissemine o conhecimento
+---
 
 
 Hoje resolvi mudar um pouco o foco nesse post.

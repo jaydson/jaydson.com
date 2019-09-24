@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Node.js", "Entrevista"]
-date = 2016-05-20T22:23:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jaydson-nodejs.png"
-slug = "entrevista-sobre-node-js"
-tags = ["JavaScript", "Node.js", "Entrevista"]
-title = "Entrevista sobre Node.js"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Node.js
+- Entrevista
+date: "2016-05-20T22:23:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jaydson-nodejs.png
+slug: entrevista-sobre-node-js
+tags:
+- JavaScript
+- Node.js
+- Entrevista
+title: Entrevista sobre Node.js
+---
 
 Saiu o vídeo de uma entrevista que dei para a [KingHost](http://www.kinghost.com.br/) falando sobre o nosso amigo [Node.js](https://nodejs.org).  
 Nessa entrevista eu falo sobre alguns tópicos, como:  

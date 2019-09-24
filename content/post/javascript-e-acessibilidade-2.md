@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Acessibilidade"]
-date = 2009-09-02T10:35:00Z
-description = ""
-draft = false
-slug = "javascript-e-acessibilidade-2"
-tags = ["JavaScript", "Acessibilidade"]
-title = "JavaScript e Acessibilidade"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Acessibilidade
+date: "2009-09-02T10:35:00Z"
+description: ""
+draft: false
+slug: javascript-e-acessibilidade-2
+tags:
+- JavaScript
+- Acessibilidade
+title: JavaScript e Acessibilidade
+---
 
 ## Capítulo 1 - Uma discussão e tanto
 

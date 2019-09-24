@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2009-05-03T22:06:00Z
-description = ""
-draft = false
-slug = "ria-aplicacoes-ricas-para-internet"
-tags = ["JavaScript"]
-title = "RIA - Aplicações Ricas para Internet"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2009-05-03T22:06:00Z"
+description: ""
+draft: false
+slug: ria-aplicacoes-ricas-para-internet
+tags:
+- JavaScript
+title: RIA - Aplicações Ricas para Internet
+---
 
 Um assunto que está em alta ultimamente na área de desenvolvimento Web são as RIAS, ou aportuguesando, Aplicações Ricas para Internet.  
 Essas aplicações se assemelham as aplicações Desktop, isto é, rodam na plataforma Web, mas possuem funcionalidades semelhantes aos programas compilados.  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2009-05-03T21:34:00Z
-description = ""
-draft = false
-slug = "projeto-php-counter"
-tags = ["PHP"]
-title = "Projeto PHP Counter"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2009-05-03T21:34:00Z"
+description: ""
+draft: false
+slug: projeto-php-counter
+tags:
+- PHP
+title: Projeto PHP Counter
+---
 
 Segundo o site [http://www.phpcounter.org](http://www.phpcounter.org/) o objetivo do projeto é ser uma referência para o mercado PHP mundial, fornecendo dados estatísticos que propiciarão a análise e evolução do mercado através da atuação em conjunto com grupos de usuários, empresas e profissionais.
 

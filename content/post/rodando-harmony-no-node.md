@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "ES6", "ES2015", "Node.js"]
-date = 2014-04-15T07:48:00Z
-description = ""
-draft = false
-image = "/images/2016/09/summer_harmony-1542318.jpg"
-slug = "rodando-harmony-no-node"
-tags = ["JavaScript", "ES6", "ES2015", "Node.js"]
-title = "Rodando Harmony no Node"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- ES6
+- ES2015
+- Node.js
+date: "2014-04-15T07:48:00Z"
+description: ""
+draft: false
+image: /images/2016/09/summer_harmony-1542318.jpg
+slug: rodando-harmony-no-node
+tags:
+- JavaScript
+- ES6
+- ES2015
+- Node.js
+title: Rodando Harmony no Node
+---
 
 Nos últimos meses tenho estudado e estou fazendo alguns experimentos com [ES6](http://wiki.ecmascript.org/doku.php?id=harmony:harmony) tanto no browser quanto no [Node](http://nodejs.org/).  
 Para um dos testes, quero rodar via linha de comando um programa escrito em node.  

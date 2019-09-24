@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers"]
-date = 2011-07-22T13:14:00Z
-description = ""
-draft = false
-slug = "mozilla-browserid-sistema-de-id-descentralizado"
-tags = ["Browsers"]
-title = "Mozilla BrowserID - Sistema  de ID descentralizado"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+date: "2011-07-22T13:14:00Z"
+description: ""
+draft: false
+slug: mozilla-browserid-sistema-de-id-descentralizado
+tags:
+- Browsers
+title: Mozilla BrowserID - Sistema  de ID descentralizado
+---
 
 A Mozilla está sempre desenvolvendo coisas muito legais, e hoje, navegando no [Mozilla Hacks](http://hacks.mozilla.org) vi um post muito interessante sobre o [**BrowserID**](https://browserid.org/).  
 Segundo o site do projeto, o BrowserID fornece aos  usuários uma maneira mais segura e mais fácil de entrar nos sites que exigem algum tipo de autenticação.  

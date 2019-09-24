@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "FrontEnd", "Web"]
-date = 2013-12-03T07:30:00Z
-description = ""
-draft = false
-image = "/images/2016/09/caos-sublime-1.jpg"
-slug = "processo-de-desenvolvimento-frontend-do-caos-ao-sublime"
-tags = ["JavaScript", "FrontEnd", "Web"]
-title = "Processo de Desenvolvimento FrontEnd - Do caos ao Sublime"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- FrontEnd
+- Web
+date: "2013-12-03T07:30:00Z"
+description: ""
+draft: false
+image: /images/2016/09/caos-sublime-1.jpg
+slug: processo-de-desenvolvimento-frontend-do-caos-ao-sublime
+tags:
+- JavaScript
+- FrontEnd
+- Web
+title: Processo de Desenvolvimento FrontEnd - Do caos ao Sublime
+---
 
 Nos últimos meses tive a oportunidade de apresentar uma palestra nova em 4 eventos.  
 A palestra, apesar do nome contraditório, não fala sobre o Sublime Text, mas sim sobre o processo de desenvolvimento FrontEnd.  

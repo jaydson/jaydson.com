@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Eventos"]
-date = 2013-03-13T08:21:00Z
-description = ""
-draft = false
-image = "/images/2016/09/riojs.png"
-slug = "riojs-2013"
-tags = ["JavaScript", "Eventos"]
-title = "RioJS 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Eventos
+date: "2013-03-13T08:21:00Z"
+description: ""
+draft: false
+image: /images/2016/09/riojs.png
+slug: riojs-2013
+tags:
+- JavaScript
+- Eventos
+title: RioJS 2013
+---
 
 Dia 09 de Março rolou o [RioJS](http://riojs.org/), a conferência carioca de JavaScript.  
 Palestrei por lá, falando obviamente de JavaScript.  

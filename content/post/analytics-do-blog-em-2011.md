@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2012-02-05T06:40:00Z
-description = ""
-draft = false
-slug = "analytics-do-blog-em-2011"
-tags = ["JavaScript"]
-title = "Analytics do Blog em 2011"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2012-02-05T06:40:00Z"
+description: ""
+draft: false
+slug: analytics-do-blog-em-2011
+tags:
+- JavaScript
+title: Analytics do Blog em 2011
+---
 
 No começo de 2011 fiz um [post](http://jaydson.com/analytics-do-blog-2010/) com os dados de acesso do Blog do ano anterior (2010).
 Como primeiro post deste ano de 2012, vou seguir com a mesma ideia: Divulgar os dados de acesso de 2011.

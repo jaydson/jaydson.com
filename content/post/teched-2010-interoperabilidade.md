@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "Eventos"]
-date = 2010-10-03T07:54:00Z
-description = ""
-draft = false
-slug = "teched-2010-interoperabilidade"
-tags = ["PHP", "Eventos"]
-title = "Teched 2010 - Interoperabilidade"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- Eventos
+date: "2010-10-03T07:54:00Z"
+description: ""
+draft: false
+slug: teched-2010-interoperabilidade
+tags:
+- PHP
+- Eventos
+title: Teched 2010 - Interoperabilidade
+---
 
 Demorei pra escrever sobre o evento, mas antes tarde do que nunca.
 

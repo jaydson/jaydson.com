@@ -1,13 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["empreendedorismo","devaneios"]
-date = 2017-11-06T03:48:00Z
-draft = false
-image = "/images/2017/11/inbound-mkt.jpg"
-slug = "pensamentos-sobre-inbound-marketing"
-tags = ["empreendedorismo", "devaneios"]
-title = "Pensamentos sobre Inbound Marketing"
-+++
+---
+author: Jaydson Gomes
+categories:
+- empreendedorismo
+- devaneios
+date: "2017-11-06T03:48:00Z"
+draft: false
+image: /images/2017/11/inbound-mkt.jpg
+slug: pensamentos-sobre-inbound-marketing
+tags:
+- empreendedorismo
+- devaneios
+title: Pensamentos sobre Inbound Marketing
+---
 **DISCLAIMER 1**: Talvez este nem seja o nome correto para a técnica  
 **DISCLAIMER 2**: Meu conhecimento das técnicas ortodoxas e não ortodoxas de Marketing beiram o *undefined*  
 **DISCLAIMER 3**: Este post é baseado na minha visão niilista do mercado e de uma [pesquisa](https://twitter.com/jaydson/status/927508189704318977) feita no meu perfil pessoal no [Twitter](https://twitter.com/jaydson) e [Facebook](https://fb.com/jaydson)  

@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "JSON"]
-date = 2009-05-04T21:03:00Z
-description = ""
-draft = false
-slug = "json"
-tags = ["JavaScript", "JSON"]
-title = "JSON"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- JSON
+date: "2009-05-04T21:03:00Z"
+description: ""
+draft: false
+slug: json
+tags:
+- JavaScript
+- JSON
+title: JSON
+---
 
 Bom, eu até já tinha ouvido falar do tal do [JSON](http://json.org), mas nunca havia parado pra estuda-lo e ver o seu funcionamento.  
 Após ir em uma entrevista de emprego, onde os entrevistadores comentaram a respeito do JSON, eu fiquei mais curioso sobre o assunto.  

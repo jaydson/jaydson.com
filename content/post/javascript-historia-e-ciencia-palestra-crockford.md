@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2011-11-17T12:41:00Z
-description = ""
-draft = false
-image = "/images/2016/09/9593745025_8ceedd6861.jpg"
-slug = "javascript-historia-e-ciencia-palestra-crockford"
-tags = ["JavaScript"]
-title = "JavaScript, História e Ciência - Palestra Crockford"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2011-11-17T12:41:00Z"
+description: ""
+draft: false
+image: /images/2016/09/9593745025_8ceedd6861.jpg
+slug: javascript-historia-e-ciencia-palestra-crockford
+tags:
+- JavaScript
+title: JavaScript, História e Ciência - Palestra Crockford
+---
 
 Ontem parei para assistir mais uma palestra do [Douglas Crockford](http://www.crockford.com/).  
 Já falei aqui que o cara é amado e odiado na comunidade JavaScript, e creio que existe muito mito em torno disso.  

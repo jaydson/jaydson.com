@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2011-06-30T02:20:00Z
-description = ""
-draft = false
-slug = "kactoos-puzzle"
-tags = ["PHP"]
-title = "Kactoos Puzzle"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2011-06-30T02:20:00Z"
+description: ""
+draft: false
+slug: kactoos-puzzle
+tags:
+- PHP
+title: Kactoos Puzzle
+---
 
 Fiz um demo simples de App utiliazando a [API da Kactoos](http://api.kactoos.com/docs).
 Utilizei a [library de abstração da API](http://jaydson.com/kactoos-api) que fiz para criar essa App.

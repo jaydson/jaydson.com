@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind"]
-date = 2010-02-16T08:21:00Z
-description = ""
-draft = false
-slug = "criando-um-sistema-de-tarefas-com-o-thewebmind"
-tags = ["PHP", "TheWebMind"]
-title = "Criando um sistema de tarefas com o TheWebMind"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+date: "2010-02-16T08:21:00Z"
+description: ""
+draft: false
+slug: criando-um-sistema-de-tarefas-com-o-thewebmind
+tags:
+- PHP
+- TheWebMind
+title: Criando um sistema de tarefas com o TheWebMind
+---
 
 
 Hoje começo uma série de posts onde pretendo mostrar o poder do TheWebMind para criação de uma Aplicação.

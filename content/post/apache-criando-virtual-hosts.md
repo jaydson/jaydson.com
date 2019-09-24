@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Apache"]
-date = 2010-09-08T08:35:00Z
-description = ""
-draft = false
-slug = "apache-criando-virtual-hosts"
-tags = ["Apache"]
-title = "Apache - Criando Virtual Hosts"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Apache
+date: "2010-09-08T08:35:00Z"
+description: ""
+draft: false
+slug: apache-criando-virtual-hosts
+tags:
+- Apache
+title: Apache - Criando Virtual Hosts
+---
 
 Segundo a [documentação do Apache](http://httpd.apache.org/docs/1.3/vhosts/), o conceito de **Virtual Host** refere-se à prática de manter mais de um  servidor em uma máquina, diferenciados pelos seus nomes.  
 Não vou me deter a falar sobre configurações em servidores de produção, mas sim em ambiente de desenvolvimento mesmo.  

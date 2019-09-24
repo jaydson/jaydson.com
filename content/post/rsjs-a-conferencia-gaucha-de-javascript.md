@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "Eventos", "JavaScript"]
-date = 2012-02-16T22:30:00Z
-description = ""
-draft = false
-slug = "rsjs-a-conferencia-gaucha-de-javascript"
-tags = ["RSJS", "Eventos", "JavaScript"]
-title = "RSJS - A conferência Gaúcha de JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- Eventos
+- JavaScript
+date: "2012-02-16T22:30:00Z"
+description: ""
+draft: false
+slug: rsjs-a-conferencia-gaucha-de-javascript
+tags:
+- RSJS
+- Eventos
+- JavaScript
+title: RSJS - A conferência Gaúcha de JavaScript
+---
 
 Chegou a hora da conferência gaúcha de JavaScript.  
 Depois de várias iniciativas em todo o Brasil como o [SampaJS](http://www.sampajs.com/), [BeagaJS](http://bhjs.com.br/), [RioJS](http://riojs.org/), agora em março teremos o [RSJS](http://rsjs.org).  

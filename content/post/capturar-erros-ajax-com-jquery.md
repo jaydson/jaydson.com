@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Ajax", "jQuery"]
-date = 2009-09-15T09:15:00Z
-description = ""
-draft = false
-slug = "capturar-erros-ajax-com-jquery"
-tags = ["JavaScript", "Ajax", "jQuery"]
-title = "Capturar erros Ajax com jQuery"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Ajax
+- jQuery
+date: "2009-09-15T09:15:00Z"
+description: ""
+draft: false
+slug: capturar-erros-ajax-com-jquery
+tags:
+- JavaScript
+- Ajax
+- jQuery
+title: Capturar erros Ajax com jQuery
+---
 
 Capturar erros Ajax é mais uma tarefa que o jQuery nos da uma boa ajuda.  
 O que quero dizer com isso é que a biblioteca nos fornece uma série de informações úteis que as vezes passam desapercebidas pelos desenvolvedores.  

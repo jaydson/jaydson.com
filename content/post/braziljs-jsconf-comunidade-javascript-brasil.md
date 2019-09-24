@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "BrazilJS", "FrontEnd", "Eventos"]
-date = 2013-04-14T16:53:00Z
-description = ""
-draft = false
-image = "/images/2016/09/community.jpg"
-slug = "braziljs-jsconf-comunidade-javascript-brasil"
-tags = ["JavaScript", "BrazilJS", "FrontEnd", "Eventos"]
-title = "BrazilJS, JSConf, e a comunidade JavaScript no Brasil"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- BrazilJS
+- FrontEnd
+- Eventos
+date: "2013-04-14T16:53:00Z"
+description: ""
+draft: false
+image: /images/2016/09/community.jpg
+slug: braziljs-jsconf-comunidade-javascript-brasil
+tags:
+- JavaScript
+- BrazilJS
+- FrontEnd
+- Eventos
+title: BrazilJS, JSConf, e a comunidade JavaScript no Brasil
+---
 
 Resolvi fazer este post para explicar e contar, para quem ainda não sabe, a história por trás da BrazilJS, e a minha visão sobre comunidade JavaScript no Brasil.  
 A grosso modo, podemos dividir a história da comunidade JavaScript no Brasil em "Antes do BrazilJS" e "Depois do BrazilJS".  

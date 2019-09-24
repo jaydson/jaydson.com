@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Apache"]
-date = 2010-09-07T08:46:00Z
-description = ""
-draft = false
-slug = "habilitar-mod_rewrite-no-apache"
-tags = ["Apache"]
-title = "Habilitar mod_rewrite no Apache"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Apache
+date: "2010-09-07T08:46:00Z"
+description: ""
+draft: false
+slug: habilitar-mod_rewrite-no-apache
+tags:
+- Apache
+title: Habilitar mod_rewrite no Apache
+---
 
 Uma coisa que sempre faço, mas sempre esqueço como fazer é habilitar o [mod_rewrite](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html) do Apache.  
 Para quem não conhece, esse é um módulo do Apache que utiliza um mecanismo baseado em regras de reescrita (baseadas em um parser de expressões regulares).  

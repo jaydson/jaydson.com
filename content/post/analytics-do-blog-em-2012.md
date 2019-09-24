@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Analytics"]
-date = 2013-01-02T12:57:00Z
-description = ""
-draft = false
-image = "/images/2016/09/analytics-1.gif"
-slug = "analytics-do-blog-em-2012"
-tags = ["Off-topic", "Analytics"]
-title = "Analytics do Blog em 2012"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Analytics
+date: "2013-01-02T12:57:00Z"
+description: ""
+draft: false
+image: /images/2016/09/analytics-1.gif
+slug: analytics-do-blog-em-2012
+tags:
+- Off-topic
+- Analytics
+title: Analytics do Blog em 2012
+---
 
 Como de costume, gosto de compartilhar os dados do Analytics do meu Blog ano após ano.  
 Veja em 2010: [http://www.jaydson.com/analytics-do-blog-2010/](http://jaydson.com/analytics-do-blog-2010/)  

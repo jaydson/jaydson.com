@@ -1,13 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["browsers","chrome"]
-date = 2018-09-05T09:00:17Z
-draft = false
-image = "/images/2018/09/chrome-10-anos.jpg"
-slug = "10-anos-google-chrome"
-tags = ["browsers","chrome"]
-title = "10 anos de Google Chrome"
-+++
+---
+author: Jaydson Gomes
+categories:
+- browsers
+- chrome
+date: "2018-09-05T09:00:17Z"
+draft: false
+image: /images/2018/09/chrome-10-anos.jpg
+slug: 10-anos-google-chrome
+tags:
+- browsers
+- chrome
+title: 10 anos de Google Chrome
+---
 Me deparei hoje com a [notícia](https://www.theverge.com/2018/9/2/17811844/google-chrome-browser-10-years-history) que o Google Chrome está fazendo 10 anos.  
 Na época do lançamento (2008), lembro que fiquei super animado com a [notícia](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html).  
 Eu já trabalhava com desenvolvimento Web e o mercado era muito diferente do atual.  

@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Devaneios"]
-date = 2013-12-03T07:04:00Z
-description = ""
-draft = false
-image = "/images/2016/09/prata-da-casa.jpg"
-slug = "valorize-a-prata-da-casa"
-tags = ["Off-topic", "Devaneios"]
-title = "Valorize a prata da casa"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Devaneios
+date: "2013-12-03T07:04:00Z"
+description: ""
+draft: false
+image: /images/2016/09/prata-da-casa.jpg
+slug: valorize-a-prata-da-casa
+tags:
+- Off-topic
+- Devaneios
+title: Valorize a prata da casa
+---
 
 Há tempos quero escrever sobre este assunto, que é algo que realmente me incomoda:  
 _A falta de valorização da prata da casa._  

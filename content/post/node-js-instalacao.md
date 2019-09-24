@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Node.js"]
-date = 2010-03-31T09:20:00Z
-description = ""
-draft = false
-slug = "node-js-instalacao"
-tags = ["Node.js"]
-title = "Node.js - Instalação"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Node.js
+date: "2010-03-31T09:20:00Z"
+description: ""
+draft: false
+slug: node-js-instalacao
+tags:
+- Node.js
+title: Node.js - Instalação
+---
 
 Como comentado no post anterior, agora o objetivo é fazer um passo a passo para instalação do nodeJS em seu ambiente.  
 Em teoria o node suporta todos os sistemas operacionais [POSIX](http://pt.wikipedia.org/wiki/POSIX) inclusive o Windows, mas segundo o site oficial, no momento o node está sendo testado no Linux, Mac e Solaris.  

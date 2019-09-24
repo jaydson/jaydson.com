@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript", "Palestras"]
-date = 2011-07-11T23:20:00Z
-description = ""
-draft = false
-slug = "javascript-levado-a-serio-fisl-12-video-parte-1"
-tags = ["Eventos", "JavaScript", "Palestras"]
-title = "JavaScript levado a sério FISL 12 Vídeo parte 1"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+- Palestras
+date: "2011-07-11T23:20:00Z"
+description: ""
+draft: false
+slug: javascript-levado-a-serio-fisl-12-video-parte-1
+tags:
+- Eventos
+- JavaScript
+- Palestras
+title: JavaScript levado a sério FISL 12 Vídeo parte 1
+---
 
 Como escrevi no [último post](/javascript-levado-a-serio-fisl-12), palestrei este ano no [FISL 12](http://softwarelivre.org/fisl12).  
 Normalmente os vídeo das palestras do FISL demoram para sair, e desta vez acho que não vai ser diferente.  

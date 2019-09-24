@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["AppCache", "HTML5", "JavaScript"]
-date = 2011-11-03T20:25:00Z
-description = ""
-draft = false
-slug = "html5-appcache-cache-control-no-store"
-tags = ["AppCache", "HTML5", "JavaScript"]
-title = "HTML5 AppCache - Cache-Control: no-store"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- AppCache
+- HTML5
+- JavaScript
+date: "2011-11-03T20:25:00Z"
+description: ""
+draft: false
+slug: html5-appcache-cache-control-no-store
+tags:
+- AppCache
+- HTML5
+- JavaScript
+title: 'HTML5 AppCache - Cache-Control: no-store'
+---
 
 No[ meu último post](http://jaydson.com/html5-application-cache), falei sobre como tudo no [HTML5](http://www.w3.org/TR/html5/) é legal, e especificamente sobre o [Application Cache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html).  
 O legal de trabalhar com HTML5 é que tudo é muito novo.  

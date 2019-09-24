@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2009-05-04T20:52:00Z
-description = ""
-draft = false
-slug = "richblocks-um-framework-para-implantar-interfaces-ria-em-sistemas-web"
-tags = ["JavaScript"]
-title = "RichBlocks - Um Framework Para Implantar Interfaces RIA em Sistemas Web"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2009-05-04T20:52:00Z"
+description: ""
+draft: false
+slug: richblocks-um-framework-para-implantar-interfaces-ria-em-sistemas-web
+tags:
+- JavaScript
+title: RichBlocks - Um Framework Para Implantar Interfaces RIA em Sistemas Web
+---
 
 
 _[UPDATE - Maio 2013]_  

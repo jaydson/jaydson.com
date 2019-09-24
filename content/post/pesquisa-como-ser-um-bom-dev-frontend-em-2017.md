@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "FrontEnd"]
-date = 2016-11-26T03:30:00Z
-description = ""
-draft = false
-image = "/images/2016/11/como-ser-um-bom-dev-frontend-em-2017.png"
-slug = "pesquisa-como-ser-um-bom-dev-frontend-em-2017"
-tags = ["JavaScript", "FrontEnd"]
-title = "Pesquisa - Como ser um bom dev FrontEnd em 2017?"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- FrontEnd
+date: "2016-11-26T03:30:00Z"
+description: ""
+draft: false
+image: /images/2016/11/como-ser-um-bom-dev-frontend-em-2017.png
+slug: pesquisa-como-ser-um-bom-dev-frontend-em-2017
+tags:
+- JavaScript
+- FrontEnd
+title: Pesquisa - Como ser um bom dev FrontEnd em 2017?
+---
 
 Na preparação da minha nova palestra intitulada "Como ser um bom dev FrontEnd em 2017", além da tradicional pesquisa de conteúdo, fiz uma pesquisa com amigos/profissionais renomados que trabalham na área e que admiro muito.  
 O objetivo da pesquisa era encontrar um denominador comum que sirva de base para novatos ou, até mesmo, devs mais experientes.  

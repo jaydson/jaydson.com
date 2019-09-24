@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Linux"]
-date = 2017-10-08T02:15:00Z
-draft = false
-image = "/images/2017/10/jaydson-why-linux.jpg"
-slug = "por-que-uso-linux"
-tags = ["Linux"]
-title = "Por que uso Linux?"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Linux
+date: "2017-10-08T02:15:00Z"
+draft: false
+image: /images/2017/10/jaydson-why-linux.jpg
+slug: por-que-uso-linux
+tags:
+- Linux
+title: Por que uso Linux?
+---
 Mas Jaydson, por que tu usa Linux?  
 
 Esta é uma pergunta que normalmente me fazem online, no trabalho ou em eventos que participo.  

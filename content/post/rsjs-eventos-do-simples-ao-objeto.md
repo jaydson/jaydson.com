@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "JavaScript", "Eventos"]
-date = 2012-03-14T21:41:00Z
-description = ""
-draft = false
-slug = "rsjs-eventos-do-simples-ao-objeto"
-tags = ["RSJS", "JavaScript", "Eventos"]
-title = "RSJS - Eventos: do simples ao objeto"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- JavaScript
+- Eventos
+date: "2012-03-14T21:41:00Z"
+description: ""
+draft: false
+slug: rsjs-eventos-do-simples-ao-objeto
+tags:
+- RSJS
+- JavaScript
+- Eventos
+title: 'RSJS - Eventos: do simples ao objeto'
+---
 
 Seguindo com os vídeos do [RSJS](http://rsjs.org), agora é a vez da palestra do [Jean Emer](http://twitter.com/#!/jcemer).  
 O Jean falou 50 minutos sobre eventos, e prendeu a atenção de todos.  

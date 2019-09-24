@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Analytics"]
-date = 2014-01-06T08:20:00Z
-description = ""
-draft = false
-image = "/images/2016/09/22698329527_fb5a82e3e2_b.jpg"
-slug = "analytics-do-blog-em-2013"
-tags = ["Off-topic", "Analytics"]
-title = "Analytics do Blog em 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Analytics
+date: "2014-01-06T08:20:00Z"
+description: ""
+draft: false
+image: /images/2016/09/22698329527_fb5a82e3e2_b.jpg
+slug: analytics-do-blog-em-2013
+tags:
+- Off-topic
+- Analytics
+title: Analytics do Blog em 2013
+---
 
 Como de costume, gosto de compartilhar os dados do Analytics do Blog.  
 Venho fazendo isso desde 2010, e é legal ver como as coisas evoluem, mudam, etc.  

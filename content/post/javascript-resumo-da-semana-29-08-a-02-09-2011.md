@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["HTML5", "JavaScript"]
-date = 2011-09-02T22:44:00Z
-description = ""
-draft = false
-slug = "javascript-resumo-da-semana-29-08-a-02-09-2011"
-tags = ["HTML5", "JavaScript"]
-title = "JavaScript - Resumo da semana 29/08 a 02/09/2011"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- HTML5
+- JavaScript
+date: "2011-09-02T22:44:00Z"
+description: ""
+draft: false
+slug: javascript-resumo-da-semana-29-08-a-02-09-2011
+tags:
+- HTML5
+- JavaScript
+title: JavaScript - Resumo da semana 29/08 a 02/09/2011
+---
 
 Essa semana reuni muita coisa, fiz um filtro no que achei mais interessante.  
 Dentre o que escolhi temos Games, DOM, Performance, Libs, Node, HTML5 e mais algumas coisas.  

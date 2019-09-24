@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Analytics"]
-date = 2010-12-31T21:56:00Z
-description = ""
-draft = false
-slug = "analytics-do-blog-2010"
-tags = ["Off-topic", "Analytics"]
-title = "Analytics do Blog 2010"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Analytics
+date: "2010-12-31T21:56:00Z"
+description: ""
+draft: false
+slug: analytics-do-blog-2010
+tags:
+- Off-topic
+- Analytics
+title: Analytics do Blog 2010
+---
 
 Resolvi compartilhar os dados de acesso do meu Blog nesse ano de 2010.
 Foram mais ou menos **30 Posts** que consegui fazer durante o ano, o que da uma média de **2.5 Posts por mês**.

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2010-09-06T07:23:00Z
-description = ""
-draft = false
-slug = "php-teste-unitario-com-phpunit"
-tags = ["PHP"]
-title = "PHP - Teste Unitário com PHPUnit"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2010-09-06T07:23:00Z"
+description: ""
+draft: false
+slug: php-teste-unitario-com-phpunit
+tags:
+- PHP
+title: PHP - Teste Unitário com PHPUnit
+---
 
 Seguindo a ideia do [último post](/php-debugando-aplicacoes-com-xdebug-e-netbeans/), onde falei sobre o equívoco de alguns em achar que PHP não é uma linguagem para sistemas robustos, vou falar brevemente sobre o PHPUnit.
 Teste unitário não é nem questão de ferramenta e sim do próprio programador, ou da política da empresa onde se trabalha.

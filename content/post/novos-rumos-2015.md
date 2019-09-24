@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2015-08-12T10:31:00Z
-description = ""
-draft = false
-image = "/images/2016/09/novos-rumos-2015.jpg"
-slug = "novos-rumos-2015"
-tags = ["Off-topic"]
-title = "Novos rumos 2015"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2015-08-12T10:31:00Z"
+description: ""
+draft: false
+image: /images/2016/09/novos-rumos-2015.jpg
+slug: novos-rumos-2015
+tags:
+- Off-topic
+title: Novos rumos 2015
+---
 
 Em 2011, ano da [primeira BrazilJS](http://jaydson.com/brazil-js-2011-epicwin/), eu comecei a trabalhar no Portal Terra.  
 Inclusive, fiz um post com título semelhante: [Novos rumos 2011](http://jaydson.com/novos-rumos-2011/).  

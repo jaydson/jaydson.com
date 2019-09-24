@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "jQuery"]
-date = 2010-10-08T09:33:00Z
-description = ""
-draft = false
-slug = "jquery-preloader"
-tags = ["JavaScript", "jQuery"]
-title = "jQuery Preloader"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- jQuery
+date: "2010-10-08T09:33:00Z"
+description: ""
+draft: false
+slug: jquery-preloader
+tags:
+- JavaScript
+- jQuery
+title: jQuery Preloader
+---
 
 Uma boa prática a ser aplicada em sites ou aplicações web é o _preload_ de imagens.
 Isso já existe a muito tempo, e existem várias implementações feitas em torno desta prática.

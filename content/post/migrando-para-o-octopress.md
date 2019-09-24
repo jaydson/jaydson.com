@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2013-01-09T20:13:00Z
-description = ""
-draft = false
-image = "/images/2016/09/octopress.png"
-slug = "migrando-para-o-octopress"
-tags = ["Off-topic"]
-title = "Migrando para o Octopress"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2013-01-09T20:13:00Z"
+description: ""
+draft: false
+image: /images/2016/09/octopress.png
+slug: migrando-para-o-octopress
+tags:
+- Off-topic
+title: Migrando para o Octopress
+---
 
 Hoje publiquei a primeira versão do novo Blog.  
 Entre as principais mudanças, está a plataforma.  

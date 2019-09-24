@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["CSS3"]
-date = 2012-03-08T00:10:00Z
-description = ""
-draft = false
-slug = "cubo-3d-com-css3"
-tags = ["CSS3"]
-title = "Cubo 3D com CSS3"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- CSS3
+date: "2012-03-08T00:10:00Z"
+description: ""
+draft: false
+slug: cubo-3d-com-css3
+tags:
+- CSS3
+title: Cubo 3D com CSS3
+---
 
 Neste mês de Março, o [Mozilla Dev Derby](https://developer.mozilla.org/en-US/demos/devderby) tem como desafio desenvolver demos de CSS3 3D.  
 Pra quem não conhece o Dev Derby, é uma competição promovida pela Mozilla para que desenvolvedores do mundo inteiro façam aplicações com novas tecnologias.  

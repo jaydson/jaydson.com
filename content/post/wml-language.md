@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind"]
-date = 2009-11-19T09:04:00Z
-description = ""
-draft = false
-slug = "wml-language"
-tags = ["PHP", "TheWebMind"]
-title = "WML language"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+date: "2009-11-19T09:04:00Z"
+description: ""
+draft: false
+slug: wml-language
+tags:
+- PHP
+- TheWebMind
+title: WML language
+---
 
 Hoje vou falar um pouco sobre a [WML](http://docs.thewebmind.org/index.php?title=Web-Mind-Language), a linguagem que o [TheWebMind](http://thewebmind.org) interpreta.
 A Web-Mind-Language(WML) é uma linguagem baseada no conceito NLP([Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing)), que é um campo da ciência da computação que se preocupa com a interação entre linguagens de computadores e humanas(naturais).  

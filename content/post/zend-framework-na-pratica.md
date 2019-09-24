@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2011-05-30T19:47:00Z
-description = ""
-draft = false
-slug = "zend-framework-na-pratica"
-tags = ["PHP"]
-title = "Zend Framework na prática"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2011-05-30T19:47:00Z"
+description: ""
+draft: false
+slug: zend-framework-na-pratica
+tags:
+- PHP
+title: Zend Framework na prática
+---
 
 E aí galera. Hoje venho falar de uma iniciativa muito legal do amigo [Elton Minetto](http://twitter.com/#!/eminetto).
 O cara simplesmente tem mais de 10 anos de experiência com PHP, ou seja, manja muito.

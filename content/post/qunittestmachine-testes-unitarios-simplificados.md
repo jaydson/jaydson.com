@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Qunit"]
-date = 2010-11-08T08:03:00Z
-description = ""
-draft = false
-slug = "qunittestmachine-testes-unitarios-simplificados"
-tags = ["JavaScript", "Qunit"]
-title = "QunitTestMachine - Testes unitários simplificados"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Qunit
+date: "2010-11-08T08:03:00Z"
+description: ""
+draft: false
+slug: qunittestmachine-testes-unitarios-simplificados
+tags:
+- JavaScript
+- Qunit
+title: QunitTestMachine - Testes unitários simplificados
+---
 
 Existem [várias bibliotecas para fazer teste unitário](http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript) em código Javascript, eu acabei escolhendo o [QUnit](http://docs.jquery.com/Qunit) como padrão em meus testes.
 O  QUnit é um test suite poderoso e simples de usar. O próprio é usado para testar o código do jQuery e seus plugins oficiais, mas claro, com ele é possível testar qualquer código Javasript genérico, ou seja,  suas bibliotecas.

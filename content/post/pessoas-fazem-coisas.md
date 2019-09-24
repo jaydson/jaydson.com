@@ -1,12 +1,11 @@
-+++
-author = "Jaydson Gomes"
-date = 2016-09-27T20:06:43Z
-description = ""
-draft = true
-slug = "pessoas-fazem-coisas"
-title = "Pessoas fazem coisas"
-
-+++
+---
+author: Jaydson Gomes
+date: "2016-09-27T20:06:43Z"
+description: ""
+draft: true
+slug: pessoas-fazem-coisas
+title: Pessoas fazem coisas
+---
 
 Pessoas são a chave do sucesso de uma empresa, e também são a chave para o sucesso de outras pessoas.  
 O que quero dizer é que as pessoas é que fazem toda a diferença.  

@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Devaneios"]
-date = 2014-09-10T10:14:00Z
-description = ""
-draft = false
-image = "/images/2016/09/falacia-nao-ter-tempo.jpg"
-slug = "a-falacia-do-nao-ter-tempo"
-tags = ["Off-topic", "Devaneios"]
-title = "A falácia do não ter tempo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Devaneios
+date: "2014-09-10T10:14:00Z"
+description: ""
+draft: false
+image: /images/2016/09/falacia-nao-ter-tempo.jpg
+slug: a-falacia-do-nao-ter-tempo
+tags:
+- Off-topic
+- Devaneios
+title: A falácia do não ter tempo
+---
 
 Não caia nessa armadilha cômoda de dizer que não tem tempo pra nada.  
 Exemplos:  

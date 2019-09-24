@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2010-09-05T11:13:00Z
-description = ""
-draft = false
-slug = "php-debugando-aplicacoes-com-xdebug-e-netbeans"
-tags = ["PHP"]
-title = "PHP - Debugando Aplicações com Xdebug e NetBeans"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2010-09-05T11:13:00Z"
+description: ""
+draft: false
+slug: php-debugando-aplicacoes-com-xdebug-e-netbeans
+tags:
+- PHP
+title: PHP - Debugando Aplicações com Xdebug e NetBeans
+---
 
 Um grande equívoco de vários programadores que utilizam outras linguagens(C#, Java, etc.) que não PHP, é achar que quem desenvolve em PHP não possui as ferramentas necessárias para desenvolver sistemas robustos, com rapidez e qualidade.  
 Tenho tido a oportunidade de trabalhar com .NET, além de PHP, e vejo que os programadores são muito dependentes de suas ferramentas. Não sou contra, bem pelo contrário, elas realmente ajudam muito.  

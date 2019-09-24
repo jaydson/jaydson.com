@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Web", "WebAssembly", "Wasm", "JavaScript"]
-date = 2015-06-23T11:23:00Z
-description = ""
-draft = false
-image = "/images/2016/09/webassembly.jpg"
-slug = "webassembly-e-o-futuro-da-web"
-tags = ["Web", "WebAssembly", "Wasm", "JavaScript"]
-title = "WebAssembly e o futuro da Web"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Web
+- WebAssembly
+- Wasm
+- JavaScript
+date: "2015-06-23T11:23:00Z"
+description: ""
+draft: false
+image: /images/2016/09/webassembly.jpg
+slug: webassembly-e-o-futuro-da-web
+tags:
+- Web
+- WebAssembly
+- Wasm
+- JavaScript
+title: WebAssembly e o futuro da Web
+---
 
 ## O "wasm"
 Na última semana, [Brendan Eich](https://brendaneich.com), o criador do [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [anunciou](https://brendaneich.com/2015/06/from-asm-js-to-webassembly) o [WebAssembly](https://github.com/WebAssembly).  

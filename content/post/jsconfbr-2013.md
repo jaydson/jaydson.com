@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript"]
-date = 2013-06-24T01:30:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jsconf-br-2013.jpg"
-slug = "jsconfbr-2013"
-tags = ["Eventos", "JavaScript"]
-title = "JSConfBR 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+date: "2013-06-24T01:30:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jsconf-br-2013.jpg
+slug: jsconfbr-2013
+tags:
+- Eventos
+- JavaScript
+title: JSConfBR 2013
+---
 
 No último dia 22 de Junho, rolou em Fortaleza, a primeira edição da [JSConf Brasil](http://jsconfbr.org).  
 O evento contou com a presença de vários nomes conhecidos da comunidade [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), inclusive, [Brendan Eich](https://brendaneich.com/).  

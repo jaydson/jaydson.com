@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "HTML5", "FrontEnd", "Eventos"]
-date = 2013-03-24T06:44:00Z
-description = ""
-draft = false
-image = "/images/2016/09/rsjs-2013.jpg"
-slug = "rsjs-2013-resumo"
-tags = ["JavaScript", "HTML5", "FrontEnd", "Eventos"]
-title = "RSJS 2013 - Resumo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- HTML5
+- FrontEnd
+- Eventos
+date: "2013-03-24T06:44:00Z"
+description: ""
+draft: false
+image: /images/2016/09/rsjs-2013.jpg
+slug: rsjs-2013-resumo
+tags:
+- JavaScript
+- HTML5
+- FrontEnd
+- Eventos
+title: RSJS 2013 - Resumo
+---
 
 E mais um evento regional de front-end foi realizado no Brasil.  
 Desta vez foi o [RSJS](http://rsjs.org), evento da qual sou orgazidor, juntamente com o [Felipe Moura](http://twitter.com/felipenmoura).  

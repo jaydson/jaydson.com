@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2009-06-03T04:50:00Z
-description = ""
-draft = false
-slug = "php-sc-conf-2009-resumo"
-tags = ["PHP"]
-title = "PHP SC Conf 2009 - Resumo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2009-06-03T04:50:00Z"
+description: ""
+draft: false
+slug: php-sc-conf-2009-resumo
+tags:
+- PHP
+title: PHP SC Conf 2009 - Resumo
+---
 
 Várias palestras interessantes no [#PHP SC Conf ](http://www.phpsc.com.br/pt/)deste ano.
 A palestra que abriu o evento foi do projeto [theWebMind](http://thewebmind.org), cujo qual sou mebro e que vocês já devem conhecer.

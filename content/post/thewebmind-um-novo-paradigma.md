@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind", "Palestras"]
-date = 2009-11-16T07:12:00Z
-description = ""
-draft = false
-slug = "thewebmind-um-novo-paradigma"
-tags = ["PHP", "TheWebMind", "Palestras"]
-title = "TheWebMind - Um novo paradigma"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+- Palestras
+date: "2009-11-16T07:12:00Z"
+description: ""
+draft: false
+slug: thewebmind-um-novo-paradigma
+tags:
+- PHP
+- TheWebMind
+- Palestras
+title: TheWebMind - Um novo paradigma
+---
 
 Como todos sabem, neste último sábado palestramos sobre o projeto [TheWebMind](http://thewebmind.org/) no [Tche Linux 2009](http://www.tchelinux.org/2009/portoalegre/).
 A palestra explica o funcionamento da plataforma Mind, assim como a sintaxe da linguagem entre todas outras funcionalidades.

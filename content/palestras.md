@@ -1,13 +1,12 @@
-+++
-author = "Jaydson Gomes"
-date = 2016-10-07T07:17:31Z
-description = ""
-draft = false
-image = "/images/2016/10/jaydson-talk-1.jpg"
-slug = "palestras"
-title = "Palestras"
-
-+++
+---
+author: Jaydson Gomes
+date: "2016-10-07T07:17:31Z"
+description: ""
+draft: false
+image: /images/2016/10/jaydson-talk-1.jpg
+slug: palestras
+title: Palestras
+---
 
 Eu adoro palestrar! É algo realmente gratificante compartilhar o conhecimento e em algumas vezes ter o poder de mudar o caminho de algumas pessoas.  
 Já faço palestras há mais 8 anos e nunca sinto vontade de parar.  

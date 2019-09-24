@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript", "Palestras"]
-date = 2011-07-02T22:58:00Z
-description = ""
-draft = false
-slug = "javascript-levado-a-serio-fisl-12"
-tags = ["Eventos", "JavaScript", "Palestras"]
-title = "JavaScript levado a sério FISL 12"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+- Palestras
+date: "2011-07-02T22:58:00Z"
+description: ""
+draft: false
+slug: javascript-levado-a-serio-fisl-12
+tags:
+- Eventos
+- JavaScript
+- Palestras
+title: JavaScript levado a sério FISL 12
+---
 
 Pela primeira vez tive a honra de palestrar no [#FISL, o maior evento de Software Livre da América Latina](http://softwarelivre.org/fisl12).  
 Minha palestra foi sobre [JavaScript](https://developer.mozilla.org/en/javascript) , um assunto que falo com frequência aqui no Blog.  

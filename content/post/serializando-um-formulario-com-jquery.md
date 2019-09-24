@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["jQuery", "JavaScript"]
-date = 2009-06-15T06:47:00Z
-description = ""
-draft = false
-slug = "serializando-um-formulario-com-jquery"
-tags = ["jQuery", "JavaScript"]
-title = "Serializando um formulário com jQuery"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- jQuery
+- JavaScript
+date: "2009-06-15T06:47:00Z"
+description: ""
+draft: false
+slug: serializando-um-formulario-com-jquery
+tags:
+- jQuery
+- JavaScript
+title: Serializando um formulário com jQuery
+---
 
 Buenas pessoal!
 

@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Devaneios", "JavaScript", "Software"]
-date = 2016-10-06T17:47:00Z
-description = ""
-draft = false
-image = "/images/2016/10/javascript-2016-1.jpg"
-slug = "como-e-ser-um-bom-desenvolvedor-em-2016"
-tags = ["Devaneios", "JavaScript", "Software"]
-title = "Como é ser um bom desenvolvedor em 2016"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Devaneios
+- JavaScript
+- Software
+date: "2016-10-06T17:47:00Z"
+description: ""
+draft: false
+image: /images/2016/10/javascript-2016-1.jpg
+slug: como-e-ser-um-bom-desenvolvedor-em-2016
+tags:
+- Devaneios
+- JavaScript
+- Software
+title: Como é ser um bom desenvolvedor em 2016
+---
 
 Circulou nesta semana [mais um artigo](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.r5c5nznev) que aborda o "pseudo-caos" em que se encontra o ecossistema **JavaScript** e **FrontEnd** nos dias atuais.  
 Não foi a [primeira](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.2ujgvno70), [segunda](https://medium.com/@matthiasak/state-of-the-union-js-d664bdbffd14#.blipsvapc), terceira, e nem será a última vez que veremos um artigo como esse. Na minha opinião, isso não é de todo ruim.  

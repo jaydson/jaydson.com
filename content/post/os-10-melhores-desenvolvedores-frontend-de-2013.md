@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "FrontEnd"]
-date = 2014-04-01T03:28:00Z
-description = ""
-draft = false
-image = "/images/2016/09/zeno_rocha.jpg"
-slug = "os-10-melhores-desenvolvedores-frontend-de-2013"
-tags = ["JavaScript", "FrontEnd"]
-title = "Os 10 melhores desenvolvedores FrontEnd de 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- FrontEnd
+date: "2014-04-01T03:28:00Z"
+description: ""
+draft: false
+image: /images/2016/09/zeno_rocha.jpg
+slug: os-10-melhores-desenvolvedores-frontend-de-2013
+tags:
+- JavaScript
+- FrontEnd
+title: Os 10 melhores desenvolvedores FrontEnd de 2013
+---
 
 O [iMasters](http://imasters.com.br) fez um trabalho bem bacana, engajando a comunidade a escolher os principais destaques das comunidades de desenvolvimento do Brasil.  
 Falando especificamente da lista de FrontEnd, me senti honrado em estar entre os top 10, juntamente com amigos e profissionais que admiro.  

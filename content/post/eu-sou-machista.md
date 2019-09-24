@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Devaneios", "Feminismo"]
-date = 2016-10-28T03:16:31Z
-description = ""
-draft = true
-image = "/images/2016/10/14444594_1172832682796668_7871468016824235310_o-3.jpg"
-slug = "eu-sou-machista"
-tags = ["Devaneios", "Feminismo"]
-title = "Eu sou machista"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Devaneios
+- Feminismo
+date: "2016-10-28T03:16:31Z"
+description: ""
+draft: true
+image: /images/2016/10/14444594_1172832682796668_7871468016824235310_o-3.jpg
+slug: eu-sou-machista
+tags:
+- Devaneios
+- Feminismo
+title: Eu sou machista
+---
 
 Não adianta negar. Eu sou **machista**.  
 Meus amigos homens são todos **machistas**.  

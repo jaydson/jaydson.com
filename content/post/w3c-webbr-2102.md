@@ -1,14 +1,23 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "HTML5", "JavaScript", "Node.js", "Palestras"]
-date = 2012-10-21T01:59:00Z
-description = ""
-draft = false
-slug = "w3c-webbr-2102"
-tags = ["Eventos", "HTML5", "JavaScript", "Node.js", "Palestras"]
-title = "W3C webbr 2102"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- HTML5
+- JavaScript
+- Node.js
+- Palestras
+date: "2012-10-21T01:59:00Z"
+description: ""
+draft: false
+slug: w3c-webbr-2102
+tags:
+- Eventos
+- HTML5
+- JavaScript
+- Node.js
+- Palestras
+title: W3C webbr 2102
+---
 
 Cá estou quase no fim do evento sentado em um puff, descansando após um ótimo almoço com uma galera muito massa.
 A [conferência da W3C ](http://conferenciaweb.w3c.br/)foi excelente. Muito networking, palestras muito boas, boa comida, e a sensação de que estamos fazendo parte de um futuro promissor.

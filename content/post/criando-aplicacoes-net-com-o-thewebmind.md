@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "Eventos"]
-date = 2010-10-04T00:31:00Z
-description = ""
-draft = false
-slug = "criando-aplicacoes-net-com-o-thewebmind"
-tags = ["PHP", "Eventos"]
-title = "Criando Aplicaçoes .NET com o TheWebMind"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- Eventos
+date: "2010-10-04T00:31:00Z"
+description: ""
+draft: false
+slug: criando-aplicacoes-net-com-o-thewebmind
+tags:
+- PHP
+- Eventos
+title: Criando Aplicaçoes .NET com o TheWebMind
+---
 
 Como mencionado no último post, tive a oportunidade de palestrar no TechEd deste ano, juntamente com o Filipe Pamplona.
 Abaixo segue uma breve descrição da palestra e os slides apresentados.

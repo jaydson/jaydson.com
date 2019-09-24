@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Browsers", "JSON"]
-date = 2009-07-13T05:04:00Z
-description = ""
-draft = false
-slug = "json-nativo-firefox-3-5"
-tags = ["JavaScript", "Browsers", "JSON"]
-title = "JSON nativo Firefox 3.5"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Browsers
+- JSON
+date: "2009-07-13T05:04:00Z"
+description: ""
+draft: false
+slug: json-nativo-firefox-3-5
+tags:
+- JavaScript
+- Browsers
+- JSON
+title: JSON nativo Firefox 3.5
+---
 
 Muita coisa nova e útil para nós desenvolvedores no Firefox 3.5.  
 Novo motor Javascript, suporte HTML 5 entre várias outras. [Acessem aqui ](https://developer.mozilla.org/En/Firefox_3.5_for_developers)caso ainda não tenham visto(deveriam caso sejam desenvolvedores).  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2012-09-26T07:12:00Z
-description = ""
-draft = false
-slug = "javascript-o-guia-definitivo"
-tags = ["JavaScript"]
-title = "JavaScript: O Guia definitivo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2012-09-26T07:12:00Z"
+description: ""
+draft: false
+slug: javascript-o-guia-definitivo
+tags:
+- JavaScript
+title: 'JavaScript: O Guia definitivo'
+---
 
 Oi pessoal, hoje vim fazer a divulgação de um livro essencial para todos nós desenvolvedores frontend.
 **[JavaScript: O Guia Definitivo](http://www.grupoa.com.br/site/exatas-sociais-e-aplicadas/2/71/75/7348/7349/0/javascript.aspx)**

@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "HTML5", "Eventos", "FrontEnd"]
-date = 2013-09-15T15:51:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jesus-hell-html5.jpg"
-slug = "frontinsampa-2013-inferno-lea-html5"
-tags = ["JavaScript", "HTML5", "Eventos", "FrontEnd"]
-title = "FrontInSampa 2013 - Inferno, Lea Verou e HTML5"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- HTML5
+- Eventos
+- FrontEnd
+date: "2013-09-15T15:51:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jesus-hell-html5.jpg
+slug: frontinsampa-2013-inferno-lea-html5
+tags:
+- JavaScript
+- HTML5
+- Eventos
+- FrontEnd
+title: FrontInSampa 2013 - Inferno, Lea Verou e HTML5
+---
 
 ## Fui ao iferno e voltei. 
 Neste último sábado (14/09/2013) rolou em São Paulo o FrontInSampa.  

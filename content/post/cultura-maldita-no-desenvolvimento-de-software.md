@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Devaneios"]
-date = 2013-03-30T16:58:00Z
-description = ""
-draft = false
-image = "/images/2016/09/cultura-maldita.jpg"
-slug = "cultura-maldita-no-desenvolvimento-de-software"
-tags = ["JavaScript", "Devaneios"]
-title = "Cultura maldita no desenvolvimento de software"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Devaneios
+date: "2013-03-30T16:58:00Z"
+description: ""
+draft: false
+image: /images/2016/09/cultura-maldita.jpg
+slug: cultura-maldita-no-desenvolvimento-de-software
+tags:
+- JavaScript
+- Devaneios
+title: Cultura maldita no desenvolvimento de software
+---
 
 A cultura maldita no desenvolvimento de software é um fenômeno natural que atinge todas as empresas, que de uma maneira ou de outra, desenvolvem algum tipo de software.  
 Sisteminhas, grandes portais, aplicações gigantescas, sites de padaria, enfim, todo e qualquer tipo de software está sujeito a ser desenvolvido baseado na ***cultura maldita***.  

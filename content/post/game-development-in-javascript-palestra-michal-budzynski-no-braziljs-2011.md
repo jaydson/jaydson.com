@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos"]
-date = 2012-03-09T22:44:00Z
-description = ""
-draft = false
-slug = "game-development-in-javascript-palestra-michal-budzynski-no-braziljs-2011"
-tags = ["BrazilJS", "Eventos"]
-title = "Game Development in Javascript - Palestra Michal Budzynski no BrazilJS 2011"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+date: "2012-03-09T22:44:00Z"
+description: ""
+draft: false
+slug: game-development-in-javascript-palestra-michal-budzynski-no-braziljs-2011
+tags:
+- BrazilJS
+- Eventos
+title: Game Development in Javascript - Palestra Michal Budzynski no BrazilJS 2011
+---
 
 Demorou, mas saiu mais um vídeo do [BrazilJS](http://braziljs.com.br) 2011.  
 Estou postando aqui porque esta palestra fechou o BrazilJS 2011 com chave de ouro, e muitos me perguntaram quando o vídeo estaria disponível.  

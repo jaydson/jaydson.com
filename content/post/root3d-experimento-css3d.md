@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["CSS3"]
-date = 2012-03-08T13:06:00Z
-description = ""
-draft = false
-slug = "root3d-experimento-css3d"
-tags = ["CSS3"]
-title = "Root3D - experimento CSS3D"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- CSS3
+date: "2012-03-08T13:06:00Z"
+description: ""
+draft: false
+slug: root3d-experimento-css3d
+tags:
+- CSS3
+title: Root3D - experimento CSS3D
+---
 
 Para quem viu e gostou do meu humilde [cubo 3D feito com CSS3](http://jaydson.com/cubo-3d-com-css3/), vai simplesmente achar íncrivel o mais novo projeto que o [Felipe N. Moura](http://felipenmoura.org) está desenvolvendo.  
 Trata-se de um experimento, e digo experimento porque isso ainda é muito novo, onde é possível criar elementos 3D em um ambiente todo desenvolvido com CSS3.  

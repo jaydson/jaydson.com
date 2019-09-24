@@ -1,13 +1,19 @@
-+++
-title= "Porto Alegre Inquieta"
-date= 2018-05-30T23:55:28Z
-draft= false
-author = "Jaydson Gomes"
-categories = ["empreendedorismo","porto alegre", "eventos"]
-image = "/images/2018/06/poa-inquieta.jpeg"
-slug = "porto-alegre-inquieta"
-tags = ["empreendedorismo","porto alegre", "eventos"]
-+++
+---
+author: Jaydson Gomes
+categories:
+- empreendedorismo
+- porto alegre
+- eventos
+date: "2018-05-30T23:55:28Z"
+draft: false
+image: /images/2018/06/poa-inquieta.jpeg
+slug: porto-alegre-inquieta
+tags:
+- empreendedorismo
+- porto alegre
+- eventos
+title: Porto Alegre Inquieta
+---
 <br/>
 Eu nasci e cresci em [Porto Alegre](https://pt.wikipedia.org/wiki/Porto_Alegre).  
 Estudei, me formei, trabalhei, empreendi e me diverti (ainda me divirto) nessa cidade ao longo dos meus 33 anos de vida.  

@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "JavaScript", "FrontEnd", "Off-topic"]
-date = 2012-12-29T10:01:00Z
-description = ""
-draft = false
-image = "/images/2016/09/retrospectiva.jpg"
-slug = "retrospectiva-2012"
-tags = ["BrazilJS", "JavaScript", "FrontEnd", "Off-topic"]
-title = "Retrospectiva 2012"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- JavaScript
+- FrontEnd
+- Off-topic
+date: "2012-12-29T10:01:00Z"
+description: ""
+draft: false
+image: /images/2016/09/retrospectiva.jpg
+slug: retrospectiva-2012
+tags:
+- BrazilJS
+- JavaScript
+- FrontEnd
+- Off-topic
+title: Retrospectiva 2012
+---
 
 Pessoalmente, 2012 foi um ano excelente.  
 Trabalhar no [Terra](http://terra.com.br) é uma experiência única. Nestes quase 2 anos que estou lá, aprendi muito com muita gente boa.  

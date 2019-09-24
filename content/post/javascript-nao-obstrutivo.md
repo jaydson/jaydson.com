@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "JavaScript", "Eventos"]
-date = 2012-03-14T12:00:00Z
-description = ""
-draft = false
-slug = "javascript-nao-obstrutivo"
-tags = ["RSJS", "JavaScript", "Eventos"]
-title = "JavaScript não obstrutivo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- JavaScript
+- Eventos
+date: "2012-03-14T12:00:00Z"
+description: ""
+draft: false
+slug: javascript-nao-obstrutivo
+tags:
+- RSJS
+- JavaScript
+- Eventos
+title: JavaScript não obstrutivo
+---
 
 O paraquedista, amigo e diretor da Gri.fo, também palestrou no RSJS. 
 A palestra dele foi bem descontraída, com várias analogias interessantes.  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers"]
-date = 2009-07-15T05:52:00Z
-description = ""
-draft = false
-slug = "avaliacao-firefox-3-5"
-tags = ["Browsers"]
-title = "Avaliação Firefox 3.5"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+date: "2009-07-15T05:52:00Z"
+description: ""
+draft: false
+slug: avaliacao-firefox-3-5
+tags:
+- Browsers
+title: Avaliação Firefox 3.5
+---
 
 Para complementar o último post que falei sobre o [suporte nativo ao JSON no Firefox 3.5](/json-nativo-firefox-3-5/) resolvi compartilhar uma pequena e resumida avaliação que fiz  na Agência onde trabalho.
 Vamos lá:  

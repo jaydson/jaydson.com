@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["SVN", "GIT"]
-date = 2013-12-02T09:06:00Z
-description = ""
-draft = false
-image = "/images/2016/09/migrando-svn-git.jpg"
-slug = "migrando-do-svn-para-o-git"
-tags = ["SVN", "GIT"]
-title = "Migrando do SVN para o GIT"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- SVN
+- GIT
+date: "2013-12-02T09:06:00Z"
+description: ""
+draft: false
+image: /images/2016/09/migrando-svn-git.jpg
+slug: migrando-do-svn-para-o-git
+tags:
+- SVN
+- GIT
+title: Migrando do SVN para o GIT
+---
 
 Nem preciso falar das vantangens do GIT em relação ao SVN né, mas vou deixar registrado o que fiz para migrar um repositório gigantesco(600MB de arquivos estáticos) do SVN para o GIT.  
 O processo em si na empresa foi bem delicado e trabalhoso, mas vou focar neste post apenas na parte técnica que visa fazer a migração.  

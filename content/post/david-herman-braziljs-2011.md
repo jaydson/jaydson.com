@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "BrazilJS", "Eventos"]
-date = 2011-06-24T19:31:00Z
-description = ""
-draft = false
-slug = "david-herman-braziljs-2011"
-tags = ["JavaScript", "BrazilJS", "Eventos"]
-title = "David Herman - BrazilJS 2011"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- BrazilJS
+- Eventos
+date: "2011-06-24T19:31:00Z"
+description: ""
+draft: false
+slug: david-herman-braziljs-2011
+tags:
+- JavaScript
+- BrazilJS
+- Eventos
+title: David Herman - BrazilJS 2011
+---
 
 Aí galera, saiu o primeiro video do [BrazilJS](http://braziljs.com.br) 2011.
 A palestra do [David Herman](http://twitter.com/#!/littlecalculist) da Mozilla foi show de bola.

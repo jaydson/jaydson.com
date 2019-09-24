@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2016-10-17T20:19:30Z
-description = ""
-draft = true
-image = "/images/2016/10/ruinas.jpg"
-slug = "a-mediocridade-corporativa-que-leva-a-decadencia"
-tags = ["Off-topic"]
-title = "A mediocridade corporativa que leva à decadência"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2016-10-17T20:19:30Z"
+description: ""
+draft: true
+image: /images/2016/10/ruinas.jpg
+slug: a-mediocridade-corporativa-que-leva-a-decadencia
+tags:
+- Off-topic
+title: A mediocridade corporativa que leva à decadência
+---
 
 Hoje pela manhã, indo para a [minha empresa](https://nasc.io), passei na frente de uma grande corporação, na qual trabalhei no passado.  
 Boas lembranças passaram pela minha cabeça, como coisas técnicas legais que aprendi e boas amizades que nasceram e ainda perduram desta experiência.  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2009-11-09T08:45:00Z
-description = ""
-draft = false
-slug = "extreme-javascript-performance"
-tags = ["JavaScript"]
-title = "Extreme JavaScript Performance"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2009-11-09T08:45:00Z"
+description: ""
+draft: false
+slug: extreme-javascript-performance
+tags:
+- JavaScript
+title: Extreme JavaScript Performance
+---
 
 Acabei de ler aqui os slides do [Thomas Fuchs](http://mir.aculo.us/), que para quem não conhece,  é um dos Gurus do Javascript.
 O Thomas além de ser o criador da biblioteca [Script.aculo.us ](http://script.aculo.us/)é membro do core da bilbioteca [Prototype](http://www.prototypejs.org/), e semana passa anunciou o [Scripty2.](http://scripty2.com/)

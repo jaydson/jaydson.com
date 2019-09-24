@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["CSS3", "HTML5", "JavaScript"]
-date = 2012-03-17T13:06:00Z
-description = ""
-draft = false
-slug = "experimento-css3-3d-the-wall-explosion"
-tags = ["CSS3", "HTML5", "JavaScript"]
-title = "Experimento CSS3 3D - The Wall Explosion"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- CSS3
+- HTML5
+- JavaScript
+date: "2012-03-17T13:06:00Z"
+description: ""
+draft: false
+slug: experimento-css3-3d-the-wall-explosion
+tags:
+- CSS3
+- HTML5
+- JavaScript
+title: Experimento CSS3 3D - The Wall Explosion
+---
 
 Depois de assistir pela terceira vez a [palestra sobre CSS3](http://jaydson.com/rsjs-animacoes-com-css3/) do [Felipe N. Moura](http://twitter.com/felipenmoura), e ter agumas aulas do próprio, me empolguei com [CSS3](https://developer.mozilla.org/en/CSS/CSS3), principalmente com a possibilidade 3D.  
 Coincidentemente, neste mês de Março, o [Mozilla Dev Derby](https://developer.mozilla.org/pt-BR/demos/devderby) é sobre CSS3 3D.  

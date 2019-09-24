@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "jQuery"]
-date = 2009-07-23T06:20:00Z
-description = ""
-draft = false
-slug = "jquery-marcar-desmarcar-checkboxes"
-tags = ["JavaScript", "jQuery"]
-title = "jQuery Marcar / Desmarcar CheckBoxes"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- jQuery
+date: "2009-07-23T06:20:00Z"
+description: ""
+draft: false
+slug: jquery-marcar-desmarcar-checkboxes
+tags:
+- JavaScript
+- jQuery
+title: jQuery Marcar / Desmarcar CheckBoxes
+---
 
 Sabem quando temos uma lista bem grande de inputs do tipo checkbox, onde o usuário terá de selecionar quais são as opções desejadas?  
 

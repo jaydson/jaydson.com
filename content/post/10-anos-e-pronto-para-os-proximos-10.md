@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Web", "Devaneios"]
-date = 2014-01-17T07:33:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jaydson-curso-tecnico.jpg"
-slug = "10-anos-e-pronto-para-os-proximos-10"
-tags = ["Off-topic", "Web", "Devaneios"]
-title = "10 anos e pronto para os próximos 10"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Web
+- Devaneios
+date: "2014-01-17T07:33:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jaydson-curso-tecnico.jpg
+slug: 10-anos-e-pronto-para-os-proximos-10
+tags:
+- Off-topic
+- Web
+- Devaneios
+title: 10 anos e pronto para os próximos 10
+---
 
 2014 é o ano que considero o meu décimo ano como profissional de tecnologia.  
 Abaixo vou contar um pouco da minha trajetória, e o que penso sobre o que passou e sobre o que vem pela frente.  

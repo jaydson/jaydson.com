@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "JavaScript", "Eventos"]
-date = 2012-03-14T21:39:00Z
-description = ""
-draft = false
-slug = "extreme-web-performance"
-tags = ["RSJS", "JavaScript", "Eventos"]
-title = "Extreme Web Performance"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- JavaScript
+- Eventos
+date: "2012-03-14T21:39:00Z"
+description: ""
+draft: false
+slug: extreme-web-performance
+tags:
+- RSJS
+- JavaScript
+- Eventos
+title: Extreme Web Performance
+---
 
 Buenas, saiu o vídeo da minha palestra no [#RSJS](http://rsjs.org) \o/  
 Como o nome diz, falei sobre performance Web. Basicamente transmiti tudo que aprendi durante 6 meses de trabalho em um projeto de performance no [Terra](http://www.terra.com.br), onde conseguimos reduzir em 60% o carregamento da home.  

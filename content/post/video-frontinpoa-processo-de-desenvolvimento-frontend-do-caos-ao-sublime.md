@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Eventos", "FrontEnd", "Palestras"]
-date = 2013-12-19T04:42:00Z
-description = ""
-draft = false
-image = "/images/2016/09/caos-sublime.jpg"
-slug = "video-frontinpoa-processo-de-desenvolvimento-frontend-do-caos-ao-sublime"
-tags = ["JavaScript", "Eventos", "FrontEnd", "Palestras"]
-title = "Video FrontInPoa - Processo de Desenvolvimento FrontEnd - Do caos ao Sublime"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Eventos
+- FrontEnd
+- Palestras
+date: "2013-12-19T04:42:00Z"
+description: ""
+draft: false
+image: /images/2016/09/caos-sublime.jpg
+slug: video-frontinpoa-processo-de-desenvolvimento-frontend-do-caos-ao-sublime
+tags:
+- JavaScript
+- Eventos
+- FrontEnd
+- Palestras
+title: Video FrontInPoa - Processo de Desenvolvimento FrontEnd - Do caos ao Sublime
+---
 
 Minha última palestra do ano foi no FrontInPoa.  
 Para quem não pode comparecer, segue abaixo o vídeo da palestra:  

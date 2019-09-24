@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript"]
-date = 2009-07-01T05:38:00Z
-description = ""
-draft = false
-slug = "js-conf-2009"
-tags = ["Eventos", "JavaScript"]
-title = "JavaScript Conference 2009"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+date: "2009-07-01T05:38:00Z"
+description: ""
+draft: false
+slug: js-conf-2009
+tags:
+- Eventos
+- JavaScript
+title: JavaScript Conference 2009
+---
 
 Para quem não sabe, este ano aconteceu a primeira Javascript Conference 2009.  
 Eu, por ser amante desta linguagem resolvi postar aqui o que aconteceu por lá.  

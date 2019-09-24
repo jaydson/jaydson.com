@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos", "JavaScript"]
-date = 2011-05-16T20:44:00Z
-description = ""
-draft = false
-slug = "brazil-js-2011-epicwin"
-tags = ["BrazilJS", "Eventos", "JavaScript"]
-title = "Brazil JS 2011 #EpicWin"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+- JavaScript
+date: "2011-05-16T20:44:00Z"
+description: ""
+draft: false
+slug: brazil-js-2011-epicwin
+tags:
+- BrazilJS
+- Eventos
+- JavaScript
+title: 'Brazil JS 2011 #EpicWin'
+---
 
 Bom galera, aconteceu.  
 Um projeto que venho [planejando há tempos,](/braziljs-primeira-conferencia-brasileira-de-javascript) juntamente com o [Felipe N Moura](http://felipenmoura.org), finalmente saiu do papel.  

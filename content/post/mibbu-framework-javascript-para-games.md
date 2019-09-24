@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "HTML5", "Games"]
-date = 2011-05-23T12:00:00Z
-description = ""
-draft = false
-slug = "mibbu-framework-javascript-para-games"
-tags = ["JavaScript", "HTML5", "Games"]
-title = "Mibbu - Framework Javascript para Games"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- HTML5
+- Games
+date: "2011-05-23T12:00:00Z"
+description: ""
+draft: false
+slug: mibbu-framework-javascript-para-games
+tags:
+- JavaScript
+- HTML5
+- Games
+title: Mibbu - Framework Javascript para Games
+---
 
 Tive o prazer de conhecer pessoalmente o [Michal Budzynski ](http://michalbe.blogspot.com/)no [BrazilJS](http://jaydson.com/brazil-js-2011-epicwin).  
 Dentre tantas excelentes palestras, a do Michal realmente abriu a mente de muitas pessoas.  

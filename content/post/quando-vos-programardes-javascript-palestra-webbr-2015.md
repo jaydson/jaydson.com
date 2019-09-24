@@ -1,15 +1,24 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "ES6", "ES2015", "Eventos", "Palestras"]
-date = 2015-12-01T04:10:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jaydson-palestra-webbr-2015.png"
-slug = "quando-vos-programardes-javascript-palestra-webbr-2015"
-tags = ["JavaScript", "ES6", "ES2015", "Eventos", "Palestras"]
-title = "Quando vós programardes JavaScript - Palestra Webbr 2015"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- ES6
+- ES2015
+- Eventos
+- Palestras
+date: "2015-12-01T04:10:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jaydson-palestra-webbr-2015.png
+slug: quando-vos-programardes-javascript-palestra-webbr-2015
+tags:
+- JavaScript
+- ES6
+- ES2015
+- Eventos
+- Palestras
+title: Quando vós programardes JavaScript - Palestra Webbr 2015
+---
 
 Em Setembro de 2015 aconteceu a 7º edição da [Webbr](http://conferenciaweb.w3c.br/), a principal conferência da [W3C](http://www.w3c.br/Home/WebHome) no Brasil.  
 Novamente tive a oportunidade de ser um dos palestrantes nesse evento super importante para a comunidade de desenvolvimento brasileira.  

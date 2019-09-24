@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Node.js", "JavaScript", "REST", "API"]
-date = 2015-05-28T04:30:00Z
-description = ""
-draft = false
-image = "/images/2016/09/11452731896_84aa56358f_o.jpg"
-slug = "apis-rest-em-1-minuto"
-tags = ["Node.js", "JavaScript", "REST", "API"]
-title = "APIs REST em 1 minuto"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Node.js
+- JavaScript
+- REST
+- API
+date: "2015-05-28T04:30:00Z"
+description: ""
+draft: false
+image: /images/2016/09/11452731896_84aa56358f_o.jpg
+slug: apis-rest-em-1-minuto
+tags:
+- Node.js
+- JavaScript
+- REST
+- API
+title: APIs REST em 1 minuto
+---
 
 No último [RSJS](http://rsjs.org) tive a oportunidade de assistir a palestra ["Ligthweight APIs with HarvesterJS"](http://dclucas.github.io/prez-harvesterjs) do meu ex-professor [Diogo Lucas](https://twitter.com/diogoclucas).  
 Em poucos minutos de palestra eu já consegui identificar várias aplicações que fiz no passado, que poderiam ser totalmente reescritas de uma maneira muito mais simples com o [HarvesterJS](https://github.com/agco/harvesterjs).  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2010-08-12T06:07:00Z
-description = ""
-draft = false
-slug = "zend-registerautoload-is-deprecated"
-tags = ["PHP"]
-title = "Zend - registerAutoload is deprecated"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2010-08-12T06:07:00Z"
+description: ""
+draft: false
+slug: zend-registerautoload-is-deprecated
+tags:
+- PHP
+title: Zend - registerAutoload is deprecated
+---
 
 Após atualizar a versão do [Zend Framework](http://framework.zend.com/) tive problema com o registerAutoload.
 Isso porque desde a versão 1.8 o Zend_Loader::registerAutoload está obsoleto.

@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic", "Firefox"]
-date = 2013-11-09T06:57:00Z
-description = ""
-draft = false
-image = "/images/2016/09/bday-firefox.png"
-slug = "9-anos-de-firefox"
-tags = ["Off-topic", "Firefox"]
-title = "9 anos de Firefox"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+- Firefox
+date: "2013-11-09T06:57:00Z"
+description: ""
+draft: false
+image: /images/2016/09/bday-firefox.png
+slug: 9-anos-de-firefox
+tags:
+- Off-topic
+- Firefox
+title: 9 anos de Firefox
+---
 
 Hoje, 9 de Novembro de 2013, o meu navegador favorito está completando 9 anos.  
 São 9 anos juntos, e achei que este fato merece um post para ficar marcado na história.  

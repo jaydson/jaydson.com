@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "HTML5", "Entrevista"]
-date = 2013-10-17T08:01:00Z
-description = ""
-draft = false
-slug = "entrevista-w3c-webbr"
-tags = ["JavaScript", "HTML5", "Entrevista"]
-title = "Entrevista W3C Webbr"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- HTML5
+- Entrevista
+date: "2013-10-17T08:01:00Z"
+description: ""
+draft: false
+slug: entrevista-w3c-webbr
+tags:
+- JavaScript
+- HTML5
+- Entrevista
+title: Entrevista W3C Webbr
+---
 
 No próximo mês terei a honra de palestrar novamente na [Webbr](http://conferenciaweb.w3c.br/), evento que a W3C Brasil realiza anualmente.  
 Segundo a W3C Brasil:  

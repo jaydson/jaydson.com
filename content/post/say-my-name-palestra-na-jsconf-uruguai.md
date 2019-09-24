@@ -1,15 +1,24 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Palestras", "Eventos", "ES2015", "ES6", "JavaScript"]
-date = 2015-11-25T22:37:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jsconfuy.png"
-slug = "say-my-name-palestra-na-jsconf-uruguai"
-tags = ["Palestras", "Eventos", "ES2015", "ES6", "JavaScript"]
-title = "Say my name - Palestra na JSConf Uruguai"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Palestras
+- Eventos
+- ES2015
+- ES6
+- JavaScript
+date: "2015-11-25T22:37:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jsconfuy.png
+slug: say-my-name-palestra-na-jsconf-uruguai
+tags:
+- Palestras
+- Eventos
+- ES2015
+- ES6
+- JavaScript
+title: Say my name - Palestra na JSConf Uruguai
+---
 
 Em Abril de 2015 tive o prazer de palestrar na [JSConf Uruguai](http://jsconf.uy/).  
 Esta foi a minha segunda palestra internacional e foi muito legal.  

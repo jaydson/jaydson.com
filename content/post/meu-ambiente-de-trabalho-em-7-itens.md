@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2010-12-27T09:32:00Z
-description = ""
-draft = false
-slug = "meu-ambiente-de-trabalho-em-7-itens"
-tags = ["Off-topic"]
-title = "Meu ambiente de trabalho em 7 itens"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2010-12-27T09:32:00Z"
+description: ""
+draft: false
+slug: meu-ambiente-de-trabalho-em-7-itens
+tags:
+- Off-topic
+title: Meu ambiente de trabalho em 7 itens
+---
 
 Seguindo a brincadeira do [ambiente de trabalho](http://duodra.co/post/seu-ambiente-de-trabalho-em-7-itens/) criada pelo [Duodraco](http://duodra.co/) e pelo [Augusto Pascutti](http://blog.augustopascutti.com/) venho aqui apresentar o meu.  
 

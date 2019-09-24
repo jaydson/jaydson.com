@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2011-04-15T19:42:00Z
-description = ""
-draft = false
-slug = "webgrind-interface-para-profiling-baseada-no-xdebug"
-tags = ["PHP"]
-title = "Webgrind - Interface para Profiling baseada no Xdebug"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2011-04-15T19:42:00Z"
+description: ""
+draft: false
+slug: webgrind-interface-para-profiling-baseada-no-xdebug
+tags:
+- PHP
+title: Webgrind - Interface para Profiling baseada no Xdebug
+---
 
 O [**Xdebug Profiler**](http://www.xdebug.org) é uma ferramenta poderosa que nos permite analisar o código PHP a procura de gargalos(!), ou até mesmo determinados trechos onde possa existir lentidão na aplicação.
 Normalmente usamos algum cliente para ler as informações geradas pelo Xdebug, como por exemplo o [KCacheGrind](http://kcachegrind.sf.net/).

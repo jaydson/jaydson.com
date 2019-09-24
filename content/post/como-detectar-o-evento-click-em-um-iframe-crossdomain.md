@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2012-02-09T22:31:00Z
-description = ""
-draft = false
-slug = "como-detectar-o-evento-click-em-um-iframe-crossdomain"
-tags = ["JavaScript"]
-title = "Como detectar o evento Click em um iframe crossdomain"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2012-02-09T22:31:00Z"
+description: ""
+draft: false
+slug: como-detectar-o-evento-click-em-um-iframe-crossdomain
+tags:
+- JavaScript
+title: Como detectar o evento Click em um iframe crossdomain
+---
 
 Situação um pouco estranha não?  
 Mas é isso mesmo.  

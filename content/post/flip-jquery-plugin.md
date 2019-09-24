@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "jQuery"]
-date = 2009-05-10T08:34:00Z
-description = ""
-draft = false
-slug = "flip-jquery-plugin"
-tags = ["JavaScript", "jQuery"]
-title = "Flip! Jquery Plugin"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- jQuery
+date: "2009-05-10T08:34:00Z"
+description: ""
+draft: false
+slug: flip-jquery-plugin
+tags:
+- JavaScript
+- jQuery
+title: Flip! Jquery Plugin
+---
 
 Mais um da série de plugins testados e avaliados.
 Particularmente eu achei esse plugin muito legal!

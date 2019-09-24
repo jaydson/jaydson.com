@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["AppCache", "HTML5", "JavaScript"]
-date = 2011-10-28T00:05:00Z
-description = ""
-draft = false
-slug = "html5-application-cache"
-tags = ["AppCache", "HTML5", "JavaScript"]
-title = "HTML5 Application Cache"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- AppCache
+- HTML5
+- JavaScript
+date: "2011-10-28T00:05:00Z"
+description: ""
+draft: false
+slug: html5-application-cache
+tags:
+- AppCache
+- HTML5
+- JavaScript
+title: HTML5 Application Cache
+---
 
 Tudo em torno do [HTML5](http://www.w3.org/TR/html5/) é muito promissor e excitante.  
 Umas das coisas que acho mais legal é a possibilidade "Offline".  

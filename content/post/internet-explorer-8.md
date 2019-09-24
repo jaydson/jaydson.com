@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers", "JavaScript"]
-date = 2009-05-03T22:08:00Z
-description = ""
-draft = false
-slug = "internet-explorer-8"
-tags = ["Browsers", "JavaScript"]
-title = "Internet Explorer 8"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+- JavaScript
+date: "2009-05-03T22:08:00Z"
+description: ""
+draft: false
+slug: internet-explorer-8
+tags:
+- Browsers
+- JavaScript
+title: Internet Explorer 8
+---
 
 Bom, a Microsoft acabou de lançar o Internet Explorer 8, e eu como desenvolvedor Web não posso deixar de testa-lo.  
 Realmente notei uma certa melhora em relação as outras versões.  

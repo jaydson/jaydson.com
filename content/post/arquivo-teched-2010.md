@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2010-11-14T02:43:00Z
-description = ""
-draft = false
-slug = "arquivo-teched-2010"
-tags = ["PHP"]
-title = "Arquivo TechED 2010"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2010-11-14T02:43:00Z"
+description: ""
+draft: false
+slug: arquivo-teched-2010
+tags:
+- PHP
+title: Arquivo TechED 2010
+---
 
 Como sabem, este ano participei do TechED na trilha de Interoperabilidade.
 Para quem não viu, acessem aqui: [teched-2010-interoperabilidade/](/teched-2010-interoperabilidade/) e aqui: [criando-aplicacoes-net-com-o-thewebmind/](/criando-aplicacoes-net-com-o-thewebmind/).

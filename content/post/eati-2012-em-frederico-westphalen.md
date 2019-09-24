@@ -1,15 +1,24 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos", "HTML5", "JavaScript", "Palestras"]
-date = 2012-11-10T04:36:00Z
-description = ""
-draft = false
-image = "/images/2016/09/fred-west-cover.jpg"
-slug = "eati-2012-em-frederico-westphalen"
-tags = ["BrazilJS", "Eventos", "HTML5", "JavaScript", "Palestras"]
-title = "EATI 2012 em Frederico Westphalen"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+- HTML5
+- JavaScript
+- Palestras
+date: "2012-11-10T04:36:00Z"
+description: ""
+draft: false
+image: /images/2016/09/fred-west-cover.jpg
+slug: eati-2012-em-frederico-westphalen
+tags:
+- BrazilJS
+- Eventos
+- HTML5
+- JavaScript
+- Palestras
+title: EATI 2012 em Frederico Westphalen
+---
 
 Estou aqui no Hotel na querida cidade [Frederico Westphalen](http://pt.wikipedia.org/wiki/Frederico_Westphalen).  
 Vim para participar do [EATI](http://www.cafw.ufsm.br/eati/2012/), o Encontro Anual de Tecnologia da Informação.  

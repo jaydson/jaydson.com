@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2009-10-14T08:58:00Z
-description = ""
-draft = false
-slug = "javascript-problema-com-evento-change"
-tags = ["JavaScript"]
-title = "JavaScript - Problema com Evento Change"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2009-10-14T08:58:00Z"
+description: ""
+draft: false
+slug: javascript-problema-com-evento-change
+tags:
+- JavaScript
+title: JavaScript - Problema com Evento Change
+---
 
 Semana passada deparei-me com um problema no Internet Explorer **_(Déjà vu)_**.  
 A funcionalidade que precisavamos implementar era bem simples:  

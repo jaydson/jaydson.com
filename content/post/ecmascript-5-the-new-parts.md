@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2011-09-03T10:02:00Z
-description = ""
-draft = false
-slug = "ecmascript-5-the-new-parts"
-tags = ["JavaScript"]
-title = "ECMAScript 5: The New Parts"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2011-09-03T10:02:00Z"
+description: ""
+draft: false
+slug: ecmascript-5-the-new-parts
+tags:
+- JavaScript
+title: 'ECMAScript 5: The New Parts'
+---
 
 Acabei de ver a palestra do [Douglas Crockford](http://www.crockford.com/) sobre o que vem por ai na [ECMA5](http://www.ecma-international.org/publications/standards/Ecma-262.htm).  
 Muitos falam que o Crockford é arrogante, mas o cara sabe muito quando o assunto é JavaScript.  

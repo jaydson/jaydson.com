@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript", "Palestras"]
-date = 2016-02-13T22:51:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jaydson-tech-interior.png"
-slug = "os-8-passos-para-o-sucesso-na-carreira-de-dev"
-tags = ["Eventos", "JavaScript", "Palestras"]
-title = "Os 8 passos para o sucesso na carreira de dev"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+- Palestras
+date: "2016-02-13T22:51:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jaydson-tech-interior.png
+slug: os-8-passos-para-o-sucesso-na-carreira-de-dev
+tags:
+- Eventos
+- JavaScript
+- Palestras
+title: Os 8 passos para o sucesso na carreira de dev
+---
 
 Em 2015 montei a palestra com um título bem canalha: Os incríveis 8 passos para o sucesso na carreira de desenvolvimento de software.  
 Este título é obviamente uma bricandeira, visto que não existe fórmula para o sucesso em nenhuma carreira.  

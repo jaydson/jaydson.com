@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers", "JavaScript"]
-date = 2016-01-13T04:36:00Z
-description = ""
-draft = false
-image = "/images/2016/09/ie-grave.jpg"
-slug = "internet-explorer-8-9-e-10-e-o-fim-de-uma-era"
-tags = ["Browsers", "JavaScript"]
-title = "Internet Explorer 8, 9 e 10 e o fim de uma era"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+- JavaScript
+date: "2016-01-13T04:36:00Z"
+description: ""
+draft: false
+image: /images/2016/09/ie-grave.jpg
+slug: internet-explorer-8-9-e-10-e-o-fim-de-uma-era
+tags:
+- Browsers
+- JavaScript
+title: Internet Explorer 8, 9 e 10 e o fim de uma era
+---
 
 
 Que dia histórico hein pessoal? 12 de Janeiro de 2016. Guardem esse dia em lugar especial da memória.  

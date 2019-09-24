@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Software", "Palestras", "Cérebro"]
-date = 2016-07-06T11:34:00Z
-description = ""
-draft = false
-image = "/images/2016/10/brain-header.jpg"
-slug = "as-12-regras-do-cerebro-aplicadas-ao-desenvolvimento-de-software-video"
-tags = ["JavaScript", "Software", "Palestras", "Cérebro"]
-title = "As 12 regras do cérebro aplicadas ao desenvolvimento de Software - Vídeo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Software
+- Palestras
+- Cérebro
+date: "2016-07-06T11:34:00Z"
+description: ""
+draft: false
+image: /images/2016/10/brain-header.jpg
+slug: as-12-regras-do-cerebro-aplicadas-ao-desenvolvimento-de-software-video
+tags:
+- JavaScript
+- Software
+- Palestras
+- Cérebro
+title: As 12 regras do cérebro aplicadas ao desenvolvimento de Software - Vídeo
+---
 
 No final de Junho palestrei no excelente [FrontInSM](http://frontinsm.com.br/), evento parceiro do BrazilJS, que acontece em Santa Maria, interior do Rio Grande do Sul.  
 O evento foi muito legal e contou várias palestras muito boas, todas disponíveis no [canal da BrazilJS no YouTube](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).  

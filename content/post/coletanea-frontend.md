@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "FrontEnd"]
-date = 2014-04-01T04:12:00Z
-description = ""
-draft = false
-image = "/images/2016/09/coletanea-frontend-1.png"
-slug = "coletanea-frontend"
-tags = ["JavaScript", "FrontEnd"]
-title = "Coletânea-FrontEnd"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- FrontEnd
+date: "2014-04-01T04:12:00Z"
+description: ""
+draft: false
+image: /images/2016/09/coletanea-frontend-1.png
+slug: coletanea-frontend
+tags:
+- JavaScript
+- FrontEnd
+title: Coletânea-FrontEnd
+---
 
 Há tempos penso em escrever um livro.  
 Tantas ideias que não viram posts, tantas coisas novas que surgem quase que diariamente, tantos experimentos e tantas coisas que acabam ficando restritas no trabalho.  

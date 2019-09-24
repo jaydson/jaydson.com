@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Web", "JavaScript"]
-date = 2014-02-13T22:00:00Z
-description = ""
-draft = false
-image = "/images/2016/09/responsive-design.jpg"
-slug = "alem-do-responsive-design-palestra-sergio-lopes"
-tags = ["Web", "JavaScript"]
-title = "Além do responsive design - Palestra do Sérgio Lopes"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Web
+- JavaScript
+date: "2014-02-13T22:00:00Z"
+description: ""
+draft: false
+image: /images/2016/09/responsive-design.jpg
+slug: alem-do-responsive-design-palestra-sergio-lopes
+tags:
+- Web
+- JavaScript
+title: Além do responsive design - Palestra do Sérgio Lopes
+---
 
 Ano passado(2013) fui em muitos eventos de FrontEnd, e obviamente, assisti muitas palestras.  
 Um destes eventos foi o FronInSampa, que inclusive relatei aqui no blog: [http://jaydson.com/frontinsampa-2013-inferno-lea-html5/](http://jaydson.com/frontinsampa-2013-inferno-lea-html5/).  

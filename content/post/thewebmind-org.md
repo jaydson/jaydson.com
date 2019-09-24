@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind"]
-date = 2009-05-05T06:58:00Z
-description = ""
-draft = false
-slug = "thewebmind-org"
-tags = ["PHP", "TheWebMind"]
-title = "theWebMind.org"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+date: "2009-05-05T06:58:00Z"
+description: ""
+draft: false
+slug: thewebmind-org
+tags:
+- PHP
+- TheWebMind
+title: theWebMind.org
+---
 
 Todos estamos acostumados com vários ambientes de desenvolvimento nas empresas onde trabalhamos.
 Seja ambiente **Java**, ou **.NET**, **PHP**, o que for, o desenvolvimento não foge muito do padrão de o analista especifar o software,

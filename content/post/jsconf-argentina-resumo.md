@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript"]
-date = 2012-06-05T02:15:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jsconfar-2012.jpg"
-slug = "jsconf-argentina-resumo"
-tags = ["Eventos", "JavaScript"]
-title = "JSConf Argentina - Resumo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+date: "2012-06-05T02:15:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jsconfar-2012.jpg
+slug: jsconf-argentina-resumo
+tags:
+- Eventos
+- JavaScript
+title: JSConf Argentina - Resumo
+---
 
 Antes tarde do que nunca, finalmente parei para fazer o review da [JSConf Argentina](http://jsconf.com.ar).  
 Como um todo, conferência, Hostel, Argentina, etc, uma palavra resume tudo:  

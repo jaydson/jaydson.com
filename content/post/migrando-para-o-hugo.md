@@ -1,13 +1,17 @@
-+++
-date = "2017-07-05T23:41:02-03:00"
-draft = false
-title = "Migrando para o Hugo"
-author = "Jaydson Gomes"
-categories = ["Hugo","Static Site Generator"]
-image = "/images/2017/07/hugo.jpg"
-slug = "migrando-para-o-hugo"
-tags = ["Hugo", "Static Site Generator"]
-+++
+---
+author: Jaydson Gomes
+categories:
+- Hugo
+- Static Site Generator
+date: "2017-07-05T23:41:02-03:00"
+draft: false
+image: /images/2017/07/hugo.jpg
+slug: migrando-para-o-hugo
+tags:
+- Hugo
+- Static Site Generator
+title: Migrando para o Hugo
+---
 
 Há quase 10 anos criei este blog, na época utilizando o Blogspot.  
 Ainda era um iniciante na área, mas sempre tive vontade de compartilhar o que aprendo.  

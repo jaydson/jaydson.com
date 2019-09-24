@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Eventos", "Palestras"]
-date = 2009-10-23T04:35:00Z
-description = ""
-draft = false
-slug = "javascript-levado-a-serio-2"
-tags = ["JavaScript", "Eventos", "Palestras"]
-title = "JavaScript levado a sério"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Eventos
+- Palestras
+date: "2009-10-23T04:35:00Z"
+description: ""
+draft: false
+slug: javascript-levado-a-serio-2
+tags:
+- JavaScript
+- Eventos
+- Palestras
+title: JavaScript levado a sério
+---
 
 Javascript é a linguagem de script mais popular da internet.  
 Porém, mesmo com toda essa fama, o Javascript ainda é incompreendido.  

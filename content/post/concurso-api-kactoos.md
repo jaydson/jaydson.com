@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2011-06-30T00:00:00Z
-description = ""
-draft = false
-slug = "concurso-api-kactoos"
-tags = ["PHP"]
-title = "Concurso API Kactoos"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2011-06-30T00:00:00Z"
+description: ""
+draft: false
+slug: concurso-api-kactoos
+tags:
+- PHP
+title: Concurso API Kactoos
+---
 
 Bom galera, como sabem, estou trabalhando desde Dezembro de 2010 na [Kactoos](http://kactoos.com), um projeto muito massa.
 Hoje (29/06) etamos tornando pública nossa [API para desenvolvedores.](http://api.kactoos.com/docs)

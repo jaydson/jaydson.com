@@ -1,12 +1,11 @@
-+++
-author = "Jaydson Gomes"
-date = 2016-11-14T20:03:12Z
-description = ""
-draft = true
-slug = "por-que-nada-funciona-direito-na-minha-cidade"
-title = "Por que nada funciona direito na minha cidade?"
-
-+++
+---
+author: Jaydson Gomes
+date: "2016-11-14T20:03:12Z"
+description: ""
+draft: true
+slug: por-que-nada-funciona-direito-na-minha-cidade
+title: Por que nada funciona direito na minha cidade?
+---
 
 Não sei qual é a situação em outras cidades do Brasil, mas aqui em Porto Alegre **NADA FUNCIONA** direito.  
 Eu costumo dizer, e tu deve concordar comigo, que a grande maioria das pessoas e empresas são incompetentes.  

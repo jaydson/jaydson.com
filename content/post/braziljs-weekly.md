@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Weekly", "JavaScript", "HTML5"]
-date = 2013-01-11T18:57:00Z
-description = ""
-draft = false
-slug = "braziljs-weekly"
-tags = ["Weekly", "JavaScript", "HTML5"]
-title = "BrazilJS Weekly"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Weekly
+- JavaScript
+- HTML5
+date: "2013-01-11T18:57:00Z"
+description: ""
+draft: false
+slug: braziljs-weekly
+tags:
+- Weekly
+- JavaScript
+- HTML5
+title: BrazilJS Weekly
+---
 
 Hoje vim apresentar, para quem ainda não conhece, a [BrazilJS Weekly](http://braziljs.org/weekly/).  
 Este é um projeto que lançamos em 2012 com intuíto de equalizar as informações mais relevantes do frontend no Brasil e no mundo.  

@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "JavaScript", "Eventos"]
-date = 2012-03-12T21:42:00Z
-description = ""
-draft = false
-slug = "ta-e-agora-acessibilidade"
-tags = ["RSJS", "JavaScript", "Eventos"]
-title = "Ta, e agora? Acessibilidade"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- JavaScript
+- Eventos
+date: "2012-03-12T21:42:00Z"
+description: ""
+draft: false
+slug: ta-e-agora-acessibilidade
+tags:
+- RSJS
+- JavaScript
+- Eventos
+title: Ta, e agora? Acessibilidade
+---
 
 Saiu mais um vídeo do [#RSJS](http://rsjs.org).  
 Já falei antes que a palestra do [Felipe N. Moura](http://felipenmoura.org) é excelente.  

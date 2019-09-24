@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "jQuery"]
-date = 2010-05-26T08:40:00Z
-description = ""
-draft = false
-slug = "jquery-customizando-expressoes"
-tags = ["JavaScript", "jQuery"]
-title = "jQuery - Customizando expressões"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- jQuery
+date: "2010-05-26T08:40:00Z"
+description: ""
+draft: false
+slug: jquery-customizando-expressoes
+tags:
+- JavaScript
+- jQuery
+title: jQuery - Customizando expressões
+---
 
 O jQuery é uma excelente biblioteca, e suas constantes atualizações e profissionalismo fazem com que nós programadores tenhamos uma potente arma na mão para solucionar qualquer problema.  
 Mas mesmo o jQuery sendo tão completo, sempre haverá alguma situação ímpar em que ele não suprirá sua necessidade.  

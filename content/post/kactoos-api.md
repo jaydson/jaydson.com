@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2011-06-30T00:50:00Z
-description = ""
-draft = false
-slug = "kactoos-api"
-tags = ["PHP"]
-title = "Kactoos API"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2011-06-30T00:50:00Z"
+description: ""
+draft: false
+slug: kactoos-api
+tags:
+- PHP
+title: Kactoos API
+---
 
 Para facilitar ainda mais a vida de quem quer desenvolver Apps utilizando a [API da Kactoos](http://api.kactoos.com/docs) criei uma biblioteca bem simples em PHP.
 A ideia é abstrair todos os métodos existentes da API para serem consumidos em poucas linhas de codigo PHP.

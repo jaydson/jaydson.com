@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos"]
-date = 2013-06-26T08:12:00Z
-description = ""
-draft = false
-image = "/images/2016/09/soudevcon.png"
-slug = "soudevcon-2013"
-tags = ["Eventos"]
-title = "SouDevCon 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+date: "2013-06-26T08:12:00Z"
+description: ""
+draft: false
+image: /images/2016/09/soudevcon.png
+slug: soudevcon-2013
+tags:
+- Eventos
+title: SouDevCon 2013
+---
 
 [UPDATE] O evento foi cancelado este ano. Os planos continuam, mas o evento só sai em 2014. Vamos aguardar.  
 

@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "RSJS", "Node.js"]
-date = 2012-03-16T06:34:00Z
-description = ""
-draft = false
-slug = "rsjs-coffeescript-node-js"
-tags = ["Eventos", "RSJS", "Node.js"]
-title = "RSJS - CoffeeScript + Node.js"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- RSJS
+- Node.js
+date: "2012-03-16T06:34:00Z"
+description: ""
+draft: false
+slug: rsjs-coffeescript-node-js
+tags:
+- Eventos
+- RSJS
+- Node.js
+title: RSJS - CoffeeScript + Node.js
+---
 
 Mais um vídeo das palestras do #RSJS foi liberado.  
 Desta vez, quem fala é o Ricardo Tomasi, sem dúvida um dos melhores desenvolvedores Front-End do Brasil.  

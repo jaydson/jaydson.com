@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Processos", "FrontEnd", "Terra"]
-date = 2015-06-25T11:52:00Z
-description = ""
-draft = false
-image = "/images/2016/09/processo-front-end.jpg"
-slug = "processo-front-end-no-terra"
-tags = ["JavaScript", "Processos", "FrontEnd", "Terra"]
-title = "Processo front-end no Terra"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Processos
+- FrontEnd
+- Terra
+date: "2015-06-25T11:52:00Z"
+description: ""
+draft: false
+image: /images/2016/09/processo-front-end.jpg
+slug: processo-front-end-no-terra
+tags:
+- JavaScript
+- Processos
+- FrontEnd
+- Terra
+title: Processo front-end no Terra
+---
 
 No [Terra](http://terra.com.br), o nosso processo de desenvolvimento front-end evoluiu muito nos últimos anos.  
 Relatei o histórico dessa evolução e como saimos de um processo totalmente falho para um processo eficaz e automatizado na palestra ["Processo de Desenvolvimento front-end - Do caos ao Sublime"](https://speakerdeck.com/jaydson/processo-de-desenvolvimento-frontend-do-caos-ao-sublime), também disponível em [vídeo](https://www.youtube.com/watch?v=tDGoXFM9afE).  

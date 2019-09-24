@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Node.js"]
-date = 2012-06-30T12:54:00Z
-description = ""
-draft = false
-slug = "experimento-de-web-scraping-com-node-js"
-tags = ["JavaScript", "Node.js"]
-title = "Experimento de Web Scraping com Node.js"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Node.js
+date: "2012-06-30T12:54:00Z"
+description: ""
+draft: false
+slug: experimento-de-web-scraping-com-node-js
+tags:
+- JavaScript
+- Node.js
+title: Experimento de Web Scraping com Node.js
+---
 
 Depois que fiz o post [Web Scraping para crianças com nodeJS](http://jaydson.com/web-scraping-para-criancas-com-nodejs/), cheguei a conclusão de que deveria fazer um experimento com o que mostrei.  
 Sentei algumas horas no final de semana, e pronto.  

@@ -1,15 +1,15 @@
-
-+++
-author = "Jaydson Gomes"
-categories = ["Browsers"]
-date = 2011-09-22T11:02:00Z
-description = ""
-draft = false
-slug = "browserid-novidades"
-tags = ["Browsers"]
-title = "BrowserID - Novidades"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Browsers
+date: "2011-09-22T11:02:00Z"
+description: ""
+draft: false
+slug: browserid-novidades
+tags:
+- Browsers
+title: BrowserID - Novidades
+---
 
 Já falei sobre o [BrowserID](http://jaydson.com/mozilla-browserid-sistema-de-id-descentralizado) aqui anteriormente e hoje venho compartilhar uma novidade .  
 Há algumas semanas, o Ben Adida ([https://twitter.com/#!/benadida](https://twitter.com/#!/benadida) , [http://benlog.com/](http://benlog.com/)) passou a ser o líder tecnológico na [Mozilla](http://www.mozilla.org/) na parte de Indentidade e dados dos usuários.  

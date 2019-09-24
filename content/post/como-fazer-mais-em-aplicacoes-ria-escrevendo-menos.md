@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2009-11-18T07:54:00Z
-description = ""
-draft = false
-slug = "como-fazer-mais-em-aplicacoes-ria-escrevendo-menos"
-tags = ["JavaScript"]
-title = "Como fazer mais em aplicações RIA escrevendo menos"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2009-11-18T07:54:00Z"
+description: ""
+draft: false
+slug: como-fazer-mais-em-aplicacoes-ria-escrevendo-menos
+tags:
+- JavaScript
+title: Como fazer mais em aplicações RIA escrevendo menos
+---
 
 Quando falamos em aplicações RIA utilizando Javascript, logo pensamos em uma biblioteca que nos auxilie na construção dessas aplicações.
 Dentre uma infinidade de bibliotecas e frameworks existentes atualmente, o jQuery continua sendo minha alternativa preferida.

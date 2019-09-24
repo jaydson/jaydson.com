@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "Eventos", "Palestras"]
-date = 2013-07-09T04:38:00Z
-description = ""
-draft = false
-image = "/images/2016/09/fisl14.jpg"
-slug = "javascript-everywhere-no-fisl-14"
-tags = ["JavaScript", "Eventos", "Palestras"]
-title = "JavaScript Everywhere no FISL 14"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- Eventos
+- Palestras
+date: "2013-07-09T04:38:00Z"
+description: ""
+draft: false
+image: /images/2016/09/fisl14.jpg
+slug: javascript-everywhere-no-fisl-14
+tags:
+- JavaScript
+- Eventos
+- Palestras
+title: JavaScript Everywhere no FISL 14
+---
 
 Na última semana tive a honra de palestrar novamente no maior evento de software livre da américa latina e acho que do mundo, o [FISL](http://softwarelivre.org/fisl14).  
 Palestrei sobre [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), é claro.  

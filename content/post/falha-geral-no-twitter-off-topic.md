@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2010-09-07T09:48:00Z
-description = ""
-draft = false
-slug = "falha-geral-no-twitter-off-topic"
-tags = ["Off-topic"]
-title = "Falha geral no Twitter [Off-Topic]"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2010-09-07T09:48:00Z"
+description: ""
+draft: false
+slug: falha-geral-no-twitter-off-topic
+tags:
+- Off-topic
+title: Falha geral no Twitter [Off-Topic]
+---
 
 São 02:48 da manhã do dia 07/09/2010.
 Acho que só eu e o @renatoaa e a @penkala estamos acordados essa hora, mas a questão é que hoje rolou aquele lance do link malicioso no Twitter.

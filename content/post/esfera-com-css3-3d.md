@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["CSS3"]
-date = 2012-03-10T01:47:00Z
-description = ""
-draft = false
-image = "/images/2016/09/esfera3d.jpg"
-slug = "esfera-com-css3-3d"
-tags = ["CSS3"]
-title = "Esfera com CSS3 3D"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- CSS3
+date: "2012-03-10T01:47:00Z"
+description: ""
+draft: false
+image: /images/2016/09/esfera3d.jpg
+slug: esfera-com-css3-3d
+tags:
+- CSS3
+title: Esfera com CSS3 3D
+---
 
 Fiz mais um demo com CSS3 para o [Mozilla Dev Derby](https://developer.mozilla.org/en-US/demos/devderby).  
 Depois de ter feito um[ cubo 3d](http://jaydson.com/cubo-3d-com-css3/), minha ideia agora foi complicar um pouco e fazer uma esfera.  

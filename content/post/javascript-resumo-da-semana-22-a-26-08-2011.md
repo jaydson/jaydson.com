@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["HTML5", "JavaScript"]
-date = 2011-08-26T23:45:00Z
-description = ""
-draft = false
-slug = "javascript-resumo-da-semana-22-a-26-08-2011"
-tags = ["HTML5", "JavaScript"]
-title = "JavaScript - Resumo da semana 22 a 26/08/2011"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- HTML5
+- JavaScript
+date: "2011-08-26T23:45:00Z"
+description: ""
+draft: false
+slug: javascript-resumo-da-semana-22-a-26-08-2011
+tags:
+- HTML5
+- JavaScript
+title: JavaScript - Resumo da semana 22 a 26/08/2011
+---
 
 Isso não é uma promessa! Mas...  
 Sim, tentarei compartilhar tudo que vi de novidades relacionadas a JavaScript durante a semana.  

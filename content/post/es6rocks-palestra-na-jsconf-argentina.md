@@ -1,15 +1,24 @@
-+++
-author = "Jaydson Gomes"
-categories = ["ES6", "ES2015", "JavaScript", "Eventos", "Palestras"]
-date = 2015-05-22T09:34:00Z
-description = ""
-draft = false
-image = "/images/2016/09/jsconfar.png"
-slug = "es6rocks-palestra-na-jsconf-argentina"
-tags = ["ES6", "ES2015", "JavaScript", "Eventos", "Palestras"]
-title = "ES6Rocks - Palestra na JSConf Argentina"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- ES6
+- ES2015
+- JavaScript
+- Eventos
+- Palestras
+date: "2015-05-22T09:34:00Z"
+description: ""
+draft: false
+image: /images/2016/09/jsconfar.png
+slug: es6rocks-palestra-na-jsconf-argentina
+tags:
+- ES6
+- ES2015
+- JavaScript
+- Eventos
+- Palestras
+title: ES6Rocks - Palestra na JSConf Argentina
+---
 
 Em novembro de 2014 tive o prazer de palestrar na [JSConf Argentina](http://jsconfar.com/).  
 Além da pressão de pela primeira vez palestrar em inglês, dividi o palco com [Brendan Eich](https://brendaneich.com/), [Andreas Gal](http://andreasgal.com/), [Alex Sexton](https://alexsexton.com/), [Mr. Doob](http://mrdoob.com/), [Sebastián Markbage](https://github.com/sebmarkbage), entre outros. Baita responsabilidade.  

@@ -1,13 +1,12 @@
-+++
-author = "Jaydson Gomes"
-date = 2011-04-14T11:50:00Z
-description = ""
-draft = false
-image = "/images/2016/09/UUID_Registry.png"
-slug = "uuid-identificador-unico-universal"
-title = "UUID - Identificador Único Universal"
-
-+++
+---
+author: Jaydson Gomes
+date: "2011-04-14T11:50:00Z"
+description: ""
+draft: false
+image: /images/2016/09/UUID_Registry.png
+slug: uuid-identificador-unico-universal
+title: UUID - Identificador Único Universal
+---
 
 Hoje venho falar de um assunto diferente, mas bem interessante.
 **UUID** é a sigla em ingês para **[Universally unique identifier](http://en.wikipedia.org/wiki/Universally_Unique_Identifier)**, que traduzindo para o português fica **Identificador Único Universal.**  

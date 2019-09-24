@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["CSS3"]
-date = 2009-05-04T21:04:00Z
-description = ""
-draft = false
-slug = "hacks-css"
-tags = ["CSS3"]
-title = "Hacks CSS"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- CSS3
+date: "2009-05-04T21:04:00Z"
+description: ""
+draft: false
+slug: hacks-css
+tags:
+- CSS3
+title: Hacks CSS
+---
 
 E aí pessoal, seguinte...ontem me deparei com algo realmente interessante, e fiquei até meio assustado pelo fato de eu não saber da existência.  
 O negócio é que todos desenvolvedores web sofrem com as peculiaridades de cada Browser, e se tratando do IE, nem se fala.  

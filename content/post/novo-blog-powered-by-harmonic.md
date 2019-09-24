@@ -1,15 +1,20 @@
-+++
-author = "Jaydson Gomes"
-categories = ["ES6", "ES2015", "Harmonic"]
-date = 2014-07-14T09:56:00Z
-description = ""
-draft = false
-image = "/images/2016/09/harmonic-blog.jpg"
-slug = "novo-blog-powered-by-harmonic"
-tags = ["ES6", "ES2015", "Harmonic"]
-title = "Novo blog, powered by Harmonic"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- ES6
+- ES2015
+- Harmonic
+date: "2014-07-14T09:56:00Z"
+description: ""
+draft: false
+image: /images/2016/09/harmonic-blog.jpg
+slug: novo-blog-powered-by-harmonic
+tags:
+- ES6
+- ES2015
+- Harmonic
+title: Novo blog, powered by Harmonic
+---
 
 Galera, é com muita satisfação que hoje anuncio uma mudança aqui no Blog.  
 Ao longo desses 6 anos que o mantenho, já fiz diversas mudanças, a última vez por exemplo, foi a migração do Wordpress para o Octopress (relatado aqui: [http://jaydson.com/migrando-para-octopress/](http://jaydson.com/migrando-para-octopress/)).  

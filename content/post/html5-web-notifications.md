@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript", "HTML5"]
-date = 2013-05-02T07:15:00Z
-description = ""
-draft = false
-image = "/images/2016/09/notification.jpg"
-slug = "html5-web-notifications"
-tags = ["JavaScript", "HTML5"]
-title = "HTML5 Web Notifications"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+- HTML5
+date: "2013-05-02T07:15:00Z"
+description: ""
+draft: false
+image: /images/2016/09/notification.jpg
+slug: html5-web-notifications
+tags:
+- JavaScript
+- HTML5
+title: HTML5 Web Notifications
+---
 
 Web Notification é mais uma das minhas features preferidas do HTML5.  
 Como o nome sugere, Web Notification é uma API para enviar notificações ao usuário mesmo que ele não esteja na página de origem.  

@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Off-topic"]
-date = 2010-11-10T06:27:00Z
-description = ""
-draft = false
-slug = "dojopoa-coding-dojo-porto-alegre"
-tags = ["Off-topic"]
-title = "DojoPOA - Coding Dojo Porto Alegre"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Off-topic
+date: "2010-11-10T06:27:00Z"
+description: ""
+draft: false
+slug: dojopoa-coding-dojo-porto-alegre
+tags:
+- Off-topic
+title: DojoPOA - Coding Dojo Porto Alegre
+---
 
 > _"Coding Dojo é um encontro onde um grupo de programadores se reúne para trabalhar em conjunto em um desafio de programação. Eles estão lá para se divertir, e, através de uma metodologia pragmática, melhorar suas habilidades de programação e de trabalho em grupo."_
 

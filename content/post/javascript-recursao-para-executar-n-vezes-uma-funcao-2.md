@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2010-06-08T09:33:00Z
-description = ""
-draft = false
-slug = "javascript-recursao-para-executar-n-vezes-uma-funcao-2"
-tags = ["JavaScript"]
-title = "JavaScript - Recursão para executar N vezes uma função"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2010-06-08T09:33:00Z"
+description: ""
+draft: false
+slug: javascript-recursao-para-executar-n-vezes-uma-funcao-2
+tags:
+- JavaScript
+title: JavaScript - Recursão para executar N vezes uma função
+---
 
 Para quem gosta de desafios de programação em Javascript, encare esse post como um, senão encare apenas como uma dica mesmo.  
 Se encarou como desafio, tente implementar uma solução diferente(melhor?) para o problema:  

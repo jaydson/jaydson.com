@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2010-10-04T07:13:00Z
-description = ""
-draft = false
-slug = "ajude-a-melhorar-a-documentacao-do-javascript-2"
-tags = ["JavaScript"]
-title = "Ajude a melhorar a documentação do JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2010-10-04T07:13:00Z"
+description: ""
+draft: false
+slug: ajude-a-melhorar-a-documentacao-do-javascript-2
+tags:
+- JavaScript
+title: Ajude a melhorar a documentação do JavaScript
+---
 
 Semana passada o [Thomas Fuchs](http://mir.aculo.us/), em mais um [post muito interessante](http://mir.aculo.us/2010/09/27/help-make-javascript-documentation-better/), apresentou uma excelente iniciativa do pessoal da [Jsconf](http://jsconf.us/).  
 A iniciativa é  melhorar a documentação sobre o Javascript.  

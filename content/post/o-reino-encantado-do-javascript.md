@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2017-04-06T20:21:00Z
-description = ""
-draft = false
-image = "/images/2017/04/Hipsters-38-bg-3.png"
-slug = "o-reino-encantado-do-javascript"
-tags = ["JavaScript"]
-title = "O Reino encantado do JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2017-04-06T20:21:00Z"
+description: ""
+draft: false
+image: /images/2017/04/Hipsters-38-bg-3.png
+slug: o-reino-encantado-do-javascript
+tags:
+- JavaScript
+title: O Reino encantado do JavaScript
+---
 
 Nesta semana tive o prazer de participar de um dos podcasts mais badalados da atualidade, o [Hipsters.tech](http://hipsters.tech).  
 

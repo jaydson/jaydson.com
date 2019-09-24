@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "Wordpress"]
-date = 2011-03-09T10:56:00Z
-description = ""
-draft = false
-slug = "tema-wordpress-para-criar-documentacao"
-tags = ["PHP", "Wordpress"]
-title = "Tema Wordpress para criar documentação"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- Wordpress
+date: "2011-03-09T10:56:00Z"
+description: ""
+draft: false
+slug: tema-wordpress-para-criar-documentacao
+tags:
+- PHP
+- Wordpress
+title: Tema Wordpress para criar documentação
+---
 
 O Twitter continua sendo um dos lugares onde mais encontro coisas interessantes. Basta seguir as pessoas certas...
 O tweet em questão foi esse: [http://twitter.com/#!/sawyerh/status/45151957316419584](http://twitter.com/#!/sawyerh/status/45151957316419584)

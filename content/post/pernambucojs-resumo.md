@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["Eventos", "JavaScript"]
-date = 2012-05-02T12:06:00Z
-description = ""
-draft = false
-image = "/images/2016/09/pernambucojs-2012-vista-1.jpg"
-slug = "pernambucojs-resumo"
-tags = ["Eventos", "JavaScript"]
-title = "PernambucoJS - Resumo"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- Eventos
+- JavaScript
+date: "2012-05-02T12:06:00Z"
+description: ""
+draft: false
+image: /images/2016/09/pernambucojs-2012-vista-1.jpg
+slug: pernambucojs-resumo
+tags:
+- Eventos
+- JavaScript
+title: PernambucoJS - Resumo
+---
 
 Buenas galera, quem acompanha o Blog, viu que postei sobre o [PernambucoJS](http://jaydson.com/pernambuco-js/), a conferência Pernambucana de [JavaScript](https://developer.mozilla.org/en/JavaScript).  
 O evento rolou no último final de semana (21/04/2012) em Recife.  

@@ -1,15 +1,22 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "JavaScript", "FrontEnd", "Eventos"]
-date = 2013-08-31T08:45:00Z
-description = ""
-draft = false
-image = "/images/2016/09/braziljs-2013.jpg"
-slug = "braziljs-conf-2013"
-tags = ["BrazilJS", "JavaScript", "FrontEnd", "Eventos"]
-title = "BrazilJS Conf 2013"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- JavaScript
+- FrontEnd
+- Eventos
+date: "2013-08-31T08:45:00Z"
+description: ""
+draft: false
+image: /images/2016/09/braziljs-2013.jpg
+slug: braziljs-conf-2013
+tags:
+- BrazilJS
+- JavaScript
+- FrontEnd
+- Eventos
+title: BrazilJS Conf 2013
+---
 
 Bom, finalmente consegui parar para escrever sobre a [BrazilJS Conf 2013](http://braziljs.com.br).  
 O evento aconteceu agora no final de agosto, e novamente posso dizer que foi um grande sucesso.  

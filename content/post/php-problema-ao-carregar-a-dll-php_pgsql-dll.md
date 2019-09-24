@@ -1,14 +1,15 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP"]
-date = 2009-05-04T21:04:00Z
-description = ""
-draft = false
-slug = "php-problema-ao-carregar-a-dll-php_pgsql-dll"
-tags = ["PHP"]
-title = "PHP - Problema ao carregar a DLL php_pgsql.dll"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+date: "2009-05-04T21:04:00Z"
+description: ""
+draft: false
+slug: php-problema-ao-carregar-a-dll-php_pgsql-dll
+tags:
+- PHP
+title: PHP - Problema ao carregar a DLL php_pgsql.dll
+---
 
 
 Bom, instalar PHP não é nem um mistério...

@@ -1,15 +1,18 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos"]
-date = 2012-09-08T11:13:00Z
-description = ""
-draft = false
-image = "/images/2016/09/braziljs-2012-1.jpg"
-slug = "braziljs-entrevista-na-tv"
-tags = ["BrazilJS", "Eventos"]
-title = "BrazilJS - Entrevista na TV"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+date: "2012-09-08T11:13:00Z"
+description: ""
+draft: false
+image: /images/2016/09/braziljs-2012-1.jpg
+slug: braziljs-entrevista-na-tv
+tags:
+- BrazilJS
+- Eventos
+title: BrazilJS - Entrevista na TV
+---
 
 E não é que até entrevista na TV rolou por causa do BrazilJS?  
 Sim, eu e o Felipe Moura fomos entrevistados em um canal local aqui do Rio Grande do Sul.  

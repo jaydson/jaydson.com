@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind"]
-date = 2010-02-12T07:38:00Z
-description = ""
-draft = false
-slug = "thewebmind-pre-alpha-2-0-0"
-tags = ["PHP", "TheWebMind"]
-title = "TheWebMind Pre-Alpha 2.0.0"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+date: "2010-02-12T07:38:00Z"
+description: ""
+draft: false
+slug: thewebmind-pre-alpha-2-0-0
+tags:
+- PHP
+- TheWebMind
+title: TheWebMind Pre-Alpha 2.0.0
+---
 
 O primeiro post do ano não poderia tratar de outra coisa, que não o projeto com o qual venho dedicado boa parte do meu tempo.
 Como vocês devem saber, juntamente com o [Felipe Nascimento](http://felipenascimento.org/en) sou Desenvolvedor/Líder do [TheWebMind](http://thewebmind.org).

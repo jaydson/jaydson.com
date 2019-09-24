@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "Eventos", "JavaScript"]
-date = 2012-03-04T10:30:00Z
-description = ""
-draft = false
-slug = "rsjs-review"
-tags = ["RSJS", "Eventos", "JavaScript"]
-title = "RSJS - Review"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- Eventos
+- JavaScript
+date: "2012-03-04T10:30:00Z"
+description: ""
+draft: false
+slug: rsjs-review
+tags:
+- RSJS
+- Eventos
+- JavaScript
+title: RSJS - Review
+---
 
 E aí galera.  
 Hoje (03/03/2012) foi o dia do [#RSJS](http://rsjs.org), a conferência gaúcha de JavaScript ([post sobre o evento](http://jaydson.com/rsjs-a-conferencia-gaucha-de-javascript/)).  

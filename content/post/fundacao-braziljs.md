@@ -1,14 +1,17 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos"]
-date = 2012-07-26T20:37:00Z
-description = ""
-draft = false
-slug = "fundacao-braziljs"
-tags = ["BrazilJS", "Eventos"]
-title = "Fundação BrazilJS"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+date: "2012-07-26T20:37:00Z"
+description: ""
+draft: false
+slug: fundacao-braziljs
+tags:
+- BrazilJS
+- Eventos
+title: Fundação BrazilJS
+---
 
 Em 2008, eu e o Felipe Moura começamos a notar o movimento que estava acontecendo lá fora em torno do JavaScript e pensamos: "Por que não podemos ter este movimento no Brasil também?"
 

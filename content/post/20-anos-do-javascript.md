@@ -1,15 +1,16 @@
-+++
-author = "Jaydson Gomes"
-categories = ["JavaScript"]
-date = 2015-05-20T09:27:00Z
-description = ""
-draft = false
-image = "/images/2016/09/20-anos-js.jpg"
-slug = "20-anos-do-javascript"
-tags = ["JavaScript"]
-title = "20 anos do JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- JavaScript
+date: "2015-05-20T09:27:00Z"
+description: ""
+draft: false
+image: /images/2016/09/20-anos-js.jpg
+slug: 20-anos-do-javascript
+tags:
+- JavaScript
+title: 20 anos do JavaScript
+---
 
 Em maio de 1995 nascia a linguagem de programação que hoje podemos chamar de linguagem ubíqua.  
 Sim, o JavaScript está em todos os lugares ao mesmo tempo de forma quase onipresente.  

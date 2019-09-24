@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["RSJS", "Eventos", "JavaScript"]
-date = 2012-03-08T12:44:00Z
-description = ""
-draft = false
-slug = "rsjs-haskell-para-desenvolvedores-javascript"
-tags = ["RSJS", "Eventos", "JavaScript"]
-title = "RSJS - Haskell para desenvolvedores JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- RSJS
+- Eventos
+- JavaScript
+date: "2012-03-08T12:44:00Z"
+description: ""
+draft: false
+slug: rsjs-haskell-para-desenvolvedores-javascript
+tags:
+- RSJS
+- Eventos
+- JavaScript
+title: RSJS - Haskell para desenvolvedores JavaScript
+---
 
 Enquanto não compilamos todos os vídeos do #RSJS no [site](http://rsjs.org), vou embedando por aqui conforme a [GoNow](http://www.gonow.com.br/blog/) for publicando.  
 Hoje saiu o primeiro vídeo da excelente palestra do Juan Maiz([@joaomilho](http://twitter.com/joaomilho)).  

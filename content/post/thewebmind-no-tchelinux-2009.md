@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["PHP", "TheWebMind", "Eventos"]
-date = 2009-11-10T08:58:00Z
-description = ""
-draft = false
-slug = "thewebmind-no-tchelinux-2009"
-tags = ["PHP", "TheWebMind", "Eventos"]
-title = "TheWebMind no TcheLinux 2009"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- PHP
+- TheWebMind
+- Eventos
+date: "2009-11-10T08:58:00Z"
+description: ""
+draft: false
+slug: thewebmind-no-tchelinux-2009
+tags:
+- PHP
+- TheWebMind
+- Eventos
+title: TheWebMind no TcheLinux 2009
+---
 
 Para quem ainda não conhece, vale muito a pena dar uma estudada  no projeto da qual me sinto muito orgulhoso de fazer parte, o [TheWebMind](http://thewebmind.org).
 Esse projeto tem um objetivo bem audacioso: Entender um problema e resolve-lo da melhor maneira possível. Claro que tudo isso no mundo do desenvolvimento de Software. ;)

@@ -1,13 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["blog","pwa","web"]
-date = 2018-09-03T18:38:17Z
-draft = false
-image = "/images/2018/09/blog-home.jpg"
-slug = "mudancas-no-blog-2018"
-tags = ["blog","pwa","web"]
-title = "Mudanças no Blog 2018"
-+++
+---
+author: Jaydson Gomes
+categories:
+- blog
+- pwa
+- web
+date: "2018-09-03T18:38:17Z"
+draft: false
+image: /images/2018/09/blog-home.jpg
+slug: mudancas-no-blog-2018
+tags:
+- blog
+- pwa
+- web
+title: Mudanças no Blog 2018
+---
 Em julho de 2017 eu fiz uma mudança aqui no blog, migrei para o [Hugo](https://gohugo.io/).  
 Relatei tudo no post [Migrando para o Hugo](https://jaydson.com/migrando-para-o-hugo/).  
 Quase um ano depois, resolvi fazer mais algumas mudanças.  

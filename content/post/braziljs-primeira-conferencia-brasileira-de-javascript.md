@@ -1,14 +1,19 @@
-+++
-author = "Jaydson Gomes"
-categories = ["BrazilJS", "Eventos", "JavaScript"]
-date = 2011-03-29T20:05:00Z
-description = ""
-draft = false
-slug = "braziljs-primeira-conferencia-brasileira-de-javascript"
-tags = ["BrazilJS", "Eventos", "JavaScript"]
-title = "BrazilJS - Primeira conferência brasileira de JavaScript"
-
-+++
+---
+author: Jaydson Gomes
+categories:
+- BrazilJS
+- Eventos
+- JavaScript
+date: "2011-03-29T20:05:00Z"
+description: ""
+draft: false
+slug: braziljs-primeira-conferencia-brasileira-de-javascript
+tags:
+- BrazilJS
+- Eventos
+- JavaScript
+title: BrazilJS - Primeira conferência brasileira de JavaScript
+---
 
 Todos já devem estar sabendo sobre o BrazilJS.  
 Se não sabe, está perdendo tempo. Corre lá: [http://braziljs.com.br/conf/2011/
