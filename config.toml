@@ -47,3 +47,9 @@ theme = "paper"
   weight = -120
   identifier = "twiiter"
   url = "https://twitter.jaydson.com"
+
+[[menu.main]]
+  name = "Sobre"
+  weight = -130
+  identifier = "about"
+  url = "/about"

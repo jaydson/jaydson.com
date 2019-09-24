@@ -1,0 +1,13 @@
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ if $related }}
+<div class="bg-gray-200 border-l-4 border-gray-800 p-4" role="alert">
+  <p class="font-bold">Conteúdo relacionado</p>
+  {{ with $related }}
+  <ul>
+    {{ range . }}
+      <li class="text-sm">👉 <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}
