@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6abfcd29-ecef-4a8e-821f-7dcc5c9203e1/deploy-status)](https://app.netlify.com/sites/quirky-gates-e0689c/deploys)
+
 ![Jaydson's personal website](https://cldup.com/dPihpusvs--2000x2000.png)
 # jaydson.com
 This is the source code for my personal website (https://jaydson.com/). I'm using [Hugo](https://gohugo.io) static site generator.  
