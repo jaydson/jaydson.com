@@ -13,10 +13,15 @@
     });
   }
 </script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js" data-no-instant></script>
+<script>
+    const menu = document.getElementById('menu-content');
+    const toggle = () => menu.classList.toggle("menu-collapsed");
+    document.querySelector('#bt-toggle').addEventListener('click', () => toggle());
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" data-no-instant></script>
 <script data-no-instant>
   hljs.initHighlightingOnLoad();
 </script>
-<link async href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/default.min.css" rel="stylesheet">
+<link async href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/default.min.css" rel="stylesheet">
 </body>
 </html>
