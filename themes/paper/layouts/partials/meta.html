@@ -12,7 +12,7 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 {{ if .Params.image }}
-<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+<meta property="og:image" content="{{ .Params.image }}">
 {{ end }}
 {{ range .Params.tags }}
 <meta property="og:tags" content="{{ . }}">
@@ -31,6 +31,6 @@
 <meta property="twitter:description" content="{{ .Summary }}">
 <meta property="twitter:title" content="{{ .Title }}">
 {{ if .Params.image }}
-<meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+<meta property="twitter:image" content="{{ .Params.image }}">
 {{ end }}
 <!-- End of Twitter -->
