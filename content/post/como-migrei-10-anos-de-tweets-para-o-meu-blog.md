@@ -18,10 +18,10 @@ title: Como migrei 10 anos de tweets para o meu blog
 Há pouco mais de um ano [relatei aqui no blog](https://jaydson.com/social-detox-rehab/) o meu social detox/rehab.  
 Em resumo, deixei de usar redes sociais (ainda vou escrever sobre os benefícios de estar fora das redes).  
 O Twitter sempre foi a rede onde eu fui mais ativo, tanto que em 10 anos criei mais de 10.000 *tweets*.  
-Um dos principais motivos para a minha saída das redes sociais está muito mais ligada ao consumo, ou seja, rolar as *timelines*.  
+Um dos principais motivos para a minha saída das redes sociais está muito mais ligado ao consumo, ou seja, rolar as *timelines*.  
 Mas a criação de conteúdo é algo que quero manter, para isso que serve esse blog.  
 O que fazer com os 10.000 tweets? Claro, muita coisa não serve para nada, mas o conteúdo é meu e quero ter o controle.  
-Sendo assim cheguei no desafio: Migrar todo conteúdo criado no Twitter para o meu blog.  
+Sendo assim, cheguei no desafio: __Migrar todo conteúdo criado no Twitter por mim nos últimos 10 anos para o meu blog__.  
 
 ## TL;DR
 👉 Migrei meus tweets para o meu blog: [https://twitter.jaydson.com](https://twitter.jaydson.com)  
@@ -30,6 +30,7 @@ Sendo assim cheguei no desafio: Migrar todo conteúdo criado no Twitter para o m
 
 ## É possível ter acessos aos seus dados no Twitter?
 Sim 👍  
+Para quem tiver interesse, deixo aqui o link de ajuda para fazer isso: [https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).  
 O Twitter nos dá a opção de baixar nossos dados, não só os tweets, mas também mensagens diretas, dados pessoais e mais um monte de coisa.  
 Veja na imagem abaixo a estrutura de pastas e arquivos que o Twitter disponibiliza.  
 
@@ -57,7 +58,7 @@ window.YTD.account.part0 = [ {
   }
 } ]
 ```
-A lógica desses arquivos é baseada em um namespace global: YTD (your twitter data 🤔).  
+A lógica desses arquivos é baseada em um namespace global: `YTD` (your twitter data 🤔).  
 Cada arquivo adiciona o seu próprio contexto e dados dentro deste namespace, de maneira que se executarmos todos os arquivos JS em um navegador, teremos a variável global `YTD` contendo todos os nossos dados.  
 Na prática isso é inviável, principalmente por conta do arquivo `tweet.js`.  
 Notem a propriedade `createdAt` acima, estou no Twitter desde 2008, são mais de 10 anos de tweets.  
@@ -96,7 +97,7 @@ window.YTD.tweet.part0 = [ {
 
 ## Convertendo tweets para posts
 Eu utilizo o [Hugo](https://gohugo.io/) como plataforma para o Blog.  
-Sendo o um SSG (gerador de sites estáticos), para criar um post basta criar um arquivo [markdown](https://daringfireball.net/projects/markdown/).  
+Sendo o Hugo um SSG (gerador de sites estáticos), onde a estrutura é baseada no filsystem, para se criar um novo post basta que um arquivo [markdown](https://daringfireball.net/projects/markdown/) seja criado na pasta que armazena o conteúdo.  
 Para os metadados o Hugo (e a grande maioria dos SSGs) utiliza o padrão [Front Matter](https://gohugo.io/content-management/front-matter/).  
 Eu estou utilizando o padrão YAML no Front Matter, que utiliza `---` como marcador. Veja um exemplo de metadado de um post aqui do blog:  
 
@@ -119,8 +120,11 @@ title: Mudanças no Blog 2019
 
 Para converter tweets em posts no blog tudo que eu precisava fazer era criar arquivos markdown com o conteúdo do tweet e com os metadados necessários.  
 Acabei criando um projeto no GitHub só para lidar com essa conversão: [tweets-to-md](https://github.com/jaydson/tweets-to-md).  
-Para usar basta clonar o projeto e colocar o arquivo `tweet.js` na raiz.  
-Feito isso, basta alterar o arquivo `config.js` com as informações necessárias para os metadados.  
+Para quem quiser usar:  
+
+👉 Clone o projeto: `git clone git@github.com:jaydson/tweets-to-md.git`  
+👉 Copie o arquivo `tweet.js` para a raiz  
+👉 Altere o arquivo `config.js` com as informações necessárias para os metadados  
 Veja o exemplo do meu blog:  
 
 ```
@@ -145,7 +149,22 @@ tweet_url = "https://twitter.com/jaydson/status/{TWEET_ID}"
 
 export default config;
 ```
-Para rodar basta criar uma pasta `./posts`, instalar as dependências com `npm install` e rodar com `npm start`.  
+
+👉 Crie uma pasta `./posts`  
+👉 Instale as dependências com `npm install`  
+👉 Altere a primeira linha do seu arquivo `tweet.js` para o seguinte:  
+```
+export const tweets = [ {  
+```
+Isso serve apenas para ignorar a lógica de namespace global mecionada no início, de maneira que que podemos simplesmente importar um módulo JavaScript contendo todos os tweets.  
+Veja a primeira linha do `tweets-to-md`:  
+```
+import { tweets } from './tweet';
+```
+
+👉 Rode o script com `npm start`  
+
+
 O `tweets-to-md` varre todos os tweets e cria os arquivos markdown aplicando metadados e conteúdo.  
 Veja um exemplo de como fica o meu último tweet depois de convertido para post no blog:  
 ```
@@ -154,7 +173,6 @@ author = "Jaydson Gomes"
 categories = ["tweet"]
 date = "Wed Aug 29 20:21:02 +0000 2018"
 draft = false
-image = "{TWEET_IMAGE}"
 slug = "7dffcf9a1433013e157d31838bef66565002208f"
 tags = ["tweet"]
 title = """Social Detox/Rehab https:..."""
@@ -167,9 +185,9 @@ No final do processo a pasta `./posts` ficou com 9.452 arquivos gerados, ou seja
 Uma coisa que implementei no `tweets-to-md` foi um filtro para ignorar replies, o que no final reduziu em mais ou menos 4.000 tweets.  
 
 ## Resultado final
-Notei que o Hugo ficou um pouco lento no processo build com tantos arquivos.  
+Notei que o Hugo ficou um pouco lento no processo de build com tantos arquivos.  
 A solução mais fácil que encontrei foi gerar o conteúdo com mais posts por página.  
-Outro ponto importante que resolvi fazer no meio do processo foi separar os posts dos tweets migrados.  
+Outro ponto importante que resolvi fazer no meio do processo foi separar os posts originais do meu blog dos tweets migrados.  
 Para isso criei um outro projeto no GitHub: [twitter.jaydson.com](https://github.com/jaydson/twitter.jaydson.com).  
 Este projeto também usa o Hugo, inclusive usei o mesmo tema do meu blog para o layout.  
 Ah, criei um projeto específico para o tema também: [hugo-paper-tailwind](https://github.com/jaydson/hugo-paper-tailwind).  
