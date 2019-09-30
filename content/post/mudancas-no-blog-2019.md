@@ -25,7 +25,7 @@ Eu já tinha deixado o blog bem mais *clean*.
 Dessa vez fiz uma mudança maior no tema [Paper](https://themes.gohugo.io/hugo-paper/).  
 Isolei o projeto (antes estava dentro da estrutura do blog) e criei um fork no meu GitHub.  
 Implementei algumas coisas visuais com o [Tailwind CSS](https://tailwindcss.com/).  
-O Tailwind é um framework CSS um pouco diferente, ele provê funcionalidades base para cirar designs customizados.  
+O Tailwind é um framework CSS um pouco diferente, ele provê funcionalidades base para criar designs customizados.  
 Utilizei alguns dos componentes base existentes para criar o header do site e também os cards listados na home.  
 Segue o link para o tema: [hugo-paper-tailwind](https://github.com/jaydson/hugo-paper-tailwind).  
 
