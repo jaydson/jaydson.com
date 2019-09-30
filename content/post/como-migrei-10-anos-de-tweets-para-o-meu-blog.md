@@ -4,7 +4,7 @@ categories:
 - blog
 - dweb
 - web
-date: "2019-09-26T10:39:17Z"
+date: "2019-09-30T09:30:17Z"
 draft: false
 image: /images/2019/09/migracao-twitter-blog.jpg
 slug: como-migrei-10-anos-de-tweets-para-o-meu-blog
@@ -97,7 +97,7 @@ window.YTD.tweet.part0 = [ {
 
 ## Convertendo tweets para posts
 Eu utilizo o [Hugo](https://gohugo.io/) como plataforma para o Blog.  
-Sendo o Hugo um SSG (gerador de sites estáticos), onde a estrutura é baseada no filsystem, para se criar um novo post basta que um arquivo [markdown](https://daringfireball.net/projects/markdown/) seja criado na pasta que armazena o conteúdo.  
+Sendo o Hugo um SSG (gerador de sites estáticos), onde a estrutura é baseada no filesystem, para se criar um novo post basta que um arquivo [markdown](https://daringfireball.net/projects/markdown/) seja criado na pasta que armazena o conteúdo.  
 Para os metadados o Hugo (e a grande maioria dos SSGs) utiliza o padrão [Front Matter](https://gohugo.io/content-management/front-matter/).  
 Eu estou utilizando o padrão YAML no Front Matter, que utiliza `---` como marcador. Veja um exemplo de metadado de um post aqui do blog:  
 
@@ -156,7 +156,7 @@ export default config;
 ```
 export const tweets = [ {  
 ```
-Isso serve apenas para ignorar a lógica de namespace global mecionada no início, de maneira que que podemos simplesmente importar um módulo JavaScript contendo todos os tweets.  
+Isso serve apenas para ignorar a lógica de namespace global mencionada no início, de maneira que que podemos simplesmente importar um módulo JavaScript contendo todos os tweets.  
 Veja a primeira linha do `tweets-to-md`:  
 ```
 import { tweets } from './tweet';
