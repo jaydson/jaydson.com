@@ -1,6 +1,6 @@
 </main>
-<footer class="footer">
-  <span>{{ now.Year }} - {{ .Site.Title }} 🤘</span>
+<footer class="footer">  
+  {{ partial "h-card.html" . }}
 </footer>
 <script>
   if (navigator.serviceWorker.controller) {
@@ -15,8 +15,24 @@
 </script>
 <script>
     const menu = document.getElementById('menu-content');
-    const toggle = () => menu.classList.toggle("menu-collapsed");
-    document.querySelector('#bt-toggle').addEventListener('click', () => toggle());
+    let menuOpen = false;
+    let mql = window.matchMedia('(min-width: 1024px)');
+    let mqlMobile = window.matchMedia('(max-width:700px)');
+    mql.addListener(()=> {
+      menuOpen = false;
+      menu.style.display = 'block';
+    });
+  
+    function toggle () {
+      if (!menuOpen) {
+        menu.style.display = 'block';
+        menuOpen = true;
+      } else {
+        menu.style.display = 'none';
+        menuOpen = false; 
+      }
+    }
+    document.querySelector('#bt-toggle').addEventListener('click', toggle);
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" data-no-instant></script>
 <script data-no-instant>

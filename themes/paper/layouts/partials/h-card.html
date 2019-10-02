@@ -1,0 +1,11 @@
+<p class="h-card vcard">
+  <a style="text-decoration: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">
+    {{ .Site.Params.author }} 🤘
+  </a>
+  <time>{{ now.Year }} </time>
+  <div>
+    <a cl|ass="p-nickname u-email email metatag" rel="me" href="mailto:{{ .Site.Params.email }}">
+      {{ .Site.Params.email }}
+    </a>
+  </div>
+</p>
