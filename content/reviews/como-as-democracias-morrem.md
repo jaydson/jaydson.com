@@ -17,7 +17,7 @@ title: Como as democracias morrem
 
 Para quem consegue enxergar um padrão global - e assustador - nos assuntos relacionados à política e a democracia nos últimos anos, o livro [_How Democracies Die: What History Reveals About Our Future_](https://www.goodreads.com/book/show/35356384-how-democracies-die), de [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky) e [Daniel Ziblatt](https://scholar.harvard.edu/dziblatt/home), é esclarecedor.  
 Os autores, ambos cientistas políticos e professores em Harvard, são certeiros em nos apresentar o óbvio: Existem falhas estruturais na democracia.  
-O ponto mais crítico - e que mais me impactou - foi o fato apontado de que governos antidemocráticos tomaram o poder por meio da democria.  
+O ponto mais crítico - e que mais me impactou - foi o fato apontado de que governos antidemocráticos tomaram o poder por meio da democracia.  
 É um paradoxo assombroso e ao longo da narrativa de Steven e Daniel fica claro que estamos à beira de um colapso.  
 
 O livro faz um ótimo paralelo com Trump nos EUA e o avanço da extrema direita na Europa e na América Latina com a ascensão de Hitler e Mussolini nos anos 30 e também as ditaduras miltares na América Latina nos 70.  
