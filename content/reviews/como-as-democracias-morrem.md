@@ -41,4 +41,3 @@ A conclusão é de que Trump não é o problema, mas sim o sintoma. O problema �
 Ao mesmo tempo que ler "Como as democracias morrem" foi assustador, também foi muito gratificante.  
 As análises, contrapontos e comparações com a história me fizeram refletir bastante sobre o momento atual que vivemos no Brasil.  
 A democracia pode estar quebrada em alguns pontos e sempre haverão aqueles que tentarão derruba-la de vez, porém, um futuro ainda mais democrático e justo é possível.  
-
