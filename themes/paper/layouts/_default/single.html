@@ -15,7 +15,7 @@
         {{ if .Params.tags }}
           {{ range .Params.tags }}
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
-              <a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">{{ . }}</a>
+              <a href="{{$.Site.BaseURL}}{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}/">{{ . }}</a>
             </span>
           {{ end }}
         {{ end }}
