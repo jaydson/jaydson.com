@@ -62,6 +62,12 @@ theme = "paper"
       identifier = "about"
       url = "/sobre"
 
+      [[languages.ptbr.menu.main]]
+      name = "Reviews"
+      weight = -129
+      identifier = "reviews"
+      url = "/reviews"
+
   [languages.en]
     languageName = "en"
     contentDir = "content/en"
@@ -116,3 +122,9 @@ theme = "paper"
       weight = -130
       identifier = "about"
       url = "/en/about"
+
+    [[languages.en.menu.main]]
+      name = "Reviews"
+      weight = -129
+      identifier = "reviews"
+      url = "/en/reviews"
