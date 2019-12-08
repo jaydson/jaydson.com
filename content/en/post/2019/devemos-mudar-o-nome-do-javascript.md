@@ -2,23 +2,23 @@
 author: Jaydson Gomes
 categories:
 - vlog
-- programacao
+- programming
 - javascript
 date: "2019-11-18T11:00:17Z"
 draft: false
 micro: true
-slug: devemos-mudar-o-nome-do-javascript
+slug: should-we-rebrand-javascript
 tags:
 - vlog
-- programacao
+- programming
 - javascript
-title: Devemos mudar o nome do JavaScript?
+title: Should we rebrand JavaScript?
 ---
-Mais um vídeo para o canal da [BrazilJS](https://www.youtube.com/user/BrazilJS).  
-Mocha, LiveScript, #JavaScript, #JS, JScript, ActionScript, #ECMAScript, ES5, ES6, ES2019, #ES2020, ES8.  
-É uma sopa de letrinhas. Será que devemos mudar o nome do JavaScript?  
-Neste vídeo, abordo o tema que foi discutido em um artigo e em um episódio de podcast.  
-Além de falar um pouco sobre a história do JavaScript, também trago os argumentos tanto para renomear o JavaScript quanto para deixar como está.  
+Another video for the [BrazilJS](https://www.youtube.com/user/BrazilJS) channel.  
+Mocha, LiveScript, #JavaScript, #JS, JScript, ActionScript, #ECMAScript, ES5, ES6, ES2019, # ES2020, ES8.  
+It's an alphabet soup. Should we rename the JavaScript?  
+In this video, I cover the topic that was discussed in an article and a podcast episode.  
+In addition I talked a little about the history of JavaScript and also bring arguments for both ideas of renaming JavaScript and leaving it as it is.  
 
 {{< youtube MQxQ7FyD38E >}}
 

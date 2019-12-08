@@ -2,7 +2,7 @@
 author: Jaydson Gomes
 categories:
 - vlog
-- programacao
+- programming
 - javascript
 date: "2019-11-18T10:00:17Z"
 draft: false
@@ -10,18 +10,19 @@ micro: true
 slug: web-assembly-virus
 tags:
 - vlog
-- programacao
+- programming
 - javascript
-title: WebAssembly é vírus?  
+title: Is WebAssembly virus?  
 ---
-Mais um vídeo para o canal da [BrazilJS](https://www.youtube.com/user/BrazilJS).  
-Eita! WebAssembly é vírus? 🤔  
-Claro que não!  
-O que acontece é que, como com quase toda tecnologia, vulnerabilidades são sempre exploradas.  
-Com o WebAssembly não é diferente.  
-Em sua versão 1.0 estável e disponível nos principais navegadores de mercado (Chrome, Firefox, Safari e Edge) o WebAssembly já pode ser considerado um pilar das tecnologias Web.  
-Um estudo publicado em junho de 2019 revelou que nos top 1 milhão de sites, um em cada 600 sites usam WebAssembly.  
-Destes sites usando WebAssembly, 50 % o utilizavam de maneira maliciosa, explorando alguma vulnerabilidade, cryptomining e malwares.  
+Another video for the [BrazilJS](https://www.youtube.com/user/BrazilJS) channel on YouTube. (video in portuguese)  
+Is WebAssembly virus? 🤔  
+Of course not!  
+
+As it happens with almost all technology, vulnerabilities are always exploited.  
+With WebAssembly is no different.  
+In its stable version 1.0 being available in all major browsers (Chrome, Firefox, Safari and Edge), WebAssembly can already be considered a pillar of web technologies.  
+A study published in June 2019 revealed that in the top one million websites, one in 600 uses WebAssembly.  
+Of these websites that runs WebAssembly, 50% are usint it with malicious intention, exploiting some vulnerability, cryptomining and malware.  
 
 {{< youtube HHbx1aXQ35A >}}
 

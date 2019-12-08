@@ -5,53 +5,53 @@ categories:
 date: "2019-10-02T10:22:17Z"
 draft: false
 image: /images/2019/09/jaydson-braziljs-conf-2019.jpg
-slug: discurso-abertura-braziljs-conf-2019
+slug: opening-speech-at-braziljs-Conf-2019
 tags:
 - braziljs
-title: Discurso de abertura na BrazilJS Conf 2019
+title: Opening Speech at BrazilJS Conf 2019
 ---
-Em agosto de 2019 aconteceu a 9ª edição da BrazilJS Conf, evento da qual sou um dos fundadores.  
-Aprendemos muito nessa jornada de quase uma década. Ano após ano aprendemos e implementamos mudanças no evento.  
-Vivemos em tempos assustadores e eu não pude deixar de dialogar com todos presentes no evento de maneira transparente e sincera.  
-Algumas pessoas me questionaram sobre o discurso, perguntando se eu não estaria afastando pessoas que não concordam com o posicionamento da BrazilJS.  
-Mas esperem um pouco, qual posicionamento?  
-Minha resposta foi a mesma para todos: Só existem 2 lados, o lado certo e o errado, e tenho plena convicção de que eu Jaydson e minha empresa estão do lado certo.  
-Não é difícil de entender, não se trata de política, de ideologia ou de opinião.  
-Estamos do lado certo. O lado onde não se prega o ódio, o lado onde as pessoas vêm em primeiro lugar, o lado onde todos(as) têm direitos e oportunidades iguais. É simples, na verdade.  
-Caso concorde comigo ou tenha a mente o minimo aberta, continue lendo o post e veja o meu discuro na abertura do evento.  
+In August 2019, the 9th BrazilJS Conf edition took place, an event of which I am one of the founders.  
+We learned a lot from this journey of almost a decade. Year after year we learn and change it when necessary.  
+We live in scary times and I couldn't help but dialog with everyone present in a transparent and sincere way.  
+Some people asked me about the speech, asking if I wouldn't be pushing people who do not agree with BrazilJS's position.  
+But wait a minute, what positioning?  
+My answer was the same for everyone: There are only two sides, the right and the wrong, and I fully believe that myself and my company are on the right one.  
+It's not hard to understand, it's not about politics, ideology or opinion.  
+We are on the right side. The side where hatred is not preached, the side where people come first, the side where everyone has equal rights and opportunities. It's simple, really.  
+If you agree with me or have a minimum open mind, keep reading the post and see my speech at the opening.  
 
 ![Jaydson no palco na abertura do evento BrazilJS Conf 2019](/images/2019/09/jaydson-braziljs-conf-2019.jpg)  
 
-#### BrazilJS Conf, 23 de agosto de 2019, 09:30am
+#### BrazilJS Conf, August 23, 2019, 09:30am
 
-Bom dia galera!  
-Muito obrigado por estarem mais uma vez aqui presenciando o que é __maior conferência JavaScript do planeta__!  
-Sério! Vocês tem noção disso?  
-Uma linguagem de programação que até pouco tempo atrás era tratada como brinquedo, hoje é a linguagem mais popular do mundo.  
-O JS é onipresente.  
-E a [BrazilJS Conf](https://braziljs.org/conf/) é o maior evento dessa linguagem, e ele acontece aqui no Brasil, aqui em Porto Alegre. Que negócio inimaginável esse!  
-Bom, esta é a 9ª edição. Já são 9 anos consecutivos fazendo isso. E estamos prontos para a 10ª, 15ª e para a 20ª.  
+Good morning everyone!  
+Thank you so much for being here once again witnessing what is __the biggest JavaScript conference in the world__!  
+I meam, really! Do you know this?  
+A programming language that until recently was treated as a toy, today is the most popular language in the world.  
+JS is ubiquitous.  
+And [BrazilJS Conf](https://braziljs.org/conf/) is the biggest event of this language, and it happens here in Brazil, here in Porto Alegre. This is unimaginable!  
+Well, this is the 9th edition. It's been 9 consecutive years doing this. And we are ready for the 10th, 15th and 20th.  
 
-Nestes 9 anos muito coisa mudou.  
-Vivemos em tempos “assustadores”.  
-Estamos em um presente distópico.  
-(_Acho que ficamos muito tempo na Netflix e agora parece que estamos no mundo invertido_)  
-Voltamos a ter negadores.  
-Negadores da ciência, negadores da cultura, negadores de coisas básicas, como o mínimo do direito do ser humano.  
-“Ah, lá vem o Jaydson falar de assuntos não técnicos em evento de tecnologia”.  
+In these 9 years a lot has changed.  
+We live in "scary" times.  
+We are in a dystopian present.  
+(_I think we spent a lot of time on Netflix and now it looks like we're in the upside down_)  
+We have deniers again.  
+Deniers of science, deniers of culture, deniers of basic things, such as the minimum of human rights.  
+"Ah, here comes Jaydson again to talk about non-technical issues at a technology conference."  
 
-A BrazilJS só existe em primeiro lugar por um motivo: a comunidade, pelas pessoas.  
-Sim, Felipe e eu acreditávamos no JavaScript, na tecnologia, mas o principal sempre foi a comunidade.  
-E qual melhor lugar para falar de todos os tipos de assunto que um evento de tecnologia, onde todo mundo é louco para resolver problemas. Problemas são resolvidos para quem? Para pessoas.  
+BrazilJS only exists in the first place for just one simple reason: the community, for the people.  
+Yes, Felipe and I believed in JavaScript, in technology, but the main thing was always the community.  
+And what a better place to talk about all kinds of subjects than a technology conference, where everyone is crazy to solve problems. Problems are solved for? For people.  
 
-E esse é o ponto, não se faz evento de tecnologia só por tecnologia. Tecnologia é legal, vocês vão ter mais de 20 palestras aqui, conteúdo inédito, hackathon, eventos extras, desafios, a cabeça vai fervilhar, mas vocês não estão aqui só por isso (eu acredito), vocês estão aqui por algo a mais.  
-Vocês estão aqui pelas pessoas.  
-Vocês estão aqui para conversar com alguém que te ajudou no Twitter uma vez, para conversar com a palestrante que faz um trabalho que te inspira.  
-Esse é o verdadeiro motivo de estarmos todos aqui hoje reunidos. Para fazer conexões, para aprender, e para quem sabe fazer um mundo melhor.  
+And that is the point, there is no technology event just for technology. Technology is cool, you will have more than 20 talks here, original content, hackathon, extra events, challenges, your head will boil, but you are not here just for that (I believe), you are here for something more.  
+You are here for the people.  
+You are here to talk to someone who helped you on Twitter once, to talk to the speaker who does a work that inspires you.  
+That is the real reason why we are all here today. To make connections, to learn, and to make a better world.  
 
-Evento de tecnologia é sim lugar para se debater sobre todo tipo de assunto, e fazemos isso com orgulho aqui na BrazilJS.  
-Eu desejo a todo mundo um excelente evento, que a BrazilJS Conf 2019 possa marcar a vida de vocês, que vocês saiam daqui com mais ideias, com vontade de aprender ainda mais e o mais importante, que saiam daqui com a cabeça mais aberta não só para tecnologia, mas para a vida.  
+Tech events are really a good place to discuss all kinds of issues, and we do it proudly here at BrazilJS.  
+I wish everyone an excellent event, I hope BrazilJS Conf 2019 can mark your life, I hope you leave the conference with more ideas, willing to learn even more and most importantly, leave with a open mind not only for technology, but for life.  
 
-Na BrazilJS não somos negadores de ciência. Não somos negdores de cultura.  
-Vamos sair daqui e testar tudo que foi dito, isso é ciência.  
-Só a cultura salva, para isso, eu apresento a vocês: DoubleTap (_A DoubleTap foi a banda que acompanhou o evento todo, trazendo releituras acústicas de clássicos do Rock, Pop e músicas escolhidas pelas pessoas que palestraram no evento_)!  
+At BrazilJS we are not deniers of science. We are not culture deniers.  
+At the end, we'll leave and test everything that has been said, this is science.  
+Only culture saves, for that, I present to you: DoubleTap (_DoubleTap was the band that accompanied the whole event, bringing acoustic rock readings, pop, classics and songs chosen by the people who spoke at the event_)!

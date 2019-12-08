@@ -2,19 +2,19 @@
 author: Jaydson Gomes
 categories:
 - vlog
-- programacao
+- programming
 - javascript
 date: "2019-10-02T10:22:17Z"
 draft: false
 micro: true
-slug: qual-foi-minha-primeira-linguagem-de-programacao
+slug: What-was-my-first-programming-language
 tags:
 - vlog
-- programacao
+- programming
 - javascript
-title: Qual foi minha primeira linguagem de programação? 
+title: What was my first programming language?
 ---
-Fiz um vlog para o canal da [BrazilJS](https://www.youtube.com/user/BrazilJS) sobre como aprendi a programar e qual foi sua primeira linguagem de programação.  
-Também abordo quais foram minhas estratégias para aprender a programar e como o JavaScript ajudou neste processo.  
+A vlog for [BrazilJS' YouTube channel](https://www.youtube.com/user/BrazilJS) (video in portuguese) about how I learned to write code and which was my first programming language.  
+I also talk about how was my strategies to learn and how JavaScript help me in the process.
 
 {{< youtube pwImtfOTq5c >}}
