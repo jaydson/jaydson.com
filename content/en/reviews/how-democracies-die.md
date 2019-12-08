@@ -3,7 +3,7 @@ author: Jaydson Gomes
 categories:
 - book
 - review
-date: "2019-12-06T08:00:17Z"
+date: "2019-12-06T08:01:17Z"
 draft: false
 micro: false
 image: /images/2019/12/how-democracies-die.jpeg

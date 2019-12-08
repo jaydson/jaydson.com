@@ -16,66 +16,70 @@ tags:
 - politica
 - gdpl
 - gdpr
-title: "Cadastro base do cidadão: O Estado também quer fazer parte da farra dos dados"
+title: "Citizen register database: The Brazilian government also wants to be part of the data party"
 ---
-Parece que o Estado/governo está sempre atrás em tudo, falando de Brasil então, o caso é ainda pior, por vezes trágico e por vezes cômico.  
-Por mais de uma década o Vale do Silício popularizou - e tornou padrão - o uso desenfreado, sem escrúpulos, sem culpa e sem vergonha (me faltam adjetivos) de dados de usuários da internet, os internautas (alô presidenta).  
+It seems like the government is always behind in everything, in Brazil it's even worse, sometimes tragic and sometimes comical.  
+For over a decade Silicon Valley has popularized - and made it standard - the rampant, unscrupulous, blameless, and shameless use of internet users data.  
 
-Em mais um decreto feito na calada da noite, o (des)governo atual chega pegando de surpresa os desavisados, mas também supreeende ativistas, pensadores e jornalistas que estudam o assunto.  
-Na última semana me assustei ao dar o play no meu podcast preferido das manhãs, o [Café da Manhã](https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo), e [ouvir sobre o tal cadastro base do cidadão](https://open.spotify.com/episode/7oMdboyxzRKJTCNxPDdqJ3?si=S1xJ19sTSlWhAt8CvO5nOg).  
-O [Guia Prático](https://open.spotify.com/show/5cZEyTl4lgdkHIbgWMix83) também dedicou um episódio para [falar sobre o assunto](https://open.spotify.com/episode/4E2ytQdFXZo3VKdHmseS61?si=I8XytaKeQ164gwFQoX0s8w).  
-A [Débora Duarte](https://twitter.com/deboracardu) também escreveu em seu blog, no post [O governo quer seus dados!](https://deboraduarte.github.io/blog/o-governo-quer-seus-dados/) e abordamos o tema no [vídeo semanal](https://www.youtube.com/watch?v=NlYMTm39HUs) da [BrazilJS](https://braziljs.org/).  
-Em resumo, muita gente está falando sobre o assunto, afinal de contas um cadastro único que reúne não só dados cadastrais do cidadão, como CPF, mas também  bizarrices como o jeito de se andar, precisa mesmo de um debate público.  
-Debate esse que estranhamente não aconteceu previamente. Bom, mas acho que já podemos assumir que qualquer tipo de debate público é uma coisa que não podemos esperar nesse governo, certo?  
+In another silent decree, our current government comes surprising the unsuspecting, but also surprises activists, thinkers and journalists who study the subject.  
+Last week I got scared playing my favorite podcast in the mornings, [Café da Manhã](https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo), and [listened about the citizen resgister database](https://open.spotify.com/episode/7oMdboyxzRKJTCNxPDdqJ3?si=S1xJ19sTSlWhAt8CvO5nOg).  
 
-Vamos aos detalhes.  
 
-## O que é o cadastro base do cidadão?  
-Em resumo, o cadastro é o que nome parece dizer mesmo, uma base centralizada de informações dos cidadãos.  
-O [decreto foi assinado](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm) no dia 09/10/2019.  
-O cadastro terá dados biográficos que atualmente já estão vinculados ao CPF: nome completo, data de nascimento, filiação, sexo e naturalidade.  
-Até aí podemos ingenuamente pensar que tudo bem, porém, o decreto prevê outros dados em um futuro próximo.  
-Entre eles temos os seguintes atributos biométricos:  
+The [Guia Prático](https://open.spotify.com/show/5cZEyTl4lgdkHIbgWMix83) podcast also devoted an episode to [talk about it](https://open.spotify.com/episode/4E2ytQdFXZo3VKdHmseS61?si=I8XytaKeQ044).  
+[Deborah Duarte](https://twitter.com/deboracardu) also wrote on her blog: [The government wants your data!](https://deboraduarte.github.io/blog/o-governo-quer-seus-dados. 
+We discussed the seme topic in our weekly video at [BrazilJS show](https://www.youtube.com/watch?v=NlYMTm39HUs).  
+In short, a lot of people are talking about it, after all, a single registration that gather citizen registration data, such as CPF (social security number), but also data about how we walk, really needs a public debate.  
+Debate that strangely did not happen. Well, but I think we can already assume that any kind of debate is something we can't expect in this government.  
 
-✋ Palma da mão  
-🖕 Digitais  
-👀 Retina ou a íris  
-🤡 Formato da face  
-🔊 Voz  
-🚶 Maneira de andar    
+Let's go further.    
 
-Está previsto um update nos dados biográficos também, incluindo informações como estado civil, endereço e vínculos empregatícios.  
-Agora imaginem o governo tendo acesso integrado à todas essas informações, cruzando com diversos sistemas públicos existentes, cruzando com sistemas privados, vazando informações intencionalmente e não intencionalmente, etc.  
-A lambança potencial é exponencial. Se o nosso presente já é distópico, imaginem o futuro.  
+## What is the citizen register database?  
+In short, the register is what its name seems to mean, a centralized citizens information database.  
+The [decree was signed](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm) on Septemper, 10, 2019.  
+The registration will have biographical data that are currently linked to the CPF: full name, date of birth, affiliation, gender and city of birth.  
+So far we may naively think that everything is ok, but the decree forsee other data in the near future.  
+Among them we have the following biometric attributes:  
 
-## Lado bom? Tem?
-Na teoria e no mundo ingênuo e encantado da imaginação, sim.  
-Existem inúmeros benefícios diretos para o cidadão ao se unificar e centralizar informações.  
-Quem nunca reclamou do fato de termos tantos documentos no Brasil?  
-No início desse ano fiz uma viagem de carro ao Uruguay 😍.  
-Imaginem a minha cara ao me pedirem a identidade (RG) na imigração.  
-É óbvio que eu estava apenas com a minha carteira de motorista (CNH) e por pouco não tive que pegar a estrada de volta.  
-Em raras ocasiões em que o documento de reservista é necessário é a mesma novela, nunca sei onde está, e já tive que refazer umas duas vezes.  
-Não podemos esquecer do título de eleitor e dos papéis gerados ao votar que também são necessários por algum motivo.  
-Isso aí é só a ponta do iceberg, existem mais documentos e existe muita informação que justificaria um cadastro mais robusto e uma maneira mais eficaz de se cruzar e usar informações.  
+✋ Hand palm  
+🖕 Fingerprint  
+👀 Retina or iris  
+🤡 Face Format  
+🔊 Voice  
+🚶 Way to walk  
 
-Para quem pensa que esse é um passo importante e necessário para o Brasil ter um Governo Digital, se engana.  
-Minha amiga de longa data, [Yaso Córdova](https://twitter.com/yaso/), [explica bem](https://yaso.blogosfera.uol.com.br/2019/09/25/governo-digital-em-um-mundo-super-conectado-para-onde-vai-o-brasil/) os possíveis benefícios de um "Governo Digital":  
+There'll be an update to the biographical data is, including information such as marital status, address and employment relationships.  
+Now imagine the government having integrated access to all this information, crossing different existing public systems, private systems, leaking information intentionally and unintentionally.  
+The crap potential is exponential. If our present is already dystopian, imagine our future.  
 
-> Uma das ideias de Governo Digital é garantir a mesma experiência de modernidade para serviços que o governo presta. Acompanhamento de rotas de ônibus, B.O. digital pra quem perdeu documentos, prontuário de saúde no celular, localização de médicos do Sistema Único de Saúde, defensoria pública com auxílio de robôs via chat, pagamento de impostos via internet, acompanhamento da agenda de políticos, emissão de carteiras de identificação, licença para dirigir, certidões, consultas a documentos, até a agência do trabalhador, com INSS e outros, poderiam estar à mão e mais fáceis de organizar e guardar.  
-Essa ideia não é ruim. Facilitaria a vida das pessoas, especialmente as que trabalham o dia todo e não tem lá muito tempo pra enfrentar filas e filas, característica marcante dos serviços que não são digitais. Também tornaria a politica mais transparente, caso o governo opte por obedecer os paradigmas da Lei de Acesso à Informação e dar transparência aos dados.  
+## It's good someway?
+
+In theory and in the naive and enchanted world of imagination, maybe yes.  
+There are numerous direct benefits to the citizen by unifying and centralizing information.  
+Who has never complained about the fact that we have so many documents in Brazil?  
+Earlier this year I took a car trip to Uruguay 😍.  
+Just imagine my face when the immigration asked me for an ID (it's another document like the CPF).  
+Obviously I had only my driver's license (CNH - which is another document) and I almost had to go back home.  
+It's the same issue whe on rare occasions the reservist document is required, I never know where it is, and I've had to redo it a couple of times.  
+We must not forget the voting document and the voting papers that are also needed for some bizarre reason.  
+This is just the tip of the iceberg, there are more documents and there is a lot of information that would justify a more robust registration and a more effective way to cross and use information.  
+
+If you think this is an important and necessary step for Brazil to have a Digital Government, you're wrong.  
+My long time friend, [Yaso Córdova](https://twitter.com/yaso/), [explains](https://yaso.blogosfera.uol.com.br/2019/09/25/governo-digital-em-um-mundo-super-conectado-para-onde-vai-o-brasil/) the possible benefits of a "Digital Government":  
+
+> One of the ideas of Digital Government is to ensure the same experience of modernity for services that government provides. Bus route monitoring, health records on mobile phones, location of doctors, public defender with the help of robots via chat, payment of taxes via internet, monitoring of politicians agenda, issuance of ID cards, license to drive, certificates, document consultations.  
+This idea is not bad. It would make life easier for people, especially those who work all day and do not have much time to face queues, a hallmark of non-digital services. It would also make the policy more transparent if the government chooses to obey the paradigms of the Access to Information Act and give transparency to data.  
+
 - Yaso Córdova  
 
-O decreto pode parecer algo moderno, um passo em direção ao futuro, mas infelizmente não é.  
+The decree may seem modern, a step towards the future, but unfortunately it is not.  
 
-## Problemas
-Vamos aos problemas.  
-O primeiro ponto é a falta de transparência e falta de discussão aberta sobre o assunto.  
-Fora isso, o governo brasileiro não tem a mínima capacidade técnica de criar uma solução que suporte nem 10% do que diz o decreto.  
-Existem exceções, é óbvio, mas qual serviço público funciona bem na internet?  
-Um exemplo bobo e que diretamente talvez não tenha nada a ver com o decreto em si é a própria página onde o decreto está disponível: [http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm)  
-Não é necessário um background na área de tecnologia para perceber que esta página é um pouco ultrapassada.  
-Vamos ao código fonte, e não é preciso ir muito a fundo, as primeiras linhas já são suficientes:  
+## Problems
+Let's face the problems.  
+The first point is the lack of transparency and lack of open discussion on the subject.  
+The Brazilian government has not the slightest technical capacity to create a solution that supports even 10% of what the decree says.  
+There are exceptions, of course, but which public service works well on the internet? A silly example that may directly have nothing to do with the decree itself is the page itself where the decree is available: [http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm).  
+You don't need a technology background to realize that this page is a bit outdated.  
+Let's go to the source code, and you don't have to dig deep, the first few lines are enough:  
 
 ```
 <html xmlns="http://www.w3.org/TR/REC-html40" 
@@ -85,82 +89,81 @@ Vamos ao código fonte, e não é preciso ir muito a fundo, as primeiras linhas 
     <meta content="Microsoft FrontPage 6.0" name="GENERATOR"/>
 ```
 Microsoft FrontPage? 6.0?  
-O [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage) foi um software criado em 1995 e descontinuado em 2003.  
-Na prática, a página do decreto 10.046 sobre o cadastro base do cidadão foi gerada utilizando um software de no mínimo 16 anos de idade, supondo que a versão mais "recente", de 2003, tenha sido usada.  
-Ok, uma coisa não tem nada a ver com a outra, mas entendem o meu ponto?  
+[FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage) was a software created in 1995 and discontinued in 2003.  
+In practice, the decree page 10.046 on the citizen's register database was generated using software at least 16 years old, assuming that the "latest" version of 2003 was used.  
+Ok, one thing has nothing to do with the other, but, I mean, WTF?  
 
-É claro que existem cases legais de tecnologia no governo brasileiro.  
-A Yaso inclusive cita no podcast do Manual do Usuário que a receita federal é reconhecida internacionalmente por suas soluções técnicas.  
-O próprio sistema eleitoral com as urnas eletrônicas também é um bom exemplo.  
-Entretanto, é consenso afirmar que quando se trata de seviços específicos para o cidadão, com reais benefícios, a história é outra.  
+Of course there are great technology cases in the Brazilian government.  
+Yaso even mentions that the IR (income tax) system is internationally recognized for its technical solutions.  
+The electoral system itself with the electronic box is also a good example.  
+However, we can agree that when it comes to citizen-specific services with real benefits, the story is different.  
 
-Outro ponto de atenção é a sobreposição do decreto a LGPD, a [Lei Geral de Proteção de Dados Pessoais](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm).  
-A LGPD, que entra em vigor em agosto de 2020, é a versão brasileira da [GDPR](https://eugdpr.org/) (General Data Protection Regulation).  
-Em resumo, essas leis de proteção aos dados pessoais objetivam acabar com a farra e abuso no uso dos dados.  
-Existem muitas inconsistências no decreto, sendo a principal e mais preocupante o uso, controle e detenção dos dados por parte do governo.  
-Os dados dos cidadãos precisam pertencer ao cidadãos e não ao governo.  
+Another point of attention is the LGPD ([General Data Protection Regulation](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)) overlap.  
+The LGPD, which takes effect in August 2020, is the Brazilian version of the [GDPR](https://eugdpr.org/) (General Data Protection Regulation).  
+These personal data protection laws aim to end the abuse of data usage.  
+There are many inconsistencies in the decree, the main and most worrying is the use, control and data possession by the government.  
+Citizen data must belong to the citizen and not to the government.  
 
-## Existem soluções semelhantes que funcionam?
-China e Índia são os países que já implementam algo parecido.  
-Na China, a vigilância em massa já é realidade e o acesso à internet é totalmente regulado e restrito.  
-Já na Índia algo semelhante ao cadastro base existe há um bom tempo.  
-Porém, nem Índia e nem China parecem ser um bom exemplo a ser seguido, por um motivo ou outro.  
+## Are there similar solutions that work?
+China and India are the countries that already implement something similar.  
+In China, mass surveillance is already a reality and internet access is fully regulated and restricted.  
+In India something similar to the base register has been around for a long time.  
+But neither India nor China seem to be a good example to follow, for one reason or another.  
 
-É aí que entra a [Estônia](https://pt.wikipedia.org/wiki/Est%C3%B3nia).  
-A Estônia possui 45 mil quilômetros quadrados de área e menos de 1.5 Mi habitantes.  
-Para se ter uma ideia, em número de pessoas a Estônia é mais ou menos do mesmo tamanho de Porto Alegre.  
-Mas o que mais me chamou atenção sobre a Estônia é a sua estratégia digital.  
-Muito legal ver na prática o que a Yaso nos falou sobre Governo Digital.  
+Then we have [Estonia](https://en.wikipedia.org/wiki/Estonia).  
+Estonia has 45,000 square kilometers and less than 1.5 million inhabitants.  
+Estonia is roughly the same size as Porto Alegre.  
+But what struck me most about Estonia is its digital strategy.  
+Thata's very nice to see in practice what Yaso told us about Digital Government.  
 
 ![Site e-estonia](/images/2019/10/e-estonia.jpg)  
 
-Basta acessar o site [https://e-estonia.com/](https://e-estonia.com/) para entender.  
+Take a look at the website [https://e-estonia.com/](https://e-estonia.com/) to understand.  
 
-> Nós criamos uma sociedade digital e você também pode.  
-Nomeada "a sociedade digital mais avançada do mundo" pela [Wired](http://www.wired.co.uk/article/estonia-e-resident), engenhosos estonianos são desbravadores, que construíram um ecossistema eficiente, seguro e transparente que economiza tempo e dinheiro.  
-A e-Estônia convida você a seguir a jornada digital.  
+> We've built a digital society and we can show you how.  
+Named ‘the most advanced digital society in the world’ by [Wired](http://www.wired.co.uk/article/estonia-e-resident), ingenious Estonians are pathfinders, who have built an efficient, secure and transparent ecosystem that saves time and money. e-Estonia invites you to follow the digital journey.  
 
-Os números são impressionantes:  
+The numbers are impressive:    
 
-✅  46.7% dos estonianos usam o sistema de votação via internet  
-✅  98% dos estonianos possuem o ID-card  
-✅  99% dos serviços são online  
+✅ 46.7% of Estonians use the internet voting system  
+✅ 98% of Estonians have an ID-card  
+✅ 99% of services are online  
 
-Para se chegar nesses números e se tornar uma sociedade digital foi necessário investimento e um pensamento a longo prazo, coisa que no Brasil sabemos que é ficção.  
-A Estônia começou o projeto há 20 anos. Não existia nenhum tipo de coleta de dados e a população não tinha internet e nem smartphones.  
-O que o governo fez? Investiu em tecnologia.  
-Atualmente a Estônia conta com uma série de soluções digitais que a caracterizam como uma das maiores sociedades digitais do mundo.  
+Reaching these numbers and becoming a digital society required investment and long-term thinking, which we know in Brazil is fiction.  
+Estonia started the project 20 years ago. There was no type of data collection and the population had no internet or smartphones.  
+What did the government? Invested in technology.  
+Estonia currently has a number of digital solutions that characterize it as one of the largest digital societies in the world.  
 
-Para fins de comparação, vamos ver o serviço de Digital ID:  
+For comparison purposes, let's look at the Digital ID service:  
 
-> Quase todos os cidadãos da Estônia possuem um ID Card, que é muito mais do que simplesmente um documento com foto legal.  
-Tecnicamente, é um cartão nacional obrigatório com um chip que carrega arquivos incorporados e, usando a criptografia de chave pública ECC de 384 bits, pode funcionar como prova definitiva de identificação em um ambiente eletrônico.  
-Funcionalmente, o ID Card fornece acesso digital a todos os serviços eletrônicos seguros da Estônia, liberando as pessoas da burocracia tediosa e tornando as tarefas diárias mais rápidas e mais confortáveis, seja em operações bancárias ou comerciais, assinando documentos ou obtendo uma receita médica digital.  
+> Nearly every one of Estonia's 1.3 million citizens has an ID card, which is much more than simply a legal photo ID.  
+Technically, it is a mandatory national card with a chip that carries embedded files, and using 384-bit ECC public key encryption, it can function as definitive proof of ID in an electronic environment.  
+Functionally, the ID card provides digital access to all of Estonia’s secure e-services, releasing a person from tedious red tape and making daily tasks faster and more comfortable whether we are talking about banking or business operations, signing documents or obtaining a digital medical prescription.  
 
-Claro, não da pra comparar um país do tamanho da Estônia com o Brasil, mas tornar o Brasil um país digital de verdade não é  impossível, porém, é preciso investimento e o principal: Pessoas que entendam do asssunto e um governo não autoritário.  
+Of course, you can not compare a country the size of Estonia with Brazil, but making Brazil a real digital country is not impossible, however, it takes investment and the main thing: People who understand the subject and a non-authoritarian government.  
 
-Vamos sonhando.  
+Let's dream.  
 
-## Conclusão
-O Brasil perde mais uma vez a oportunidade de criar algo de impacto verdadeiro e benéfico.  
-A falta de debate público, a falta de transparência e coerência no decreto estão muito mais alinhadas ao autoritarismo do que qualquer outra coisa.  
-Faltam políticos que entendam o mínimo de tecnologia e falta ao governo uma base tecnológica mínima.  
-É impossível confiar ou apoiar um decreto aleatório, sem objetivos concretos e totalmente sem noção - no sentido literal da palavra mesmo.  
-Me parece que o governo está buscando se adequar ao modelo do Vale do Silício, justamente em um momento onde o próprio modelo está sendo questionado e combatido.  
-Comunidades técnicas do mundo todo, cientistas, ativistas e hackers estão criando há anos soluções para uma nova internet/web.  
-A farra dos dados está em xeque e felizmente estamos evoluindo ao ponto de que cada vez mais pessoas se importam e entendem o assunto, o que não é o caso do nosso governo.  
+## Conclusion
+Brazil loses once again the opportunity to create something of true and beneficial impact.  
+The lack of public debate, the lack of transparency and consistency in the decree are much more in line with authoritarianism than anything else.  
+There is a lack of politicians who understand the minimum of technology and the government lacks a minimal technological base.  
+It is impossible to trust or support a random decree without concrete goals and totally clueless - in the literal sense of the word itself.  
+It seems to me that the government is seeking to conform to the Silicon Valley model, precisely at a time when the model itself is being questioned and opposed.  
+Technical communities around the world, scientists, activists and hackers have been creating solutions for a new internet for years.  
+The data spree is in check and luckily we're evolving to the point that more and more people care and understand the issue, which is not the case with our government.  
 
-### Referências
-**DECRETO Nº 10.046, DE 9 DE OUTUBRO DE 2019**  
+### References
+**DECREE Nº 10.046, OCTOBER 9, 2019**  
 http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm  
 
 **Cadastro Base do Cidadão: oito perguntas e respostas sobre a base de dados**  
 https://www.techtudo.com.br/listas/2019/10/cadastro-base-do-cidadao-oito-perguntas-e-respostas-sobre-a-base-de-dados.ghtml  
 
-**Base que reúne dados de brasileiros ajuda ou atrapalha?**  
+**Podcast episode (portuguese only) - Base que reúne dados de brasileiros ajuda ou atrapalha?**  
 https://open.spotify.com/episode/7oMdboyxzRKJTCNxPDdqJ3?si=S1xJ19sTSlWhAt8CvO5nOg
 
-**A ameaça do super banco de dados do governo federal; as empresas do Ocidente que cedem à censura da China**  
+**Podcast episode (portuguese only) - A ameaça do super banco de dados do governo federal; as empresas do Ocidente que cedem à censura da China**  
 https://open.spotify.com/episode/4E2ytQdFXZo3VKdHmseS61?si=I8XytaKeQ164gwFQoX0s8w
 
 **O que é o Cadastro Base do Cidadão. E quais os seus riscos**  
