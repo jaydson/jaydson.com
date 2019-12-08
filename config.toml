@@ -1,56 +1,118 @@
 BaseUrl= "https://jaydson.com"
-LanguageCode= "pt-BR"
-DefaultContentLanguage = "pt-BR"
+LanguageCode= "ptbr"
+DefaultContentLanguage = "ptbr"
 Title= "Jaydson Gomes"
 Copyright = "Creative Commons - 2019"
 canonifyurls = true
 theme = "paper"
 
-[params]
-  description = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
-  metadescription = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
-  cover = "images/2016/10/jaydson-header.jpg"
-  author = "Jaydson Gomes"
-  email = "jaydson@nasc.io"
-  authorlocation = "Porto Alegre, Brasil"
-  authorwebsite = "https://jaydson.com"
-  bio= "Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software, autor e editor no portal BrazilJS."
-  logo = "images/2016/09/logo-jaydson-gray-1.png"
-  paginate = 10
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  #RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "jaydson"
-  twitterName = "jaydson"
-  facebookName = "jaydson"
-  instagramName = "jaydson"
-  linkedinName = "jaydson"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
-  [permalinks]
-    post = "/:slug/"
-  
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "default"
+[languages]
+  [languages.ptbr]
+    languageName = "ptbr"
+    contentDir = "content/ptbr"
+    title = "Jaydson Gomes"
+    weight = 1
+    [languages.ptbr.params]
+      description = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
+      metadescription = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
+      cover = "images/2016/10/jaydson-header.jpg"
+      author = "Jaydson Gomes"
+      email1 = "jaydson@on2.dev"
+      email2 = "jaydson@braziljs.org"
+      authorlocation = "Porto Alegre, Brasil"
+      authorwebsite = "https://jaydson.com"
+      bio= "Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software, autor e editor no portal BrazilJS."
+      logo = "images/2016/09/logo-jaydson-gray-1.png"
+      paginate = 10
+      # Optional RSS-Link, if not provided it defaults to the standard index.xml
+      #RSSLink = "http://feeds.feedburner.com/..."
+      githubName = "jaydson"
+      twitterName = "jaydson"
+      facebookName = "jaydson"
+      instagramName = "jaydson"
+      linkedinName = "jaydson"
+      # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+      hideHUGOSupport = false
+      [languages.ptbr.permalinks]
+        post = "/:slug/"
+      
+      # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+      # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+      # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+      hjsStyle = "default"
 
-  [params.social]
-    twitter = "jaydson"
+      [languages.ptbr.params.social]
+        twitter = "jaydson"
+    
+    [[languages.ptbr.menu.main]]
+      name = "Palestras"
+      weight = -120
+      identifier = "talks"
+      url = "/palestras"
 
-[[menu.main]]
-  name = "Palestras"
-  weight = -110
-  identifier = "palestras"
-  url = "/palestras"
+    [[languages.ptbr.menu.main]]
+      name = "Twiiter"
+      weight = -110
+      identifier = "twiiter"
+      url = "https://twitter.jaydson.com"
 
-[[menu.main]]
-  name = "Twiiter"
-  weight = -120
-  identifier = "twiiter"
-  url = "https://twitter.jaydson.com"
+    [[languages.ptbr.menu.main]]
+      name = "Sobre"
+      weight = -130
+      identifier = "about"
+      url = "/sobre"
 
-[[menu.main]]
-  name = "Sobre"
-  weight = -130
-  identifier = "about"
-  url = "/about"
+  [languages.en]
+    languageName = "en"
+    contentDir = "content/en"
+    title = "Jaydson Gomes"
+    weight = 1
+    [languages.en.params]
+      description = "Software development (JavaScript), daydreams and stuff"
+      metadescription = "Software development (JavaScript), daydreams and stuff"
+      cover = "images/2016/10/jaydson-header.jpg"
+      author = "Jaydson Gomes"
+      email1 = "jaydson@on2.dev"
+      email2 = "jaydson@braziljs.org"
+      authorlocation = "Porto Alegre, Brazil"
+      authorwebsite = "https://jaydson.com"
+      bio= "@BrazilJS co-founder, @On2 co-founder, Software developer (mostly JavaScript), BrazilJS author/editor"
+      logo = "images/2016/09/logo-jaydson-gray-1.png"
+      paginate = 10
+      # Optional RSS-Link, if not provided it defaults to the standard index.xml
+      #RSSLink = "http://feeds.feedburner.com/..."
+      githubName = "jaydson"
+      twitterName = "jaydson"
+      facebookName = "jaydson"
+      instagramName = "jaydson"
+      linkedinName = "jaydson"
+      # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+      hideHUGOSupport = false
+      [languages.en.permalinks]
+        post = "/:slug/"
+      
+      # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+      # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+      # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+      hjsStyle = "default"
+
+      [languages.en.params.social]
+        twitter = "jaydson"
+
+     [[languages.en.menu.main]]
+      name = "Talks"
+      weight = -120
+      identifier = "talks"
+      url = "/en/talks"
+
+    [[languages.en.menu.main]]
+      name = "Twiiter"
+      weight = -110
+      identifier = "twiiter"
+      url = "https://twitter.jaydson.com"
+
+    [[languages.en.menu.main]]
+      name = "About"
+      weight = -130
+      identifier = "about"
+      url = "/en/about"

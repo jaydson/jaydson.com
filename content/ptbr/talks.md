@@ -10,21 +10,21 @@ title: Palestras
 
 Eu adoro palestrar! É algo realmente gratificante compartilhar o conhecimento e em algumas vezes ter o poder de mudar o caminho de algumas pessoas.  
 Já faço palestras há mais 8 anos e nunca sinto vontade de parar.  
-Porém, minha profissão não é ser um "palestrante". Eu sou um profissional na área de tecnologia, mais precisamente, no desenvolvimento de software para Web.    
+Porém, minha profissão não é ser um "palestrante". Eu sou um profissional na área de tecnologia, mais precisamente, no desenvolvimento de software.    
 Não dou palestras que não tenham sentido e que não façam parte do meu trabalho diário.  
-Conte comigo para falar sobre __JavaScript__, desenvolvimento Web em geral e sobre o mercado nessa área.  
+Conte comigo para falar sobre __JavaScript__, __desenvolvimento de software__ em geral, __empreendedorismo__, __web ativismo__ e os __impactos da tecnologia na sociedade__.  
 
 ![Jaydson Dweb Meeting 2019](/images/2019/09/jaydson-braziljs-conf-2019.jpg)
 
-## Informações básicas
-__Nome__: Jaydson Gomes  
-__Empresa__: [Nasc](https://nasc.io)  
-__Cargo__: Cofundador, Desenvolvedor de Software  
-__Email__: [jaydson@nasc.io](mailto:jaydson@nasc.io)  
+## Basic info
+__Name__: Jaydson Gomes  
+__Empresa__: [On2](https://on2.dev) / [BrazilJS](https://braziljs.org)  
+__Role__: Cofounder, Software developer    
+__Email__: [jaydson@on2.dev](mailto:jaydson@on2.dev) / [jaydson@braziljs.org](mailto:jaydson@braziljs.org)  
 __Github__: [@jaydson](https://github.com/jaydson)  
-__Blog__: [https://jaydson.com](https://jaydson.com)  
-__Palestras__: [https://speakerdeck.com/jaydson](https://speakerdeck.com/jaydson)  
-__Cidade__: Porto Alegre, RS, Brasil
+__Blog__: [https://jaydson.com/en](https://jaydson.com/en)  
+__Talks__: [https://jaydson.com/en/talks](https://jaydson.com/en/en/talks)  
+__Location__: Porto Alegre, RS, Brasil  
 
 ## Termos
 Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/etc tenha em mente o seguinte:  
@@ -39,31 +39,36 @@ Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/
 👉 Eu prezo pela qualidade do evento onde vou palestrar, então tenha certeza de que tudo estará funcionando bem no dia (projetor, internet, cabos, som, etc) . Em casos extremos, a palestra pode e será cancelada se o ambiente não for propício  
 👉 Em caso do evento ser gravado, o vídeo da palestra pode ser disponibilizado, desde que seja sem fins comerciais  
 👉 O evento precisa ter um código de conduta  
-👉 O evento precisa ter uma grade diversa  
+👉 O evento precisa ter uma grade diversa. Nem perca seu tempo me convidando se o evento só tem homem branco palestrando   
 <br>
 ![Jaydson palestrando na JSConf UY](/images/2016/10/jaydson-gomes-speaking-jsconf-uy-2015.jpg)  
 
 ## Mini bio
-__pt-br__: Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software (principalmente JavaScript), autor e editor no portal BrazilJS, Facebook DevC Lead.  
+Cofundador da @BrazilJS, Cofundador da @On2, Desenvolvedor de software, empreendedor, autor e editor no portal BrazilJS.  
 
-__en__: @BrazilJS co-founder, Nasc co-founder, Software developer (mostly JavaScript), BrazilJS' author and editor, Facebook DevC lead.
-
-## Bio
-__Jaydson Gomes__ trabalha com tecnologia desde o início dos anos 2000 e é​ desenvolvedor de software especializado em __JavaScript__.  
-​É sócio fundador da __[Nasc](http://nasc.io)__ e da ​__[BrazilJS](https://braziljs.org/)__ e curador/idealizador da ​__[BrazilJS Conf](https://braziljs.org/conf)__, uma das maiores conferências do mundo sobre a linguagem __JavaScript__.  
-É editor da Newsletter **BrazilJS Weekly** e host do show [**BrazilJS Weekly no YouTube**](https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD).  
-Jaydson também é autor e editor no portal [**BrazilJS**](https://braziljs.org/blog) e escreve em seu [**blog pessoal**](https://jaydson.com).  
-É um entusiasta _open source_ e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre __JavaScript__ e __tecnologias Web__.  
+## Bio completa
+Veja a bio completa na página [sobre](/sobre).  
 
 ## Fotos
 Sinta-se livre para usar qualquer uma das imagens abaixo no site do seu evento.  
 
-{{< figure src="/images/2017/11/jaydson-avatar-github.jpeg" >}}  
+{{< pswp-init >}}
+{{< gallery title="Fotos Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-avatar-github.jpeg" thumb="-thumb" caption="Foto 1 Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-gomes-avatar-5.jpg" thumb="-thumb" caption="Foto 2 Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-gomes-avatar-3.jpg" thumb="-thumb" caption="Foto 3 Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-bg-blue.jpg" thumb="-thumb" caption="Jaydson fundo azul" >}}
+{{< figure link="/images/jaydson/jaydson-party.jpg" thumb="-thumb" caption="Foto 6 Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-green-hair-1.jpg" thumb="-thumb" caption="Jaydson Gomes green hair 1" >}}
+{{< figure link="/images/jaydson/jaydson-think.jpg" thumb="-thumb" caption="Jaydson Gomes think" >}}
+{{< figure link="/images/jaydson/jaydson-green-hair-2.jpg" thumb="-thumb" caption="Jaydson Gomes green hair 2" >}}
+{{< figure link="/images/jaydson/jaydson-bg-blue-2.jpg" thumb="-thumb" caption="Jaydson fundo azul 2" >}}
+{{< figure link="/images/jaydson/jaydson-gomes-avatar-2.jpg" thumb="-thumb" caption="Foto 4 Jaydson Gomes" >}}
+{{< figure link="/images/jaydson/jaydson-beach.jpg" thumb="-thumb" caption="Jaydson Beach" >}}
+{{< figure link="/images/jaydson/jaydson-gomes-avatar-6.jpg" thumb="-thumb" caption="Foto 5 Jaydson Gomes" >}}
 
-{{< figure src="/images/2017/07/jaydson-gomes-avatar-5.jpg" >}}  
+{{< /gallery >}}
 
-{{< figure height="200" src="/images/2016/10/jaydson-gomes-avatar-3.jpg" >}}  
-      
 
 ## Vídeos
 
