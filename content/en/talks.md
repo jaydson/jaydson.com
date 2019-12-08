@@ -53,7 +53,7 @@ See complete bio in the [about](/en/about) page.
 Feel free to use any of the images below in the event website.  
 
 {{< pswp-init >}}
-{{< gallery title="Fotos Jaydson Gomes" >}}
+{{< gallery title="Jaydson Gomes Photos" >}}
 {{< figure link="/images/jaydson/jaydson-avatar-github.jpeg" thumb="-thumb" caption="Foto 1 Jaydson Gomes" >}}
 {{< figure link="/images/jaydson/jaydson-gomes-avatar-5.jpg" thumb="-thumb" caption="Foto 2 Jaydson Gomes" >}}
 {{< figure link="/images/jaydson/jaydson-gomes-avatar-3.jpg" thumb="-thumb" caption="Foto 3 Jaydson Gomes" >}}
