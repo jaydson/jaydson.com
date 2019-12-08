@@ -5,7 +5,7 @@
     {{ partial "i18nlist.html" . }}
     <p class="post-meta">
       {{- if or .Params.author .Site.Params.author -}}
-      {{ .Params.author | default .Site.Params.author }} · {{ end }}
+      {{ i18n "written_by" }} {{ .Params.author | default .Site.Params.author }} {{ i18n "in" }} {{ end }}
       <time>{{ .Date.Format "2/1/2006" }}</time>
     </p>
   </header>

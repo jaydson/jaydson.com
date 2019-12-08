@@ -15,11 +15,11 @@ title: "Homo Deus: Uma breve história do amanhã"
 ---
 ![Book cover "How democracies die"](/images/2019/12/homo-deus.jpg)  
 
-Reading Homo Deus was a great experience. Both this book and [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens) should be in everyone's must-read list.  
-[Yuval Harari](https://www.ynharari.com/) is an incredible writer. Most of the time, I was intrigued, never bored.  
-There were some very insightful paragraphs and chapters (at least for me).  
-As a technologist, studying the effects of technology on society, I found Yuval's Homo Deus was very helpful.  
-When I started reading this book, right after Sapiens, I was really curious: what Yuval would say about the future as there's a lot of confusion, fiction and belief these days (E.g. Singularity, A.I., etc)?  
-After finishing it, I was very satisfied. The author really knows what he's talking about. There was no bullshit and he did a great job showing us a lot of *true* possibilities.  
-The connections between the past, present and future were perfect.  
-In these dark times we live in, Sapiens and Homo Deus are not only a good reading but a necessary one.  
+Ler o Homo Deus foi uma ótima experiência. Tanto este livro como o [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens) devem estar na sua lista de livros para ler o quanto antes.  
+[Yuval Harari](https://www.ynharari.com/) é um escritor incrível. Na maioria das vezes, fiquei intrigado, nunca entediado.  
+Alguns parágrafos e capítulos foram muito esclarecedores (pelo menos para mim).  
+Como tecnólogo, estudando os efeitos da tecnologia na sociedade, achei o Homo Deus de Yuval muito útil.  
+Quando comecei a ler este livro, logo após Sapiens, fiquei realmente curioso: o que Yuval diria sobre o futuro, pois há muita confusão, ficção e crença hoje em dia (por exemplo, Singularidade, I.A., etc.)?  
+Depois de terminar, fiquei muito satisfeito. O autor realmente sabe do que está falando. Não disse nenhuma besteira e fez um ótimo trabalho, mostrando-nos muitas possibilidades verdadeiras.  
+As conexões entre passado, presente e futuro foram perfeitas.  
+Nestes tempos sombrios em que vivemos, Sapiens e Homo Deus não são apenas uma boa leitura, mas leituras necessárias.  

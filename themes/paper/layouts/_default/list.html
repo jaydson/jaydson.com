@@ -61,12 +61,12 @@
   <nav class="pagination">
     {{ if $paginator.HasPrev }}
       <a href="{{ $paginator.Prev.URL }}" class="pagination-prev bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
-        ← Prev Page
+        ← {{ i18n "prev" }}
       </a>
     {{ end }}
     {{ if $paginator.HasNext }}
       <a href="{{ $paginator.Next.URL }}" class="pagination-next bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
-        Next Page →
+        {{ i18n "next" }} →
       </a>
     {{ end }}
   </nav>

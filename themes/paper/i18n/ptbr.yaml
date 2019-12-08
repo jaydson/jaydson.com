@@ -1,0 +1,10 @@
+- id: next
+  translation: "Próxima página"
+- id: prev
+  translation: "Página anterior"
+- id: related
+  translation: "Conteúdo relacionado"
+- id: written_by
+  translation: "Texto escrito por"
+- id: in
+  translation: "em"
