@@ -12,39 +12,39 @@ tags:
 - blog
 - web
 - dweb
-title: Como migrei 10 anos de tweets para o meu blog
+title: How I migrated 10 years of tweets to my blog
 ---
 
-Há pouco mais de um ano [relatei aqui no blog](https://jaydson.com/social-detox-rehab/) o meu social detox/rehab.  
-Em resumo, deixei de usar redes sociais (ainda vou escrever sobre os benefícios de estar fora das redes).  
-O Twitter sempre foi a rede onde eu fui mais ativo, tanto que em 10 anos criei mais de 10.000 *tweets*.  
-Um dos principais motivos para a minha saída das redes sociais está muito mais ligado ao consumo, ou seja, rolar as *timelines*.  
-Mas a criação de conteúdo é algo que quero manter, para isso que serve esse blog.  
-O que fazer com os 10.000 tweets? Claro, muita coisa não serve para nada, mas o conteúdo é meu e quero ter o controle.  
-Sendo assim, cheguei no desafio: __Migrar todo conteúdo criado no Twitter por mim nos últimos 10 anos para o meu blog__.  
+Just over a year ago I [reported here on the blog](https://jaydson.com/social-detox-rehab/) my social detox/rehab.  
+In short, I stopped using social media (I'll still write about the benefits of being out of networks).  
+Twitter has always been the network where I've been most active, so much that in 10 years I've created over 10,000 tweets.  
+One of the main reasons I quit social media is much more linked to consumption, in other words, rolling out the timelines.  
+But content creation is something I want to keep. That's what this blog is for.  
+What to do with 10,000 tweets? Sure, a lot is totally crap, but the content is mine and I want to have control.  
+So I came up with the challenge: __Migrate all content created on Twitter by me in the last 10 years to my blog__.  
 
 ## TL;DR
-👉 Migrei meus tweets para o meu blog: [https://twitter.jaydson.com](https://twitter.jaydson.com)  
-👉 Foi um processo divertido  
-👉 Criei um projeto open-source para que outras pessoas também possam fazer: [tweets-to-md](https://github.com/jaydson/tweets-to-md)  
+👉 I sucessufully migrated all my tweets to my blog: [https://twitter.jaydson.com](https://twitter.jaydson.com)  
+👉 It was a fun process    
+👉 I created an open source project so other people can do it too: [tweets-to-md](https://github.com/jaydson/tweets-to-md)  
 
-## É possível ter acessos aos seus dados no Twitter?
-Sim 👍  
-Para quem tiver interesse, deixo aqui o link de ajuda para fazer isso: [https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).  
-O Twitter nos dá a opção de baixar nossos dados, não só os tweets, mas também mensagens diretas, dados pessoais e mais um monte de coisa.  
-Veja na imagem abaixo a estrutura de pastas e arquivos que o Twitter disponibiliza.  
+## Is it possible to have access to your data on Twitter?
+Yep 👍  
+For those interested, here's the link: [https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).  
+Twitter gives us the option to download our data, not only tweets, but also direct messages, personal data and more.  
+See the image below for the folder and file structure that Twitter makes available.  
 
-![Imagem da pasta contendo os dados que o Twitter disponibiliza](/images/2019/09/twitter-imported.png)  
+![Image of folder containing data that Twitter makes available](/images/2019/09/twitter-imported.png)  
 
-Note que todos os arquivos possuem a extensão `.js`. Isso é exatamente o que parece, o Twiiter entrega nossos dados em JavaScript.  
-Isso nos traz algumas vantagens, mas ao mesmo tempo limita as possibilidades.  
-Para quem é dev, entender a estrutura de arquivos e executar o código JavaScript pode não ser um grande desafio, mas e para o restante das pessoas?  
-Bom, vamos por partes. Vou atacar esse problema depois (quem sabe uma solução Web onde qualquer pessoa subir seus tweets e gerar o seu site 🤔).  
+Note that all files have the `.js` extension. That's exactly what it sounds, Twiiter delivers our data in JavaScript.  
+This brings us some advantages, but at the same time limits the possibilities.  
+For developers, understanding the file structure and executing JavaScript code may not be a big challenge, but what about the rest of the people?  
+I'll tackle this problem later (maybe a web solution where anyone can upload tweets and generates a website 🤔).  
 
-## Estrutura de dados
+## Data structure
+Let's take a look at the structure.  
+This is the code from the `account.js` file (I removed sensitive information):  
 
-Vamos dar uma olhada na estrutura dos arquivos JS.  
-Esse é o código do arquivo `account.js` (removi informações sensíveis):  
 ```js
 window.YTD.account.part0 = [ {
   "account" : {
@@ -58,13 +58,13 @@ window.YTD.account.part0 = [ {
   }
 } ]
 ```
-A lógica desses arquivos é baseada em um namespace global: `YTD` (your twitter data 🤔).  
-Cada arquivo adiciona o seu próprio contexto e dados dentro deste namespace, de maneira que se executarmos todos os arquivos JS em um navegador, teremos a variável global `YTD` contendo todos os nossos dados.  
-Na prática isso é inviável, principalmente por conta do arquivo `tweet.js`.  
-Notem a propriedade `createdAt` acima, estou no Twitter desde 2008, são mais de 10 anos de tweets.  
-O meu arquivo `tweet.js` tem __13,6MB__!.  
-Isso dá mais ou menos 13600000 de bytes: 13 milhões e seiscentos mil caracteres 😮!  
-Veja abaixo a estrutura de um tweet. Por motivos óbvios, só estou mostrando o primeiro registro, no caso, o meu último tweet.  
+The logic of these files is based on a global namespace: `YTD` (your twitter data 🤔).  
+Each file adds its own context and data within this namespace, so if we execute all JS files in the browser, we'll have the `YTD` global variable containing all of our data.  
+In practice this is not feasible, mainly because of the `tweet.js` file.  
+Note the `createdAt` property above, I'm on Twitter since 2008, it's been over 10 years of tweets.  
+My `tweet.js` file is __13,6MB__ !.  
+That gives about 13600000 bytes: 13 million six hundred thousand characters 😮!  
+See below the structure of a tweet. For obvious reasons, I'm just showing the first record, in this case my last tweet.  
 
 ```
 window.YTD.tweet.part0 = [ {
@@ -95,11 +95,11 @@ window.YTD.tweet.part0 = [ {
 }]
 ```
 
-## Convertendo tweets para posts
-Eu utilizo o [Hugo](https://gohugo.io/) como plataforma para o Blog.  
-Sendo o Hugo um SSG (gerador de sites estáticos), onde a estrutura é baseada no filesystem, para se criar um novo post basta que um arquivo [markdown](https://daringfireball.net/projects/markdown/) seja criado na pasta que armazena o conteúdo.  
-Para os metadados o Hugo (e a grande maioria dos SSGs) utiliza o padrão [Front Matter](https://gohugo.io/content-management/front-matter/).  
-Eu estou utilizando o padrão YAML no Front Matter, que utiliza `---` como marcador. Veja um exemplo de metadado de um post aqui do blog:  
+## Converting tweets to posts
+I'm using [Hugo](https://gohugo.io/) as platform for my blog.  
+Since Hugo is an SSG (static site generator), where the structure is based on the filesystem, to create a new post a [markdown](https://daringfireball.net/projects/markdown/) file is enough.  
+For metadata Hugo (and the vast majority of SSGs) uses the [Front Matter](https://gohugo.io/content-management/front-matter/) standard.  
+I am using the YAML pattern in Front Matter, which uses `---` as marker. Here's an example metadata for a blog post:   
 
 ```
 ---
@@ -118,14 +118,15 @@ title: Mudanças no Blog 2019
 ---
 ```
 
-Para converter tweets em posts no blog tudo que eu precisava fazer era criar arquivos markdown com o conteúdo do tweet e com os metadados necessários.  
-Acabei criando um projeto no GitHub só para lidar com essa conversão: [tweets-to-md](https://github.com/jaydson/tweets-to-md).  
-Para quem quiser usar:  
+To convert tweets to posts all I had to do was create markdown files with the tweet content and the required metadata.  
+I ended up creating a project on GitHub just to handle this conversion: [tweets-to-md] (https://github.com/jaydson/tweets-to-md).  
+For those who want to use it:  
 
-👉 Clone o projeto: `git clone git@github.com:jaydson/tweets-to-md.git`  
-👉 Copie o arquivo `tweet.js` para a raiz  
-👉 Altere o arquivo `config.js` com as informações necessárias para os metadados  
-Veja o exemplo do meu blog:  
+👉 Clone: `git clone git@github.com:jaydson/tweets-to-md.git`  
+👉 Copy the `tweet.js` file to the root  
+👉 Change the `config.js` file with the necessary information  
+
+See an example:  
 
 ```
 const config = {
@@ -150,23 +151,24 @@ tweet_url = "https://twitter.com/jaydson/status/{TWEET_ID}"
 export default config;
 ```
 
-👉 Crie uma pasta `./posts`  
-👉 Instale as dependências com `npm install`  
-👉 Altere a primeira linha do seu arquivo `tweet.js` para o seguinte:  
+👉 Create the `./posts` dir  
+👉 Install the dependencies `npm install`  
+👉 Change the first line of `tweet.js`:  
 ```
 export const tweets = [ {  
 ```
-Isso serve apenas para ignorar a lógica de namespace global mencionada no início, de maneira que que podemos simplesmente importar um módulo JavaScript contendo todos os tweets.  
-Veja a primeira linha do `tweets-to-md`:  
+
+This is to ignore the global namespace logic mentioned at the beginning, so we can simply import a JavaScript module containing all tweets.  
+Look at `tweets-to-md` the first line:  
 ```
 import { tweets } from './tweet';
 ```
 
-👉 Rode o script com `npm start`  
+👉 Run the script with `npm start`  
 
 
-O `tweets-to-md` varre todos os tweets e cria os arquivos markdown aplicando metadados e conteúdo.  
-Veja um exemplo de como fica o meu último tweet depois de convertido para post no blog:  
+`tweets-to-md` scans all tweets and creates markdown files applying metadata and content.  
+Here's an example of what my last tweet looks like after being converted to a blog post:  
 ```
 ---
 author = "Jaydson Gomes"
@@ -181,31 +183,33 @@ Social Detox/Rehab
 https://t.co/OcqN37iCFo
 ```
 
-No final do processo a pasta `./posts` ficou com 9.452 arquivos gerados, ou seja, 9.452 tweets convertidos para posts no blog.  
-Uma coisa que implementei no `tweets-to-md` foi um filtro para ignorar replies, o que no final reduziu em mais ou menos 4.000 tweets.  
+At the end of the process, the `./posts` folder had 9,452 generated files, ie 9,452 tweets converted to blog posts.  
+One thing I implemented in `tweets-to-md` was a filter to ignore replies, which in the end reduced by about 4,000 tweets.  
 
-## Resultado final
-Notei que o Hugo ficou um pouco lento no processo de build com tantos arquivos.  
-A solução mais fácil que encontrei foi gerar o conteúdo com mais posts por página.  
-Outro ponto importante que resolvi fazer no meio do processo foi separar os posts originais do meu blog dos tweets migrados.  
-Para isso criei um outro projeto no GitHub: [twitter.jaydson.com](https://github.com/jaydson/twitter.jaydson.com).  
-Este projeto também usa o Hugo, inclusive usei o mesmo tema do meu blog para o layout.  
-Ah, criei um projeto específico para o tema também: [hugo-paper-tailwind](https://github.com/jaydson/hugo-paper-tailwind).  
+## Final result
+I noticed that Hugo got a little slow in the build process with so many files.  
+The easiest solution I found was to generate content with more posts per page.  
+Another important thing I decided to make in the middle of the process was to separate the original blog posts from the migrated tweets.  
+For that I created another project on GitHub: [twitter.jaydson.com](https://github.com/jaydson/twitter.jaydson.com).  
+This project also uses Hugo, I even used the same theme of my blog for the layout.  
+I created a theme-specific project too: [hugo-paper-tailwind](https://github.com/jaydson/hugo-paper-tailwind).  
 
-Para ver meus tweets em forma de posts no blog, acesse: [https://twitter.jaydson.com/](https://twitter.jaydson.com/).  
+To see my tweets in blog posts, please visit: [https://twitter.jaydson.com/](https://twitter.jaydson.com/).   
 
 ![Screenshot do site twitter.jaydson.com](/images/2019/09/twitter-jaydson-com.png)  
 
-## Conclusão
-Foi uma tarefa um tanto quanto divertida.  
-Agora tenho os meus tweets em forma de conteúdo no meu blog.  
-Não sei o que irá acontecer com o Twitter no futuro e não pretendo voltar para lá, então alcancei o meu objetivo principal.  
-Infelizmente essa solução não impacta diretamente todas as pessoas. Para executar este processo é necessário um certo conhecimento técnico e também força de vontade.  
+## Conclusion
 
-Ao desenvolver a solução pensei em várias outras possibilidades, inclusive já implementei algumas.  
-Por exemplo, como não uso mais o Twitter, mas sinto a necessidade de criar micro-conteúdo, implementei essa funcionalidade no blog.  
-Ao criar um post agora eu decido se vai ser algo mais profundo ou mais curto, e o mais legal: O conteúdo é meu e eu decido o que faço com ele 😉  
+It was a quite fun task.  
+Now I have my tweets in the form of content on my blog.  
+I don't know what will happen to Twitter in the future and I don't want to go back there, so I reached my main goal.  
+Unfortunately this solution does not directly impact all people. To perform this process requires some technical knowledge.  
 
-E aí, o que acham da ideia?  
-Que tal tentar aplicar essa solução no seu blog?  
+When developing the solution I thought of several other possibilities, sime already implemented.  
+For example, as I no longer use Twitter, but feel the need to create micro-content, I implemented this functionality on the blog.  
+When creating a post now I can decide if it's going to be something deeper or shorter, and the cool thing: The content is mine and I decide what I do with it 😉  
+
+So, what do you think of the idea?  
+How about trying to apply this solution to your blog?  
+
 
