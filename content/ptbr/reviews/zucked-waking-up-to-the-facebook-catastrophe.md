@@ -27,7 +27,10 @@ Além de investidor, McNamee é músico, tendo fundado a [Flying Other Brothers]
 Inclusive, logo no início do livro ele conta que suas habilidades como músico é que abriram as portas para o Vale do Silício e para uma carreira no mundo dos negócios.  
 Mas o que fez um excêntrico músico investidor escrever um livro sobre os problemas que o Facebook trouxe para a sociedade?  
 Ao que tudo indica, McNamee também está atento para as questões relaciondas à privaciade, neutralidade na rede e impactos da tecnologia na sociedade.  
-Mas além disso, McNamee possui um histórico diferenciado e pode falar com propriedade sobre o Facebook e sobre Mark Zuckerberg, pois além de investidor do Facebook, ele também foi conselheiro de Zuck em uma época conturbada da vida do pobre _Silicon Valley boy_.  
-Os conselhos de McNamee fizeram o Facebook ser o que é hoje. Zuck negou inúmeras propostas bilionárias e apostou tudo em sua jovem empresa.  
- 
+Mas além disso, McNamee possui um histórico diferenciado e pode falar com propriedade sobre o Facebook e sobre Mark Zuckerberg, pois além de investidor do Facebook, ele também foi conselheiro de Zuck em uma época conturbada da vida do "pobre" _Silicon Valley boy_.  
+Os conselhos de McNamee fizeram o Facebook ser o que é hoje. Na época, Zuck negou inúmeras propostas bilionárias e apostou tudo em sua jovem empresa.  
 
+O autor salienta em diversos momentos uma certa "genialidade", se assim podemos chamar, de Zuckerberg.  
+No mínimo, aquele cara de vinte e poucos anos não era comum, nas palavras de McNamee.  
+Zuck parecia ter a experiência de alguém muito mais velho, e defendia com unhas e dentes a missão de "conectar pessoas".  
+McNamee ainda ressalta que Zuck, apesar de ser o clássico nerd, possuia características que o diferenciavam da grande maioria.  
