@@ -124,6 +124,10 @@ O Hipsters Ponto Tech está disponível na maioria das plataformas.
 Deixo aqui a página oficial: https://hipsters.tech/  
 
 ## 6) Guia prático
+[![Capa do podcast Guia Prático](/images/2019/12/guia-pratico-podcast.jpg)](https://manualdousuario.net/podcast/)  
+
+O Guia prático está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://manualdousuario.net/podcast/  
 
 ## 7) AntiCast
 
