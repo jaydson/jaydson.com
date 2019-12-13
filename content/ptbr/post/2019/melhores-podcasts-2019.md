@@ -124,17 +124,56 @@ O Hipsters Ponto Tech está disponível na maioria das plataformas.
 Deixo aqui a página oficial: https://hipsters.tech/  
 
 ## 6) Guia prático
-[![Capa do podcast Guia Prático](/images/2019/12/guia-pratico-podcast.jpg)](https://manualdousuario.net/podcast/)  
+[![Capa do podcast Guia Prático](/images/2019/12/guia-pratico-podcast.jpg)](https://podtail.com/en/podcast/guia-pratico/)  
+Além do Tecnocracia, o Manual do usuário também tem o excelente podcast [Guia Prático](https://manualdousuario.net/podcast).  
+
+> Podcast sobre tecnologia de consumo. Programas semanais de 40 minutos sobre temas atuais da área, debatidos com bom humor, respeito e pessoas que respiram e conseguem não gritar num podcast.  
+Nos microfones, revezam-se Emily Canto Nunes, Joel Nascimento Jr., Paulo Higa, Rodrigo Ghedin e Samir Salim Jr. A edição é feita por Rodrigo Ghedin.  
+
+Os debates no Guia prático são sempre muito ricos.  
+Os episódios normalmente abordam mais de um assunto específico e contam com diferentes pessoas no debate.  
 
 O Guia prático está disponível na maioria das plataformas.  
-Deixo aqui a página oficial: https://manualdousuario.net/podcast/  
+Deixo aqui o link para o podtail: https://podtail.com/en/podcast/guia-pratico/  
 
 ## 7) AntiCast
+[![Capa do podcast AntiCast](/images/2019/12/anticast-podcast.png)](https://anticast.com.br/)  
+Para quem curte política, mas não só isso, o [AntiCast](https://anticast.com.br/) é o podcast.  
+
+> O AntiCast é um podcast criado em 2011 por Ivan Mizanzuk, Marcos Beccari e Rafael Ancara. No seu início, era um programa dedicado a falar sobre design, comunicação e cultura. Hoje, é uma rede de podcasts com os mais variados temas.
+
+O AntiCast está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://anticast.com.br/  
 
 ## 8) JSParty
+[![Capa do podcast JSParty](/images/2019/12/jsparty-podcast.jpeg)](https://changelog.com/jsparty)  
+Para aqueles(as), que assim como eu, adoram a linguagem JavaScript, o podcast [JSParty](https://changelog.com/jsparty) é altamente recomendado.  
+
+> A community celebration of JavaScript and the web.  
+
+O JSParty está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://changelog.com/jsparty  
 
 ## 9) QuebraDev
+[![Capa do podcast Quebradev](/images/2019/12/quebradev-podcast.jpg)](https://quebradev.com.br/)  
+
+> Um movimento social que tem como objetivo democratizar a informação para a periferia.  
+
+O QuebraDev está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://quebradev.com.br/
 
 ## 10) BrazilJS
+[![Capa do podcast BrazilJS](/images/2019/12/braziljs-podcast.png)](https://braziljs.org)  
+
+> Conteúdo exclusivo, original, relevante e de qualidade para toda a comunidade no Brasil.  
+
+O podcast BrazilJS está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://braziljs.org
 
 ## 11) Bônus - Projeto Humanos
+[![Capa podcast Projeto Humanos](/images/2019/12/projeto-humanos-podcast.jpg)](https://www.projetohumanos.com.br/)  
+
+> Podcast dedicado ao registro e resgate de narrativas individuais, buscando mostrar que mesmo os atos humanos mais banais reservam enormes riquezas.  
+
+O podcast Projeto Humanos está disponível na maioria das plataformas.  
+Deixo aqui a página oficial: https://www.projetohumanos.com.br/
