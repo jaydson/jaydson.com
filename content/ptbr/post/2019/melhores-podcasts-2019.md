@@ -24,13 +24,14 @@ Vou listá-los por ordem de importância e impacto.
 
 ## 1) Tecnocracia
 [![Logo do podcast Tecnocracia](/images/2019/12/tecnocracia.jpg)](https://podtail.com/en/podcast/tecnocracia/)  
-Em 2019, [Tecnocracia](https://podtail.com/en/podcast/tecnocracia/) e Bacurau foram unânimes em indicações que fiz a amigos.  
+Em 2019, [Tecnocracia](https://podtail.com/en/podcast/tecnocracia/) e [Bacurau](https://pt.wikipedia.org/wiki/Bacurau_(filme)) foram unânimes em indicações que fiz a amigos.  
 
 > Já viu Bacurau? Já ouviu o podcast Tecnocracia?  
 
 Descrição do podcast:  
 
-> Qual é o impacto das decisões das grandes empresas de tecnologia na sua vida? Goste ou não, Apple, Facebook, Google, Amazon e afins se tornaram tão poderosos que suas ações dão forma a como vivemos. Apresentado por Guilherme Felitti, o Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia.  
+> Qual é o impacto das decisões das grandes empresas de tecnologia na sua vida? Goste ou não, Apple, Facebook, Google, Amazon e afins se tornaram tão poderosos que suas ações dão forma a como vivemos.  
+Apresentado por Guilherme Felitti, o Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia.  
 
 O que mais me chamou atenção no Tecnocracia - e que me fez virar fã de carteirinha - foi a incrível habilidade de _story telling_ do [Guilherme Felitti](https://twitter.com/gfelitti).  
 Nota-se claramente o trabalho cuidadoso e 100% verdadeiro na elaboração do conteúdo de cada episódio, tanto que a distribuição é feita quinzenalmente.  
@@ -140,7 +141,10 @@ Deixo aqui o link para o podtail: https://podtail.com/en/podcast/guia-pratico/
 [![Capa do podcast AntiCast](/images/2019/12/anticast-podcast.png)](https://anticast.com.br/)  
 Para quem curte política, mas não só isso, o [AntiCast](https://anticast.com.br/) é o podcast.  
 
-> O AntiCast é um podcast criado em 2011 por Ivan Mizanzuk, Marcos Beccari e Rafael Ancara. No seu início, era um programa dedicado a falar sobre design, comunicação e cultura. Hoje, é uma rede de podcasts com os mais variados temas.
+> O AntiCast é um podcast criado em 2011 por Ivan Mizanzuk, Marcos Beccari e Rafael Ancara. No seu início, era um programa dedicado a falar sobre design, comunicação e cultura. Hoje, é uma rede de podcasts com os mais variados temas.  
+
+O AntiCast é bem direto ao ponto e sempre trás os assuntos mais relevantes da atualidade sobre política.  
+Além disso, os hosts também sempre trazem alguém interessante para debater ou para entrevistar.  
 
 O AntiCast está disponível na maioria das plataformas.  
 Deixo aqui a página oficial: https://anticast.com.br/  
@@ -151,29 +155,49 @@ Para aqueles(as), que assim como eu, adoram a linguagem JavaScript, o podcast [J
 
 > A community celebration of JavaScript and the web.  
 
+Para quem domina o inglês, o JSParty trás um excelente conteúdo focado em JavaScript e tecnolgias Web.  
+Inclusive, deixo a dica, ouvit podcast em inglês é ótimo para praticar.  
+É legal que no JSParty tem sempre alguém conhecido, ou que trabalha em alguma grande empresa ou que criou algum projeto open source que todo mundo usa.  
+Os episódios são longos, em média de uma hora, mas são bem fáceis de ser consumidos, pois os hosts deixam o clima bem descontraído e os assuntos são sempre interessantes.  
+
 O JSParty está disponível na maioria das plataformas.  
 Deixo aqui a página oficial: https://changelog.com/jsparty  
 
 ## 9) QuebraDev
 [![Capa do podcast Quebradev](/images/2019/12/quebradev-podcast.jpg)](https://quebradev.com.br/)  
+O [QuebraDev](https://quebradev.com.br/) é mais do um podcast, é um movimento.  
 
-> Um movimento social que tem como objetivo democratizar a informação para a periferia.  
+> O QuebraDev é um podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão quem tem interesse em ingressar (priorizando o diálogo com quem é de quebrada).  
+Temos a estrutura bem informal e queremos levar diferentes assuntos aos seus ouvidos, são pautas técnicas e não técnicas que abrangem assuntos técnológicos, sociais e políticos que atingem diretamente a vida do periférico, bem como da sociedade como um todo.  
+
+Os episódios abordam tecnologia, mas também vão muito além disso, trazendo temas importantes e pessoas interessantes para os debates.  
+Sou suspeito para falar, pois conheço a galera e admiro demais o trabalho, mas deixo aqui a dica para ouvirem.  
 
 O QuebraDev está disponível na maioria das plataformas.  
 Deixo aqui a página oficial: https://quebradev.com.br/
 
 ## 10) BrazilJS
 [![Capa do podcast BrazilJS](/images/2019/12/braziljs-podcast.png)](https://braziljs.org)  
+Não poderia deixar de fora o podcast da firma né? 😂  
+Em 2019 lançamos o [podcast da BrazilJS](https://braziljs.org).  
 
 > Conteúdo exclusivo, original, relevante e de qualidade para toda a comunidade no Brasil.  
+
+O formato neste ano foi focado em 3 drops durante a semana, falando sobre algum assunto relevante no mundo da tecnologia.  
+É uma ótima maneira de ficar por dentro de tudo.  
+Em 2020 devemos continuar com a iniciativa trazendo mais programas para a grade.  
 
 O podcast BrazilJS está disponível na maioria das plataformas.  
 Deixo aqui a página oficial: https://braziljs.org
 
 ## 11) Bônus - Projeto Humanos
 [![Capa podcast Projeto Humanos](/images/2019/12/projeto-humanos-podcast.jpg)](https://www.projetohumanos.com.br/)  
+Eu já ouvia o AntiCast, e após ver uma palestra do Ivan Mizanzuk, onde ele apresentou o [Projeto Humanos](https://www.projetohumanos.com.br/), me interessei pelo conteúdo.  
 
 > Podcast dedicado ao registro e resgate de narrativas individuais, buscando mostrar que mesmo os atos humanos mais banais reservam enormes riquezas.  
+
+O Projeto Humanos segue uma _vibe_ diferente dos podcasts tradicionais, trazendo um tom narrativo mais parecido com uma série.  
+Inclusive, o [Caso Evandro](https://www.projetohumanos.com.br/temporada/o-caso-evandro/), o programa com mais destaque, já está em sua 4ª temporada.  
 
 O podcast Projeto Humanos está disponível na maioria das plataformas.  
 Deixo aqui a página oficial: https://www.projetohumanos.com.br/
