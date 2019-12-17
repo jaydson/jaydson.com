@@ -155,8 +155,8 @@ Para aqueles(as), que assim como eu, adoram a linguagem JavaScript, o podcast [J
 
 > A community celebration of JavaScript and the web.  
 
-Para quem domina o inglês, o JSParty trás um excelente conteúdo focado em JavaScript e tecnolgias Web.  
-Inclusive, deixo a dica, ouvit podcast em inglês é ótimo para praticar.  
+Para quem domina o inglês, o JSParty trás um excelente conteúdo focado em JavaScript e tecnologias Web.  
+Inclusive, deixo a dica, ouvir podcast em inglês é ótimo para praticar.  
 É legal que no JSParty tem sempre alguém conhecido, ou que trabalha em alguma grande empresa ou que criou algum projeto open source que todo mundo usa.  
 Os episódios são longos, em média de uma hora, mas são bem fáceis de ser consumidos, pois os hosts deixam o clima bem descontraído e os assuntos são sempre interessantes.  
 
