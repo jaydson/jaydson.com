@@ -43,7 +43,7 @@ Essa reunião marcou o relacionamento dos dois, pois abriu o caminho para que Zu
 McNamee conta histórias do vale do silício pré-Facebook e é muito legal ter essa visão de alguém que estava lá.  
 O que mais me chamou a atenção e me deixou de certa forma até perplexo foi a conexão que McNamee faz na história para nos mostrar que o estado precisa e muito andar junto com o mercado.  
 É legal ver isso vindo de um capitalista assumido e bem sucedido.  
-McNamee conta como a invenção do [transistor](https://en.wikipedia.org/wiki/History_of_the_transistor) pode nos ensinar muito sobre o mundo.  
+McNamee conta como a invenção do [transistor](https://en.wikipedia.org/wiki/History_of_the_transistor) pode nos ensinar muito sobre o mundo da tecnologia.  
 Quem inventou o transistor foi a Bell Labs. Os pimeiros computadores desenvolvidos pela IBM não seriam possíveis sem os transistors, e se as leis antitrust da época não fossem rigídas o suficiente, a Bell Labs teria monopolizado o transistor, fazendo com que a IBM não tivesse inventado seus primeiros computadores.  
 Um pouco mais para frente o mesmo aconteceu com a IBM. A Microsoft só conseguiu entrar no jogo por conta das leis de antitrust que impediram o monopólio da IBM tornando possível a Microsoft revolucionar o mundo com os computadores pessoais.  
 E não é que a história se repete mais uma vez?  
