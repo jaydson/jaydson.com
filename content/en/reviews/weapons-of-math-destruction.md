@@ -15,7 +15,7 @@ title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threa
 ---
 !["Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" book's cover](/images/2020/01/weapons-of-math-destruction.jpg)  
 
-Weapons of Math Destruction was in in my list of books to read for quite a while.  
+Weapons of Math Destruction was in my list of books to read for quite a while.  
 The book came out in 2016 and since then I've heard quotes in podcasts, videos and articles in several occasions.  
 Then I finally managed to prioritize it's good that I did.  
 Each chapter is a slap in the the face and converges directly with everything I have studied and read in recent years.  
