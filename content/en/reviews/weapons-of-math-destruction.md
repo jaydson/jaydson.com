@@ -31,7 +31,7 @@ Here it is nice to see that Cathy leaves the academic world, where she worked a 
 
 Right in the introduction, Cathy is already able to show us the flaws of opaque mathematical models that have spread in our society with the advancement of technology in the last decade.  
 It is not that mathematics is flawed, quite the contrary. The flaws that the author shows us are very human.  
-As in the case where the government in Washinton wanted to solve the problem of poor students grades.  
+As in the case where the government in Washington wanted to solve the problem of poor students grades.  
 The idea was to associate poor grades with low teachers evaluations.  
 It seems to make sense. If a teacher has a poor rating in terms of the school and students, and students have poor grades, it is possible to use math to solve this issue.  
 Following the logic, getting rid of bad teachers and bringing in better teachers will increase student grades.   

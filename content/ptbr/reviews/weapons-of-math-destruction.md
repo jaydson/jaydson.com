@@ -30,7 +30,7 @@ Aqui é legal notar que Cathy sai do mundo acadêmico, onde ela ficava muito com
 
 Logo na introdução Cathy já consegue nos mostrar as falhas de modelos matemáticos opacos que se espalharam em nossa sociedade com a avanço da tecnologia da última década.  
 Não é que a matemática é falha, muito pelo contrário. As falhas que a autora nos mostra são bem humanas.  
-Como no caso em que o governo em Washinton queria resolver o problema de notas baixas.  
+Como no caso em que o governo em Washington queria resolver o problema de notas baixas.  
 A ideia era associar notas ruins de alunos com avaliações baixas de professores e professoras.  
 Parece fazer sentido até. Se um professor possui uma avaliação ruim nos termos da escola e de alunos, e alunos estão com notas baixas, é possível usar matemática para reverter isso.  
 Seguindo a lógica, se livrar de professores ruins e trazer melhores professores fará com que as notas dos alunos aumentem.  
