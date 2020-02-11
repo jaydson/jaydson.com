@@ -477,11 +477,20 @@
   }
   
   .post-content blockquote {
-    margin: 0 0 0 -23px;
-    padding: 0 0 0 20px;
-    color: rgba(0, 0, 0, .6);
-    font-style: italic;
-    border-left: 3px solid rgba(0, 0, 0, .8)
+    background: #f6f7de;
+    border-left: 4px solid #2d3748;
+    margin: 1.5em 10px;
+    padding: 20px 20px 1px 35px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+
+  .post-content blockquote:before {
+    color: #312b2b;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
   }
   
   .post-content hr {
@@ -522,8 +531,7 @@
   
   @media (max-width:767px) {
     .post-content blockquote {
-      margin: 0 0 0 -30px;
-      padding: 0 0 0 27px
+      
     }
   }
   

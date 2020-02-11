@@ -15,13 +15,16 @@ title: "Permanent Record - autobiografia de Edward Snowden"
 ---
 ![Capa do livro "Permanent Record"](/images/2020/02/permanent-record-edward-snowden.png)  
 
-> A liberdade de um país só pode ser medida pelo seu respeito dos direitos de seus cidadãos  
-- Edward Snowden
+> My name is Edward Joseph Snowden. I used to work for the government, but now I work for the public  
+- Edward Snowden 
 
-Eu sempre simpatizei com o [Snowden](https://en.wikipedia.org/wiki/Edward_Snowden). Sei lá, desde que o vi pela primeira vez na mídia e vi o que ele tinha feito, pensei comigo: Que cara corajoso e que cara que parece ser super gente boa.  
+Eu sempre simpatizei com o [Snowden](https://en.wikipedia.org/wiki/Edward_Snowden). Desde que o vi pela primeira vez na mídia e li sobre o que ele tinha feito, pensei comigo: Que cara corajoso e que cara que parece ser super gente boa.  
 Não tenho como confirmar o fato de que ele é gente boa, mas sua coragem é inegável, é ativismo na essência.  
 Mas eu não sabia de todos os detalhes da história, sabia apenas o básico: o cara vazou documentos importantes e basicamente trouxe à tona um esquema de vigilância distópico elaborado pelo governo dos EUA que, em resumo, não só passava por cima da [constituição americana](https://en.wikipedia.org/wiki/United_States_Constitution), mas riscava, amassava e jogava no lixo os diretos mais básicos previstos pelos [_founding fathers_](https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States).  
-Logo que saiu a autobiografia, corri para começar a ler, para então finalmente conhecer um pouco mais desse marco histórico e também um pouco mais sobre a pessoa por trás de tudo.  
+Logo que saiu a autobiografia, corri para começar a ler, para então finalmente conhecer um pouco mais desse marco histórico e também para conhecer um pouco mais sobre a pessoa por trás de tudo.  
+
+> A liberdade de um país só pode ser medida pelo seu respeito dos direitos de seus cidadãos  
+- Edward Snowden
 
 O livro começa devagar, não devagar ao ponto de ser chato, mas a comparar com a metade para o final, o início é lento.  
 Ser lento no início não é um problema, pelo contrário, é nesse parte que podemos conhecer bem Edward Snowden.  
@@ -31,6 +34,11 @@ Talvez essa tenha sido a base para ele logo se tornar um _Hacker_.
 
 > Até hoje, considero a década on-line de 90 a anarquia mais agradável e bem-sucedida que já experimentei  
 - Edward Snowden  
+
+O governo federal dos EUA sempre esteve presente na vida de Snowden.  
+Seu avô materno era almirante da marinha e depois passou pelo FBI.  
+O pai de Snowden também foi da marinha e sua mãe funcionária no U.S. District Court for the District of Maryland.  
+Sua expectativa desde que começou a trabalhar era de seguir o mesmo caminho que sua família.  
 
 > Regra fundamental do progresso tecnológico: se algo pode ser feito, provavelmente será feito, e possivelmente já foi feito  
 - Edward Snowden
