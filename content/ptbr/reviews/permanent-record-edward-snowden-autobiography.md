@@ -40,10 +40,14 @@ Talvez essa tenha sido a base para ele logo se tornar um _Hacker_.
 > Até hoje, considero a década on-line de 90 a anarquia mais agradável e bem-sucedida que já experimentei  
 - Edward Snowden  
 
+De fato, a frase acima representa muito bem o que tivemos por um cert tempo na internet.   
+"Anarquia agradável" é uma ótima definição para a internet descentralizada dos anos 90 e início dos 2000.  
+
 O governo federal dos EUA sempre esteve presente na vida de Snowden.  
 Seu avô materno era almirante da marinha e depois passou pelo FBI.  
 O pai de Snowden também foi da marinha e sua mãe funcionária no U.S. District Court for the District of Maryland.  
 Sua expectativa desde que começou a trabalhar era de seguir o mesmo caminho que sua família.  
+Durante os capítulos, Snowden nos conta como em pouco tempo ele ascendeu na carreira.  
 
 > Regra fundamental do progresso tecnológico: se algo pode ser feito, provavelmente será feito, e possivelmente já foi feito  
 - Edward Snowden
