@@ -16,14 +16,15 @@ title: "Permanent Record - autobiografia de Edward Snowden"
 ![Capa do livro "Permanent Record"](/images/2020/02/permanent-record-edward-snowden.png)  
 
 _Permanent Record_ é o título da autobiografia do Snowden.  
-Além de detalhes da vida de Snowden desde sua infância, o livro conta em detalhes como Snowden expôs ao mundo o esquema de vigilância distópico elaborado pelo governo dos EUA.  
+Além de detalhes de sua vida desde a infância e passando pela adolescência, o livro conta em detalhes como Snowden expôs ao mundo o esquema de vigilância distópico elaborado pelo governo dos EUA.  
 
 > Meu nome é Edward Joseph Snowden. Eu costumava trabalhar para o governo, mas agora eu trabalho para o público  
 - Edward Snowden 
 
 O livro inicia com a frase acima e com ela já temos o tom do que será a autobiografia.  
+
 Eu sempre simpatizei com o [Snowden](https://en.wikipedia.org/wiki/Edward_Snowden). Desde que o vi pela primeira vez na mídia e li sobre o que ele tinha feito, pensei comigo: Que cara corajoso e que cara que parece ser super "gente boa".  
-Só alguém muito gente boa mesmo para praticamente abrir mão de sua vida em prol de outras pessoas, neste caso, todos os cidadãos dos EUA.  
+Só alguém muito gente boa mesmo para praticamente abrir mão de sua vida em prol de outras pessoas, neste caso, todos os cidadãos dos EUA e consequentemente de todo mundo.  
 A coragem de Snowden é inegável. É __ativismo__ na essência.  
 Mas eu não sabia de todos os detalhes da história, sabia apenas o básico: o cara vazou documentos importantes e basicamente trouxe à tona um __esquema massivo de vigilância distópico elaborado pelo governo dos EUA__ que, em resumo, não só passava por cima da [constituição americana](https://en.wikipedia.org/wiki/United_States_Constitution), mas riscava, amassava e jogava no lixo os diretos mais básicos previstos pelos [_founding fathers_](https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States).  
 Logo que saiu a autobiografia, corri para começar a ler para então finalmente conhecer um pouco mais desse marco histórico e também para conhecer um pouco mais sobre a pessoa por trás de tudo.  
@@ -81,7 +82,7 @@ Perfeito! Existe muita suposição e nos acostumamos com a ideia errada de que p
 Perfeito! Só pelo fato de que tu pode não ter nada a esconder tu abre mão da privacidade? Pense bem aí, como tu se sentiria com alguém escutando 100% de suas conversas em casa? Não só isso, escutando, analisando e inferindo informações.  
 Pois é. Tu possui um Google Home ou uma Alexa?  
 
-Para não me prolongar mais e avançando mais nos capítulos temos uma virada frenética.  
+Para não me prolongar mais, nos capítulos finais temos uma virada frenética.  
 Se no início o livro é calmo, do meio para o final parece um filme de suspense e ação.  
 Snowden conta cada detalhe, cada planejamento e cada execução.  
 Desde técnicas de [engenharia social](https://pt.wikipedia.org/wiki/Engenharia_social_(seguran%C3%A7a)) para driblar seguranças a sistemas anti-vigilância montado por ele para conseguir ficar anônimo.  
@@ -100,7 +101,7 @@ E também a primeira entrevista de 2013 quando o caso ganhou o mundo:
 ## Conclusão
 Para quem se interessa pelo assunto, esse livro é essencial.  
 Para quem não entende muito ou não se interessa, também vale a pena, pois como comentei anteriorimente, isso é um marco histórico.  
-A narrativa do livro é super bem estruturada e nos conduz pela vida de Snowden, conhecendo seu background e os motivos dos quais o levaram a fazer o que fez.  
-Vale salientar também que graças a todo o movimente gerado pós Snowden já nos trouxeram grandes avanços em relação à privacidade online.  
+A narrativa do livro é super bem estruturada e nos conduz pela vida de Snowden, conhecendo seu _background_ e os motivos dos quais o levaram a fazer o que fez.  
+Vale salientar também que todo o movimente gerado pós-Snowden já nos trouxe grandes avanços em relação à privacidade online.  
 
 Obrigado Snowden!  
