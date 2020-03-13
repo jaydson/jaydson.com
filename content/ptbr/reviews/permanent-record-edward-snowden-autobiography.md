@@ -3,7 +3,7 @@ author: Jaydson Gomes
 categories:
 - book
 - review
-date: "2020-02-01T08:00:17Z"
+date: "2020-03-13T08:00:17Z"
 draft: false
 micro: false
 image: /images/2020/02/permanent-record-edward-snowden.png
