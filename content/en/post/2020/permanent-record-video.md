@@ -7,7 +7,7 @@ categories:
 date: "2020-03-16T16:22:17Z"
 draft: false
 micro: true
-slug: the-master-switch-video.md
+slug: permanent-record-video
 tags:
 - vlog
 - book
