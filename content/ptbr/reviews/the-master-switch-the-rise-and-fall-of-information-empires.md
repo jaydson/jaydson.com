@@ -37,9 +37,14 @@ Ter telefone se tornou algo crucial, porém, somente AT&T controlova a indústri
 Monopólios são muito mais nocivos do que benéficos.  
 Em alguns casos, como o da AT&T, uma empresa acaba fechando toda a indústria, acabando com competidores e controlando tudo por décadas.  
 
-- Tencnologias que vão do caos para a centralização
-- Normalmente a mudança está ligada a alguém que quer ter poder
-- Theodore Newton Vail foi um dos maiores monopolistas da história americana
+É legal de ver essa análise e perceber que de fato as tecnologias tendem a ir do caos à centralização.  
+Sistemas caóticos são incrivelmente ricos e as grandes tecnologias surgiram assim.  
+Infelizmente a evolução desse sistema é a cetralização e domínio da indústria por uma ou mais poucas empresas.  
+Esse ciclo normalmente está ligado ao poder.  
+No meio dessa riqueza prorporcionada pelo caos, alguém nota que pode "organizar" as coisas, centralizar, dominar e ter o controle total.  
+Tim nos da vários exemplos disso, sendo um dos principais, [Theodore Newton Vail](https://en.wikipedia.org/wiki/Theodore_Newton_Vail), que foi um dos maiores monopolistas da história americana.  
+Veil conseguiu enxergar em meio ao caos que o telefone era um serviço de utilidade pública. De fato, sua visão transformou a história da telecomunicação, mas isso teve um alto custo, o monopólio da AT&T.  
+
 - A internet só foi de certo modo possível com a intervenção do governo e a divisão do monopólio da AT&T
 - A internet foi criada para ser aberta - falar da solução técnica dos protocolos
 
