@@ -4,7 +4,7 @@ categories:
 - dweb
 - dados
 - politica
-- gdpl
+- lgpd
 - gdpr
 date: "2019-10-21T09:00:28Z"
 draft: false
@@ -14,7 +14,7 @@ tags:
 - dweb
 - dados
 - politica
-- gdpl
+- lgpd
 - gdpr
 title: "Citizen register database: The Brazilian government also wants to be part of the data party"
 ---

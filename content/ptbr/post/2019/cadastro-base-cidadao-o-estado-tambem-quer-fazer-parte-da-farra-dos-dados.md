@@ -4,7 +4,7 @@ categories:
 - dweb
 - dados
 - politica
-- gdpl
+- lgpd
 - gdpr
 date: "2019-10-21T09:00:28Z"
 draft: false
@@ -14,7 +14,7 @@ tags:
 - dweb
 - dados
 - politica
-- gdpl
+- lgpd
 - gdpr
 title: "Cadastro base do cidadão: O Estado também quer fazer parte da farra dos dados"
 ---
