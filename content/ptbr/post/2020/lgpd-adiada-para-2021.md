@@ -29,7 +29,7 @@ Vamos ao trecho:
 > A vigência  da Lei Geral  de Proteção de Dados é postergada por mais 18 meses, de modo a não onerar as empresas em face das enormes dificuldades técnicas econômicas advindas da pandemia. 
 
 O argumento para essa medida é de que o governo quer dar mais tempo para as empresas se adequarem a lei.
-Os reflexos das recomendações de isolamento social em meio à pandemia do novo coronavírus poderiam causar algum tipo dano para as empresas.  
+Os reflexos das recomendações de isolamento social em meio à pandemia do novo coronavírus poderiam causar algum tipo de dano para as empresas.  
 Aqui chegamos no primeiro ponto. Sim, o isolamento social trará consequências, mas me parece que a pandemia está, nesse caso, servindo como desculpa.  
 Já existe outra proposta de lei, a [PL 5762 de 2019](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2227704), que prorroga a LGPD por mais dois anos.  
 Essa PL não foi aprovada até o momento pré pandemia, porém, agora uma parte dela foi efetivada.  
