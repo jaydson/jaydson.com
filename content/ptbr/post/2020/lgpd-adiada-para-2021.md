@@ -18,11 +18,11 @@ title: LGPD adiada para 2021
 
 ![Imagem de um cadeado](/images/2020/04/markus-winkler-OjSG0E_qcbo-unsplash.jpg)
 
-No início de abril (2020) o senado aprovou - _por unanimidade_ - o adiamento da LGPG, a **[Lei Geral de Proteção de Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)** .  
+No início de abril (2020) o senado aprovou - _por unanimidade_ - o adiamento da LGPD, a **[Lei Geral de Proteção de Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)** .  
 Esse adiamento entra na [PL 1179 de 2020](https://www25.senado.leg.br/web/atividade/materias/-/materia/141306).  
 O projeto de lei em questão dispõe sobre o Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado (RJET) no período da pandemia do Coronavírus (Covid-19).  
 O autor do projeto é o [Senador Antonio Anastasia](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5529) (PSD/MG).  
-A lei em si não trata apenas da LGPD, mas sim de uma série de medidas, dentre elas: suspensão da aplicação do art.49 do Código de Defesa do Consumidor, suspensão de concessão de liminar para desocupação de imóvel urbano nas ações de despejo.  
+A lei em si não trata apenas da LGPD, mas sim de uma série de medidas, dentre elas: suspensão da aplicação do art.49 do [Código de Defesa do Consumidor](http://www.planalto.gov.br/ccivil_03/leis/l8078.htm), suspensão de concessão de liminar para desocupação de imóvel urbano nas ações de despejo.  
 O adiamento da LGPD está na página 13, bem no final da proposta ([PDF disponível aqui](https://legis.senado.leg.br/sdleg-getter/documento?dm=8081779&ts=1586292093706&disposition=inline)).  
 Vamos ao trecho:  
 
@@ -55,11 +55,14 @@ Esse é um esforço conjunto para permitir o uso de tecnologia Bluetooth para aj
 
 É uma solução bizarra.  
 A primeira vista parece genial e parece que de fato pode ajudar a conter o vírus. Em uma segunda olhada vemos que a solução é mais uma derrota em termos de privacidade básica.  
-Imagine que além de tudo que somos trackeados hoje ainda teríamos tracking Bluetooth.  
+Imagine que além de tudo que somos _trackeados_ hoje ainda teríamos tracking Bluetooth.  
 
 No post, mais de uma vez o Google salienta que Google e Apple estão levando em consideração a privacidade e segurança dos usuários.  
 Mas será mesmo?  
 Não temos como saber ao certo, não temos leis sólidas e o momento de pandemia não permite o pensamento crítico, afinal de contas, precisamos conter o vírus.  
+
+A excelente matéria no Intercept ["Vigiar e lucrar"](https://theintercept.com/2020/04/13/vivo-venda-localizacao-anonima/) aponta que as operadoras no Brasil anunciaram que vão disponibilizar ao Ministério da Ciência, Tecnologia e Inovação “uma solução única de dados para monitorar mobilidade populacional, deslocamentos e pontos de concentração”.  
+Como bem aponta o texto, o adiamento da LGPD também facilita a vida do governo, afinal de contas a lei também se aplica a ele.  
 
 Deixo abaixo uma entrevista de Snowden para a Vice, onde ele explora o tema de maneira mais profunda.  
 
@@ -104,3 +107,9 @@ https://thehack.com.br/coronavirus-forca-senado-a-adiar-lgpd-para-2021/
 
 📌 Senado aprova PL que leva início da Lei de Dados para janeiro de 2021  
 https://computerworld.com.br/2020/04/06/senado-aprova-pl-que-leva-inicio-da-lei-de-dados-para-janeiro-de-2021/  
+
+📌 Vigiar e lucrar  
+https://theintercept.com/2020/04/13/vivo-venda-localizacao-anonima  
+
+©️ Crédito da imagem destaque:  
+https://unsplash.com/photos/OjSG0E_qcbo
