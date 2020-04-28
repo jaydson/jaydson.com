@@ -5,7 +5,7 @@ categories:
 - javascript
 - ecmascript
 - es2020
-date: "2020-02-03T10:22:17Z"
+date: "2020-04-28T11:00:17Z"
 draft: false
 micro: true
 slug: dynamic-imports-novas-funcionalidades-do-javascript-no-ES2020
