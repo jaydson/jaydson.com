@@ -90,7 +90,7 @@ Eu sou programador (Hacker aqui), então eu sei como burlar essa imposição em 
 Sendo assim, deixo aqui um pequeno guia para quem (mesmo sem conhecimento técnico) quiser burlar a restrição do Instagram.  
 
 1) Vá até a página do perfil, normalmente algo como `https://www.instagram.com/[NOME_DO_PERFIL]`  
-2) Em seu navegador pressiona a tecla F12 (dependendo pode Ctrl+Shift+I), ou ainda procure no menu algo como "Developer Tools" 
+2) Em seu navegador pressiona a tecla F12 (dependendo do navegador pode ser Ctrl+Shift+I), ou ainda procure no menu algo como "Developer Tools" 
 3) Clique na ferramenta que possui o ícone que é uma flechinha (circulado em vermelho na imagem abaixo)  
 
 {{< figure src="/images/2020/04/instagram-tool.png" title="Imagem que mostra a ferramenta de desenvolvimento no navegador" >}}
