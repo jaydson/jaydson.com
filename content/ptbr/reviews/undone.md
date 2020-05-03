@@ -3,7 +3,7 @@ author: Jaydson Gomes
 categories:
 - series
 - review
-date: "2020-05-02T08:00:17Z"
+date: "2020-05-03T08:00:17Z"
 draft: false
 micro: false
 image: /images/2020/05/undone.jpg
@@ -56,4 +56,4 @@ Deixo abaixo um vídeo com um dos diretores da série, [Hisko Hulsing](https://e
 Para quem viu o documentário [Kurt Cobain: Montage of Heck](https://en.wikipedia.org/wiki/Kurt_Cobain:_Montage_of_Heck), vai notar uma semelhança na animação.  
 Hisko também trabalhou no documentário e foi justamente por esse trabalho que ele foi chamado para fazer Undone.  
 
-{{< youtube 6uWCNHQgfnc >}}
+{{< youtube J9sYE9tIwTE >}}
