@@ -15,7 +15,7 @@ tags:
 title: JavaScript levado a sério FISL 12 Vídeo parte 2
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/7Q7hyCKjiSg" frameborder="0" allowfullscreen></iframe>
+{{< youtube 7Q7hyCKjiSg >}}
 
-[Veja a parte 1 aqui](/javascript-levado-a-serio-fisl-12-video-parte-01)  
+[Veja a parte 1 aqui](/javascript-levado-a-serio-fisl-12-video-parte-1)  
 [Veja a parte 3 aqui](/javascript-levado-a-serio-fisl-12-video-parte-3)

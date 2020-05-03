@@ -21,7 +21,7 @@ Mas esse ano a [GoNow](http://www.gonow.com.br/blog/) estava presente, e pelo qu
 A minha palestra foi filmada na íntegra, e além disso ainda fizeram um[ review muito bacana.](http://www.gonow.com.br/blog/2011/07/04/12%C2%BA-fisl-e-o-javascript-levado-a-serio/)   
 Abaixo vai a primeira parte para quem não teve a oportunidade de participar do evento.  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/nDLc57rkaSA" frameborder="0" allowfullscreen></iframe>
+{{< youtube nDLc57rkaSA >}}
 
 [Veja aqui a parte 2](/javascript-levado-a-serio-fisl-12-video-parte-2)  
 [Veja aqui a parte 3](/javascript-levado-a-s%C3%A9rio-fisl-12-v%C3%ADdeo-parte-3)
