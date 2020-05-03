@@ -3,7 +3,7 @@
 <div class="bg-gray-200 border-l-4 border-gray-800 p-4" role="alert">
   <p class="font-bold">{{ i18n "related" }}</p>
   {{ with $related }}
-  <ul>
+  <ul style="list-style:none">
     {{ range . }}
       <li class="text-sm">👉 <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}

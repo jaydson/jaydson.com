@@ -63,6 +63,12 @@
     font-size: 18px;
     line-height: 1.7
   }
+
+  .post-content figure figcaption h4 {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+  }
   
   h1,
   h2,
@@ -84,7 +90,15 @@
   
   img {
     max-width: 100%;
-    vertical-align: middle
+    vertical-align: middle;
+  }
+
+  .main img {
+    margin: 20px 0 0 0px;
+  }
+
+  ol, ul {
+    list-style: circle;
   }
   
   button,
@@ -499,8 +513,20 @@
     margin-top: 70px;
     margin-bottom: 70px;
     border: solid rgba(0, 0, 0, .1);
-    border-width: 1px 0 0
+    border-width: 1px 0 0;
+    text-align: center;
+    font-size: 12px;
   }
+
+.post-content hr:after {
+    content: "≎";
+    display: inline-block;
+    position: relative;
+    top: -0.85em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
   
   .post-content iframe {
     max-width: 100%
