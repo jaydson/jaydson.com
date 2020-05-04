@@ -57,7 +57,7 @@ Deixo abaixo um vídeo onde Hisko explica todo o processo de criação e animaç
 Para quem viu o documentário [Kurt Cobain: Montage of Heck](https://en.wikipedia.org/wiki/Kurt_Cobain:_Montage_of_Heck), vai notar uma semelhança na animação.  
 Hisko também trabalhou no documentário e foi justamente por esse trabalho que ele foi chamado para fazer Undone.  
 
-Por mais que a série não seja com atores reais, temos a noção de "algo real" pois a animação te leva para aquele universo, justamente por não ser uma animação tradicional.  
+Por mais que a série não seja 100% feita com atores reais, temos a noção de "algo real" pois a animação te leva para aquele universo, justamente por não ser uma animação tradicional.  
 Com a técnica utilizada é possível ver os traços de pessoas verdadeiras em cada cena, e isso funciona muito bem fazendo com que a gente embarque naquela piração de maneira única.  
 Undone ainda mistura os elementos que citei acima com a esquizofrenia, deixando em aberto se tudo aquilo não passa apenas de uma pessoa com a doença, inclusive nos deixando sem resposta no final, o que eu acho o máximo!  
 A vó de Kate Purdy (criadora da série), teve esquizofrenia e essa foi uma das inspiraçãoes de Kate, não apenas para Undone, mas também para Bojack, onde ela escreveu o episódio Time's Arrow (que é um baita episódio).  

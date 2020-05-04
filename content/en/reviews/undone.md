@@ -40,16 +40,27 @@ ____
 ## ⚠️ Spoiler alert ⚠️
 Don't read on if you haven't seen the series yet.  
 
-Undone is classified as an animation, drama and fantasy show, but what caught my attention and connected me the most was the sci-fi theme.  
-The show mixes well all elements including sci-fi and indigenous beliefs.  
+Undone is classified as an animation, drama and fantasy show, but what really caught my attention and connected me was the _sci-fi_ theme.  
+The show mixes well all elements including science fiction and indigenous beliefs.  
 There is even a connection between shamanism, physics and time travel. What a trip!  
-The travel scenes in parallel universes are incredible, and here we see that the animation is not there just as a simple animation. The effects work very well.  
-As much as the show doesn't have real actors, we have the notion of truth because the animation takes you to that universe.  
-Undone also mixes the story with schizophrenia, leaving it open if all that was just a person with the disease, including leaving us with no answer at the end, which I think is great!  
-Kate Purdy's grandmother, had schizophrenia and that was one of Kate's inspirations not only for Undone, but also for Bojack, where she wrote the episode Time's Arrow (a great episode BTW).  
+The travel scenes in parallel universes are incredible, and here we see that the animation is not there just as a simple animation. The effects are awesome and contribute a lot to the narrative.  
+Fact is that if Undone wasn't an animation show, it wouldn't be so cool and maybe wouldn't even be possible.  
+Who said that is one of the directors and those responsible for the animation, [Hisko Hulsing](https://en.wikipedia.org/wiki/Hisko_Hulsing).  
+I leave below a video where Hisko explains the whole process of creation and animation.  
 
-Below you'll findo a video with one of the show directors, [Hisko Hulsing](https://en.wikipedia.org/wiki/Hisko_Hulsing), explaining the whole process of creation and animation.  
+{{< youtube J9sYE9tIwTE >}}
+
 For those who saw the documentary [Kurt Cobain: Montage of Heck](https://en.wikipedia.org/wiki/Kurt_Cobain:_Montage_of_Heck), you will notice a similarity in the animation.  
 Hisko also worked on the documentary and it was precisely for this work that he was called to make Undone.  
 
-{{< youtube J9sYE9tIwTE >}}
+As much as the show is not 100% done with real actors, we have the notion of "something real" because the animation takes you to that universe, precisely because it is not a traditional animation.  
+With the technique used it is possible to see the traces of real people in each scene, and this works very well, making us embark on that journey in a unique way.  
+Undone still mixes the elements I mentioned above with schizophrenia, leaving it open if all that happened is just a person with the disease, even leaving us with no answer at the end, which I think is great!  
+Kate Purdy's grandmother had schizophrenia and it was one of Kate's inspirations, not only for Undone, but also for Bojack, where she wrote the episode Time's Arrow (which is a great episode).  
+
+Undone is a unique and orginal show.  
+Although some of the topics covered are already known, Undone makes a very rich mixture, which makes the sum of everything into something never seen before.  
+The animation is beautiful and contemplative, the drama is super true.  
+The performances are excellent, with a highlight for the actress [Rosa Salazar](https://www.imdb.com/name/nm4023073/), who can show all emotions even though her face is not 100% real on the screen.  
+
+Try. But, try not to try 😊
