@@ -1,7 +1,7 @@
 {{ if .IsTranslated }}
     {{ range .Translations }}
       <div style="display:flex;">
-        <img style="height:30px" src="/images/{{.Language.LanguageName}}.png" alt="{{ .Language.LanguageName }}" />
+        <img style="height:30px; margin:0" src="/images/{{.Language.LanguageName}}.png" alt="{{ .Language.LanguageName }}" />
         <a href="{{ .Permalink }}"> &nbsp;{{ .Title }}{{ if .IsPage }} {{ end }}</a>
       </div>
     {{ end }}
