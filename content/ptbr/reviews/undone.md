@@ -3,7 +3,7 @@ author: Jaydson Gomes
 categories:
 - series
 - review
-date: "2020-05-03T08:00:17Z"
+date: "2020-05-04T08:00:17Z"
 draft: false
 micro: false
 image: /images/2020/05/undone.jpg

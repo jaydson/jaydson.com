@@ -4,7 +4,7 @@ categories:
 - socialmedia
 - web
 - internet
-date: "2020-05-03T08:22:17Z"
+date: "2020-05-04T08:30:17Z"
 draft: false
 micro: false
 slug: fuck-you-instagram
