@@ -27,9 +27,9 @@ A série foi criada por [Kate Purdy](https://en.wikipedia.org/wiki/Kate_Purdy) e
 Raphael é o criador de uma de minhas séries preferidas, [BoJack Horseman](https://www.imdb.com/title/tt3398228/) e Kate também trabalhou na série como escritora.  
 Para quem acompanhou BoJack, é notável algumas semelhanças, mas não vou falar muito para não entrar em spoilers.  
 
-Undone é série de animação, porém, com um diferencial enorme, a série foi gravada com atores reais e recriada com um trabalho incrível e artístico em cima das filmagens.  
+Undone é uma série de animação, porém, com um diferencial enorme: a série foi gravada com atores reais e recriada com um trabalho incrível e artístico em cima das filmagens.  
 Por falar em artístico, que trabalho incrível. Sério, dá uma vontade de ver mais uma vez apenas para contemplar a maravilha que é essa animação.  
-Deixo abaixo o trailer:  
+Deixo abaixo o trailer para terem uma ideia:  
 
 {{< youtube 6uWCNHQgfnc >}}
 
@@ -44,16 +44,27 @@ ____
 ## ⚠️ Alerta de spoiler ⚠️
 Não continue lendo caso ainda não tenha visto a série.  
 
-Undone é classificada como uma série de animação, drama e fantasia, mas o que mais me chamou atenção e me conectou memso foi o sci-fi.  
-A série mistura bem todos os elementos incluindo sci-fi e crenças indígenas.  
+Undone é classificada como uma série de animação, drama e fantasia, mas o que mais me chamou atenção e me conectou mesmo foi o _sci-fi_.  
+A série mistura bem todos os elementos, indo da ficção científica até as crenças indígenas.  
 Rola inclusive uma conexão de xamanismo com física e viagem no tempo. Que viagem boa!  
-As cenas de viagem em universos paralelos são incríveis, e aqui vemos que a animação não está ali apenas para bonito. Os efeitos funcionam muito bem na animação.  
-Por mais que a série não seja com atores reais, temos a noção de verdade pois a animação te leva para aquele universo.  
-Undone também mistura toda essa história com a esquizofrenia, deixando em aberto se tudo aquilo não passa apenas de uma pessoa com a doença, inclusive nos deixando sem resposta no final, o que eu acho o máximo!  
-A vó de Kate Purdy, criadora da série, teve esquizofrenia e essa foi uma das inspiraçãoes de Kate não apenas para Undone, mas também para Bojack, onde ela escreveu o episódio Time's Arrow (que baita episódio).  
+As cenas de viagem em universos paralelos são incríveis, e aqui vemos que a animação não está ali apenas para bonito. Os efeitos são sensacionais e contribuem demais para a narrativa da série.  
+Fato é que se Undone não fosse animação, não seria tão legal e talvez a série não fosse nem possível.  
+Quem diz isso é um dos próprios diretores e responsáveis pela animação, [Hisko Hulsing](https://en.wikipedia.org/wiki/Hisko_Hulsing).  
+Deixo abaixo um vídeo onde Hisko explica todo o processo de criação e animação.  
 
-Deixo abaixo um vídeo com um dos diretores da série, [Hisko Hulsing](https://en.wikipedia.org/wiki/Hisko_Hulsing), explicando todo o processo de criação e animação.  
+{{< youtube J9sYE9tIwTE >}}
+
 Para quem viu o documentário [Kurt Cobain: Montage of Heck](https://en.wikipedia.org/wiki/Kurt_Cobain:_Montage_of_Heck), vai notar uma semelhança na animação.  
 Hisko também trabalhou no documentário e foi justamente por esse trabalho que ele foi chamado para fazer Undone.  
 
-{{< youtube J9sYE9tIwTE >}}
+Por mais que a série não seja com atores reais, temos a noção de "algo real" pois a animação te leva para aquele universo, justamente por não ser uma animação tradicional.  
+Com a técnica utilizada é possível ver os traços de pessoas verdadeiras em cada cena, e isso funciona muito bem fazendo com que a gente embarque naquela piração de maneira única.  
+Undone ainda mistura os elementos que citei acima com a esquizofrenia, deixando em aberto se tudo aquilo não passa apenas de uma pessoa com a doença, inclusive nos deixando sem resposta no final, o que eu acho o máximo!  
+A vó de Kate Purdy (criadora da série), teve esquizofrenia e essa foi uma das inspiraçãoes de Kate, não apenas para Undone, mas também para Bojack, onde ela escreveu o episódio Time's Arrow (que é um baita episódio).  
+
+Undone é uma série única e orginal.  
+Apesar de alguns os temas abordados já serem conhecidos, Undone faz uma mistura muito rica, o que torna a soma de tudo em algo nunca visto.  
+A animação é linda e contemplativa, o drama é super verdadeiro.  
+As atuações são excelentes, tendo como destaque a atriz [Rosa Salazar](https://www.imdb.com/name/nm4023073/), que consegue transparecer todas emoções mesmo não tendo seu rosto 100% real na tela.  
+
+Try. But, try not to try 😊
