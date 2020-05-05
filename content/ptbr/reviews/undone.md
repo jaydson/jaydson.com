@@ -63,7 +63,7 @@ Undone ainda mistura os elementos que citei acima com a esquizofrenia, deixando 
 A vó de Kate Purdy (criadora da série), teve esquizofrenia e essa foi uma das inspiraçãoes de Kate, não apenas para Undone, mas também para Bojack, onde ela escreveu o episódio Time's Arrow (que é um baita episódio).  
 
 Undone é uma série única e orginal.  
-Apesar de alguns os temas abordados já serem conhecidos, Undone faz uma mistura muito rica, o que torna a soma de tudo em algo nunca visto.  
+Apesar de alguns dos temas abordados já serem conhecidos, Undone faz uma mistura muito rica, o que torna a soma de tudo em algo nunca visto.  
 A animação é linda e contemplativa, o drama é super verdadeiro.  
 As atuações são excelentes, tendo como destaque a atriz [Rosa Salazar](https://www.imdb.com/name/nm4023073/), que consegue transparecer todas emoções mesmo não tendo seu rosto 100% real na tela.  
 
