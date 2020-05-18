@@ -16,7 +16,7 @@ title: "Acid for the Children: Flea Memoir"
 {{< figure src="/images/2020/05/acid-for-the-children-flea-memoir.jpg" title="Acid for the Children: Flea Memoir" >}}  
 
 [Acid for the children](https://www.goodreads.com/book/show/39667068-acid-for-the-children) was released in 2019.  
-This is the title of [Michael Peter Balzary's (Flea)](https://en.wikipedia.org/wiki/Flea_(musician)) memoir, which for those who doesn't know, is the legendary bass player of one of the biggest bands in the Rock history, [Red Hot Chilli Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers).  
+This is the title of [Michael Peter Balzary's (Flea)](https://en.wikipedia.org/wiki/Flea_(musician)) memoir, which for those who doesn't know, is the legendary bass player of one of the biggest bands in the Rock history, [Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers).  
 The book was on my list of books to read in 2020, but I couldn't wait. I skipped the line, and what a journey!  
 
 I start leaving a tip for a different experience, which in this case makes all the difference: AudioBook.  
