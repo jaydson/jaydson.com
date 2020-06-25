@@ -10,7 +10,6 @@ slug: o-capitalismo-racista-por-natureza
 image: /images/2020/06/capitalista-racista.jpg
 tags:
 - capitalismo
-- jornalismo
 - racismo
 title: O capitalismo é racista por natureza?
 ---
