@@ -18,7 +18,7 @@ Mais um vlog para o canal da [BrazilJS](https://www.youtube.com/user/BrazilJS).
 
 Há mais ou menos 14 anos iniciei o trabalho de conclusão de curso (TCC) na faculdade.  
 Desenvolvi um framework #JavaScript para criar aplicações para internet com uma interface mais rica.  
-Neste vídeo mostro a aplicação, e faço um "react" e fiz uma análise do código JavaScript que fiz na época.  
+Neste vídeo mostro a aplicação, faço um "react" e uma análise do código JavaScript que fiz na época.  
 Confira essa baita análise e observe todas as mudanças que tivemos no mundo do desenvolvimento #Web e JavaScript nos últimos anos.  
 
 {{< youtube uTh113vHCGk >}}
