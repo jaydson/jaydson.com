@@ -6,7 +6,7 @@ categories:
 date: "2020-07-07T09:00:17Z"
 draft: false
 micro: false
-slug: 
+slug: cena-underground-do-mundo-dos-negocios-feat-rodrigo-ghedin
 image: /images/2020/07/paul-murphy-Ut9yic62qLE-unsplash.jpg
 tags:
 - business
