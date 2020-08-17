@@ -11,7 +11,7 @@ image: /images/2020/08/dinheiro.jpg
 tags:
 - capitalismo
 - dinheiro
-title: ""
+title: "Dinheiro"
 ---
 ![Imagem episódio Dinheiro](/images/2020/08/dinheiro.jpg)  
 

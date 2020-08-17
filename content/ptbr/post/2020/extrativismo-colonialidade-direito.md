@@ -17,7 +17,7 @@ tags:
 - direito
 title: "EXTRATIVISMO, COLONIALIDADE E DIREITO: Pau-brasil, Mariana e Brumadinho - ep 10"
 ---
-![Imagem episódio EXTRATIVISMO, COLONIALIDADE E DIREITO](/images/2020/extrativismo.jpg)  
+![Imagem episódio EXTRATIVISMO, COLONIALIDADE E DIREITO](/images/2020/08/extrativismo.jpg)  
 
 ### Pauta do episódio
 
