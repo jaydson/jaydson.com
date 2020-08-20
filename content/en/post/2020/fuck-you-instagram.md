@@ -4,6 +4,7 @@ categories:
 - socialmedia
 - web
 - internet
+- instagram
 date: "2020-05-04T08:30:17Z"
 draft: false
 micro: false
@@ -13,6 +14,7 @@ tags:
 - socialmedia
 - web
 - internet
+- instagram
 title: Fuck You Instagram 🖕
 ---
 ![Fuck You Instagram](/images/2020/04/fuck-you-instagram.png)  
