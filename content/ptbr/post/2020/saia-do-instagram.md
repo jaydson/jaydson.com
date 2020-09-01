@@ -2,6 +2,7 @@
 author: Jaydson Gomes
 categories:
 - instagram
+- redes sociais
 date: "2020-08-24T09:00:17Z"
 draft: false
 micro: false
@@ -9,6 +10,7 @@ slug: saia-do-instagram
 image: /images/2020/08/saia-do-instagram.png
 tags:
 - instagram
+- redes sociais
 title: "Saia do Instagram"
 ---
 ![Imagem episódio Saia do Instagram](/images/2020/08/saia-do-instagram.png)  
