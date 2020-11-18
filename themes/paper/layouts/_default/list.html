@@ -20,7 +20,7 @@
 
 <article class="post {{ .Scratch.Get `postClass` }}">
     {{ if .Params.image }}
-      <img class="w-full" src="{{.Params.image}}">
+      <img class="w-full" src="{{.Params.image}}" alt="Imagem do post com o título: {{ .Title }}">
     {{ end }}
     <div class="px-6 py-4">
       <div class="font-bold text-xl mb-2">{{ .Title }}</div>
