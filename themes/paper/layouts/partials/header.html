@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ if eq .Language.LanguageName "ptbr" }}
+<html lang='{{ replace .Language.LanguageName "ptbr" "pt-br" }}' >
+{{ else }}
+<html lang="{{.Language.LanguageName}}">
+{{ end }}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
