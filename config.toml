@@ -13,8 +13,8 @@ theme = "paper"
     title = "Jaydson Gomes"
     weight = 1
     [languages.ptbr.params]
-      description = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
-      metadescription = "Desenvolvimento de Software (JavaScript), devaneios e outras coisas"
+      description = "Desenvolvimento de Software, devaneios capitalistas aleatórios, tecnologia e sociedade"
+      metadescription = "Desenvolvimento de Software, devaneios capitalistas aleatórios, tecnologia e sociedade"
       cover = "images/2016/10/jaydson-header.jpg"
       author = "Jaydson Gomes"
       email1 = "jaydson@on2.dev"
