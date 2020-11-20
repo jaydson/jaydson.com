@@ -17,8 +17,8 @@ theme = "paper"
       metadescription = "Desenvolvimento de Software, devaneios capitalistas aleatórios, tecnologia e sociedade"
       cover = "images/2016/10/jaydson-header.jpg"
       author = "Jaydson Gomes"
-      email1 = "jaydson@on2.dev"
-      email2 = "jaydson@braziljs.org"
+      email = "contato@jaydson.com"
+      twitter = "@jaydson"
       authorlocation = "Porto Alegre, Brasil"
       authorwebsite = "https://jaydson.com"
       bio= "Cofundador da @BrazilJS, Cofundador da @Nasc, Desenvolvedor de software, autor e editor no portal BrazilJS."
@@ -51,12 +51,6 @@ theme = "paper"
       url = "/palestras"
 
     [[languages.ptbr.menu.main]]
-      name = "Twiiter"
-      weight = -110
-      identifier = "twiiter"
-      url = "https://twitter.jaydson.com"
-
-    [[languages.ptbr.menu.main]]
       name = "Sobre"
       weight = -130
       identifier = "about"
@@ -74,8 +68,8 @@ theme = "paper"
     title = "Jaydson Gomes"
     weight = 1
     [languages.en.params]
-      description = "Software development (JavaScript), daydreams and stuff"
-      metadescription = "Software development (JavaScript), daydreams and stuff"
+      description = "Software development, random capitalist daydreams, technology and society"
+      metadescription = "Software development, random capitalist daydreams, technology and society"
       cover = "images/2016/10/jaydson-header.jpg"
       author = "Jaydson Gomes"
       email1 = "jaydson@on2.dev"
@@ -110,12 +104,6 @@ theme = "paper"
       weight = -120
       identifier = "talks"
       url = "/en/talks"
-
-    [[languages.en.menu.main]]
-      name = "Twiiter"
-      weight = -110
-      identifier = "twiiter"
-      url = "https://twitter.jaydson.com"
 
     [[languages.en.menu.main]]
       name = "About"
