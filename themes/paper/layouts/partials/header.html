@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ if eq .Language.LanguageName "ptbr" }}
+<html lang='{{ replace .Language.LanguageName "ptbr" "pt-br" }}' >
+{{ else }}
+<html lang="{{.Language.LanguageName}}">
+{{ end }}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,43 +43,45 @@
 </head>
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
 
-    <nav id="menu" class="flex items-center justify-between flex-wrap bg-gray-800 p-6">
-        <div class="flex items-center flex-shrink-0 text-white mr-6">
-            <a href="{{.Site.BaseURL}}">
-              <img class="logo" src="/img/logo-jaydson-white.png" alt="{{ .Site.Title }}" />
-            </a>
-          <h1 class="font-semibold text-xl tracking-tight"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></h1>
+    <nav id="menu" class="bg-gray-800">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        <a class="text-teal-200 hover:text-white mr-4" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ partial "allLanguages.html" . }}
+    </nav>
+
+  <header class="header-2020">
+    <div class="md:flex justify-center py-16">
+        <div class="p-2 my-auto">
+          <a href="/">
+            <img alt="Avatar Jaydson 2020" class="rounded-full h-48 w-48 mx-auto border-8 border-blue-800"
+                src="/images/jaydson/jaydson-avatar-2020.jpg">
+          </a>
         </div>
-        <div class="block lg:hidden">
-          <button id="bt-toggle" class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
-            <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-          </button>
-        </div>
-        <div id="menu-content" class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-          <div id="menu-toggle" class="text-sm lg:flex-grow">
-              {{ $currentPage := . }}
-              {{ range .Site.Menus.main }}
-                <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="{{ .URL }}">{{ .Name }}</a>
-              {{ end }}
-              <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="https://t.me/joinchat/AAAAAE-zg-SgujouStXePw">
+        <div class="p-8  my-auto ">
+            <h1 class="text-orange-100 text-3xl text-center">{{ .Site.Title }}</h1>
+            <p class=" text-gray-600 text-xl text-center"> {{ .Site.Params.description }} </p>
+            <div class="text-center">
+              <a class="text-sm block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="https://twitter.com/jaydson">
+                <img style="width:25px;display:inline;padding-right: 7px;" src="/img/twitter-logo.webp" alt="Twitter logo">
+                Twitter
+              </a>
+              <a class="text-sm block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="https://t.me/joinchat/AAAAAE-zg-SgujouStXePw">
                 <img style="width:25px;display:inline;padding-right: 7px;" src="/img/t_logo.png" alt="Telegram logo">
                 Telegram
               </a>
-          </div>
-            {{ partial "allLanguages.html" . }}
+              <a class="text-sm block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="https://youtube.com/braziljs">
+                <img style="width:25px;display:inline;padding-right: 7px;" src="/img/youtube-logo.png" alt="YouTube logo">
+                BrazilJS
+              </a>
+              <a class="text-sm block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="https://www.youtube.com/channel/UCPnlWmu-Q5fkByEUCCqT9Cw">
+                <img style="width:25px;display:inline;padding-right: 7px;" src="/img/logo-capitalistas-de-merda.png" alt="Capitalistas de Merda logo">
+                Capitalistas de Merda
+              </a>
+            </div>
         </div>
-      </nav>
 
-  <header class="header">
-    <nav class="menu">
-      <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <li class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
-          <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </nav>
-  </header>
-  <main class="main">
+    </div>
+</header>
+  <main>

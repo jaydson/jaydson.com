@@ -24,11 +24,12 @@ Após dois semestres resolveu ir direto para a faculdade, cursando __Análise e 
 Passou por pequenas e grandes empresas, agências e startups, nunca perdendo a conexão com comunidades de desenvolvimento, o que ajudou a formar seu estilo de empreender.  
 
 Atualmente Jaydson é​ desenvolvedor de software e empreendedor.  
-É cofundador da __[On2](https://on2.dev)__, empresa de desenvolvimento de software _bleeding edge_, junto com [Felipe Nascimento](https://felipenmoura.com/) e [Cesar Paz](https://www.linkedin.com/in/cesarpazdex/).  
-Jaydson também é cofundador da ​__[BrazilJS](https://braziljs.org/)__, uma plataforma de conteúdo focada nas comunidades de desenvolvimento no Brasil.  
+É cofundador da [On2](https://on2.dev), empresa de desenvolvimento de software _bleeding edge_, junto com [Felipe Nascimento](https://felipenmoura.com/) e [Cesar Paz](https://www.linkedin.com/in/cesarpazdex/).  
+Jaydson também é cofundador da [BrazilJS](https://braziljs.org/), uma plataforma de conteúdo focada nas comunidades de desenvolvimento no Brasil.  
 Na On2 atua como desenvolvedor, analista de negócio e gerencia os times de desenvolvimento.  
-Na BrazilJS é curador da ​__[BrazilJS Conf](https://braziljs.org/conf)__, que é uma das maiores conferências do mundo sobre a linguagem __JavaScript__, além de ser editor da Newsletter **BrazilJS Weekly** e host do show [**BrazilJS Weekly no YouTube**](https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD).  
-Jaydson também é autor e editor no portal [**BrazilJS**](https://braziljs.org/blog) e escreve em seu [**blog pessoal**](https://jaydson.com).  
+Na BrazilJS é curador da ​[BrazilJS Conf](https://braziljs.org/conf), que é uma das maiores conferências do mundo sobre a linguagem __JavaScript__, além de ser editor da Newsletter **BrazilJS Weekly** e host do show [**BrazilJS Weekly no YouTube**](https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD).  
+
+Jaydson é produtor de conteúdo, atuando na curadoria e roteirização de programas para o YouTube da [**BrazilJS**](https://www.youtube.com/braziljs), escreve em seu [**blog pessoal**](https://jaydson.com) e também produz conteúdo para o canal e podcast [**Capitalistas de Merda**](https://capitalistasdemerda.com).  
 
 É entusiasta _open source_ e tem apresentado diversas palestras no Brasil e América Latina ao longo de sua carreira, na grande maioria das vezes falando sobre __JavaScript__, __tecnologias Web__ e __mercado__.  
 
@@ -39,8 +40,9 @@ Nos últimos anos tem dedicado seus estudos aos impactos da tecnologia na socied
 __Nome__: Jaydson Gomes  
 __Empresa__: [On2](https://on2.dev) / [BrazilJS](https://braziljs.org)  
 __Cargo__: Cofundador, Desenvolvedor de Software  
-__Email__: [jaydson@on2.dev](mailto:jaydson@on2.dev) / [jaydson@braziljs.org](mailto:jaydson@braziljs.org)  
+__Email__: [contato@jaydson.com](mailto:contato@jaydson.com)  
 __Github__: [@jaydson](https://github.com/jaydson)  
+__Twitter__: [@jaydson](https://twitter.com/jaydson)  
 __Blog__: [https://jaydson.com](https://jaydson.com)  
 __Palestras__: [https://jaydson.com/palestras](/palestras)  
 __Cidade__: Porto Alegre, RS, Brasil

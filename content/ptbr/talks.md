@@ -9,42 +9,44 @@ title: Palestras
 ---
 
 Eu adoro palestrar! É algo realmente gratificante compartilhar o conhecimento e em algumas vezes ter o poder de mudar o caminho de algumas pessoas.  
-Já faço palestras há mais 8 anos e nunca sinto vontade de parar.  
-Porém, minha profissão não é ser um "palestrante". Eu sou um profissional na área de tecnologia, mais precisamente, no desenvolvimento de software.    
+Já faço palestras há muito tempo e não tenho vontade de parar.  
+Porém, minha profissão não é ser um "palestrante". Eu sou empreendedor e profissional da área de tecnologia, mais precisamente, no desenvolvimento de software.    
 Não dou palestras que não tenham sentido e que não façam parte do meu trabalho diário.  
-Conte comigo para falar sobre __JavaScript__, __desenvolvimento de software__ em geral, __empreendedorismo__, __web ativismo__ e os __impactos da tecnologia na sociedade__.  
+Conte comigo para falar sobre __JavaScript__, __desenvolvimento de software__ em geral, __empreendedorismo__, __ativismo web__ e os __impactos da tecnologia na sociedade__.  
 
 ![Jaydson Dweb Meeting 2019](/images/2019/09/jaydson-braziljs-conf-2019.jpg)
 
-## Basic info
-__Name__: Jaydson Gomes  
+## Informações básicas
+__Nome__: Jaydson Gomes  
 __Empresa__: [On2](https://on2.dev) / [BrazilJS](https://braziljs.org)  
-__Role__: Cofounder, Software developer    
-__Email__: [jaydson@on2.dev](mailto:jaydson@on2.dev) / [jaydson@braziljs.org](mailto:jaydson@braziljs.org)  
+__Cargo__: Cofundador, Desenvolvedor de Software  
+__Email__: [contato@jaydson.com](mailto:contato@jaydson.com)  
 __Github__: [@jaydson](https://github.com/jaydson)  
-__Blog__: [https://jaydson.com/en](https://jaydson.com/en)  
-__Talks__: [https://jaydson.com/en/talks](https://jaydson.com/en/en/talks)  
-__Location__: Porto Alegre, RS, Brasil  
+__Twitter__: [@jaydson](https://twitter.com/jaydson)  
+__Blog__: [https://jaydson.com](https://jaydson.com)  
+__Palestras__: [https://jaydson.com/palestras](/palestras)  
+__Cidade__: Porto Alegre, RS, Brasil
 
 ## Termos
 Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/etc tenha em mente o seguinte:  
 
-👉 Se o evento não for na minha cidade (Porto Alegre, RS), o evento deve custear passagens de avião e hotel  
-👉 Eventos em Porto Alegre ou no interior do RS devem cobrir o custo de gasolina, ou em alguns casos custear passagem de ônibus, e hotel no caso de necessidade de dormir na cidade  
-👉 Cachê é negociável e dependendo do evento (foco social, comunidade, sem fins lucrativos, etc) pode ser isento  
-👉 Gastos extras da ida ao evento, como por exemplo: estacionamento no aeroporto, alimentação, etc, deve ser coberto pelo evento    
-👉 Tenha a data e local do evento definidos para que eu possa me programar  
-👉 Se possível, me informe o perfil dos participantes do evento (estudantes, empresários(as), hard-core developers, etc)  
-👉 Se possível, me informe a estimativa de público do evento  
-👉 Eu prezo pela qualidade do evento onde vou palestrar, então tenha certeza de que tudo estará funcionando bem no dia (projetor, internet, cabos, som, etc) . Em casos extremos, a palestra pode e será cancelada se o ambiente não for propício  
-👉 Em caso do evento ser gravado, o vídeo da palestra pode ser disponibilizado, desde que seja sem fins comerciais  
-👉 O evento precisa ter um código de conduta  
-👉 O evento precisa ter uma grade diversa. Nem perca seu tempo me convidando se o evento só tem homem branco palestrando   
+✔️ Se o evento não for na minha cidade (Porto Alegre, RS), o evento deve custear passagens de avião e hotel  
+✔️ Eventos em Porto Alegre ou no interior do RS devem cobrir o custo de gasolina, ou em alguns casos custear passagem de ônibus, e hotel no caso de necessidade de dormir na cidade  
+✔️ Cachê é negociável e dependendo do evento (foco social, comunidade, sem fins lucrativos, etc) pode ser isento  
+✔️ Gastos extras da ida ao evento, como por exemplo: estacionamento no aeroporto, alimentação, etc, deve ser coberto pelo evento    
+✔️ Tenha a data e local do evento definidos para que eu possa me programar  
+✔️ Se possível, me informe o perfil dos participantes do evento (estudantes, empresários(as), hard-core developers, etc)  
+✔️ Se possível, me informe a estimativa de público do evento  
+✔️ Eu prezo pela qualidade do evento onde vou palestrar, então tenha certeza de que tudo estará funcionando bem no dia (projetor, internet, cabos, som, etc) . Em casos extremos, a palestra pode e será cancelada se o ambiente não for propício  
+✔️ Em caso do evento ser gravado, o vídeo da palestra pode ser disponibilizado, desde que seja sem fins comerciais  
+✔️ Em caso do evento ser gravado, eu tenho o direito de ter o acesso ao conteúdo bruto gravado para replicar nos meu canais  
+✔️ O evento precisa ter um código de conduta  
+✔️ O evento precisa ter uma grade diversa. Nem perca seu tempo me convidando caso o evento só tenha homem branco palestrando   
 <br>
 ![Jaydson palestrando na JSConf UY](/images/2016/10/jaydson-gomes-speaking-jsconf-uy-2015.jpg)  
 
 ## Mini bio
-Cofundador da @BrazilJS, Cofundador da @On2, Desenvolvedor de software, empreendedor, autor e editor no portal BrazilJS.  
+Cofundador da BrazilJS, cofundador da On2, programador e produtor de conteúdo na BrazilJS (site: https://braziljs.org | YouTube: https://www.youtube.com/braziljs) e no Capitalistas de Merda (site: https://capitalistasdemerda.com | YouTube: https://www.youtube.com/channel/UCPnlWmu-Q5fkByEUCCqT9Cw).  
 
 ## Bio completa
 Veja a bio completa na página [sobre](/sobre).  
