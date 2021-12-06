@@ -13,8 +13,8 @@ theme = "paper"
     title = "Jaydson Gomes"
     weight = 1
     [languages.ptbr.params]
-      description = "Desenvolvimento de Software, devaneios capitalistas aleatórios, tecnologia e sociedade"
-      metadescription = "Desenvolvimento de Software, devaneios capitalistas aleatórios, tecnologia e sociedade"
+      description = "Desenvolvimento de Software, devaneios capitalistas aleatórios, música, tecnologia e sociedade"
+      metadescription = "Desenvolvimento de Software, devaneios capitalistas aleatórios, música, tecnologia e sociedade"
       cover = "images/2016/10/jaydson-header.jpg"
       author = "Jaydson Gomes"
       email = "jaydson.gomes@protonmail.com"
