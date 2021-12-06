@@ -17,7 +17,7 @@ title: "5 discos que me apaixonei em 2021"
 2021 foi um ano fértil na música. Ao menos posso afirmar isso levando em consideração o tipo de música que ouço.  
 Ao compilar os discos mais legais e que mais me impactaram, acabei fazendo uma lista enorme. Então fui reduzindo até chegar nos principais lançamentos do ano que chegaram no meu coração.  
 O critério aqui é amor mesmo, aqueles discos que me arrepiaram e ainda arrepiam ao ouvir, os que me deram gás para trabalhar, os que eu quis imediatamente compartilhar com outras pessoas, e assim por diante. Deu para entender, né?  
-Sendo assim, segue a lsta dos 5 discos que me apaixonei em 2021 🥰
+Sendo assim, segue a lista dos 5 discos que me apaixonei em 2021 🥰
 
 ---
 # 5 - Single Album (NOFX)
@@ -25,7 +25,7 @@ Sendo assim, segue a lsta dos 5 discos que me apaixonei em 2021 🥰
 Se NOFX lança disco novo a certeza é de que será o disco que mais ouvirei no ano. Com o lançamento de Single Album, o 14ª disco da banda, foi exatamente o que aconteceu. Disco mais ouvido e músicas mais ouvidas.  
 Esse disco é a cara do NOFX, como é esperado, porém, algumas músicas levam a banda para um outro nível.  
 "The big drag" me arrepia toda vez que escuto. É um som diferentão. Melodias tristes que me tocaram de forma apaixonante.  
-O disco conta com as ironias de sempre nas composições de Fat Mike, assim como a auto crítica e descontrução musical (ex: Linewleum).  
+O disco conta com as ironias de sempre nas composições de Fat Mike, assim como a auto crítica e desconstrução musical (ex: Linewleum).  
 NOFX é minha banda do coração, chega a ser difícil de explicar o que o som representa e seus efeitos no meu corpo.  
 A experiência de ouvir NOFX é sempre catártica, desde os anos 90.
 
