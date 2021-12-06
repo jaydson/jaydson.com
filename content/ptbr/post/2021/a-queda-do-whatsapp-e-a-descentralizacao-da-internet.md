@@ -58,4 +58,4 @@ Este texto foi originalmente publicado no jornal Zero Hora, na edição de sába
 
 {{< figure src="/images/2021/10/texto-zero-hora.jpeg" title="Texto publicado no jornal Zero Hora" >}}  
 
-E também disponinilizado no site da Zero Hora (paywall): https://gauchazh.clicrbs.com.br/comportamento/noticia/2021/10/queda-de-whatsapp-facebook-e-instagram-ressalta-necessidade-de-debater-a-descentralizacao-da-internet-ckugzhehw0027019meu466ay0.html
+E também disponibilizado no site da Zero Hora (paywall): https://gauchazh.clicrbs.com.br/comportamento/noticia/2021/10/queda-de-whatsapp-facebook-e-instagram-ressalta-necessidade-de-debater-a-descentralizacao-da-internet-ckugzhehw0027019meu466ay0.html
