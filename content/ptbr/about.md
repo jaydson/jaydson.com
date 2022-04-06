@@ -40,7 +40,7 @@ Nos últimos anos tem dedicado seus estudos aos impactos da tecnologia na socied
 __Nome__: Jaydson Gomes  
 __Empresa__: [On2](https://on2.dev) / [BrazilJS](https://braziljs.org)  
 __Cargo__: Cofundador, Desenvolvedor de Software  
-__Email__: [jaydson.gomes@protonmail.com](mailto:jaydson.gomes@protonmail.com)  
+__Email__: jaydson.gomes[at]protonmail.com  
 __Github__: [@jaydson](https://github.com/jaydson)  
 __Twitter__: [@jaydson](https://twitter.com/jaydson)  
 __Blog__: [https://jaydson.com](https://jaydson.com)  
