@@ -72,4 +72,4 @@ Há pouco tempo vi uma apresentação ao vivo dos caras e mais uma vez, amor à 
 Foi impossível não me apaixonar pelo som e pela performance visceral da banda.  
 Crawler me arrepiou do início ao fim. É tanta referência, tanta entrega e tanta originalidade, que fez com que o disco se tornasse o meu preferido do ano. E não só isso, IDLES já se tornou uma daquelas bandas que estão presentes na minha vida como se fosse desde sempre.  
 
-{{< youtube u7ZEiJwm97c >}}
+{{< youtube t7aktt5cDqs >}}
