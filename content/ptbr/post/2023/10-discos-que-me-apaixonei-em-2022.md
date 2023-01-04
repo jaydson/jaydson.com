@@ -86,7 +86,7 @@ Ghost é daquelas bandas que foi me conquistando aos poucos.
 Com seu 5º disco, Impera, já considero uma das minhas bandas preferidas da atualidade.  
 Muita gente torce o nariz para o que [Tobias Forge](https://en.wikipedia.org/wiki/Tobias_Forge) faz. Eu acho particularmente genial.  
 Misturar black metal (mais em termos de letras), heavy metal, pop e rock farofa é algo inusito com um resultado que pra mim funciona muito bem.  
-Meliora é o álbum mais pop do Ghost até então. Os elementos principais que tornam o som pop sempre estiveram lá, fazen parte da estratégia de Tobias, mas em Meliora isso é ainda mais latente.  
+Meliora é o álbum mais pop do Ghost até então. Os elementos principais que tornam o som pop sempre estiveram lá, fazem parte da estratégia de Tobias, mas em Meliora isso é ainda mais latente.  
 O fato de [Klas Åhlund](https://en.wikipedia.org/wiki/Klas_%C3%85hlund) ser o produtor influencia bastante e garante a sonoridade.  
 Para se ter uma ideia, Klas foi produtor de artistas como Kesha, Kylie Minogue, Britney Spears, Katy Perry e Madonna.  
 Ouvir o disco sabendo desses detalhes é uma experiência interessante, pois é possível ouvir muitos elementos clássicos do pop moderno, mesmo em músicas pesadas e com temas diabólicos.  
