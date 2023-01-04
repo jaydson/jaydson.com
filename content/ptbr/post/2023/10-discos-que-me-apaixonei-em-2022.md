@@ -117,7 +117,7 @@ Abaixo um registro do dia:
 {{< figure link="https://en.wikipedia.org/wiki/Skinty_Fia" width="800" src="/images/2023/01/Fontaines DC - Skinty fia.webp" title="Fontaines DC - Skinty fia" >}}  
 
 O terceiro álbum da excelente banda Fontaines DC é uma obra de arte contemporânea que flerta explicitamente com décadas anteriores.  
-Já conhecia Fontaines DC e já havia devorado sua breve discografia. Quando em 2022 lançaram o single Jackie Down The Line fiquei ansioso pelo disco que viria.  
+Já conhecia Fontaines DC e já havia devorado sua breve discografia. Quando em 2022 lançaram o single Jackie Down The Line, fiquei ansioso pelo disco que viria.  
 E que sensação boa é esperar algo com ansiedade e sair totalmente satisfeito.  
 Skinty fia é maravilhoso. Ouvi sem parar e continuo ouvindo com a mesma empolgação.  
 Fontaines DC já se tornou uma banda gigante mesmo super novos.  
