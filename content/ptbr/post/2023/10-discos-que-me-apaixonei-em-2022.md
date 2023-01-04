@@ -149,7 +149,7 @@ Abaixo um registro do dia:
 {{< figure link="" width="800" src="/images/2023/01/Planet Hemp - Jardineiros.jpg" title="Planet Hemp - Jardineiros" >}}  
 
 Depois de uma longa espera (muito longa) chegou o novo disco do Planet Hemp.  
-E olha, valeu a espera. Sou fã de todo mundo ali, há muito tempo. Em uma época onde eu estava bem imerso em música, Planet Help estourou, então basicamente desde sempre a banda acompanha minha vida.  
+E olha, valeu a espera. Sou fã de todo mundo ali, há muito tempo. Em uma época onde eu estava bem imerso e desocobrindo o que gostava em termos musicais, o Planet Help estourou, então basicamente desde sempre a banda acompanha minha vida.  
 Segui acompanhando as ótimas carreiras solos de Marcelo D2, B Negão e Black Alien, mas a possibilidade de um novo disco do Planet me deixou animado.  
 E foi tudo que eu esperava e mais um pouco. Jardineiros é um disco muito Planet Hemp, só que claro, um Planet Hemp de 2022.  
 Ótimas músicas, ótimas críticas, ótimas letras, e tudo muito em sincronia com o momento atual do mundo.  
