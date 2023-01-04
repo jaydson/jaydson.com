@@ -63,7 +63,7 @@ Outro ponto forte são as letras bem politizadas. Fazia tempo que não ouvia alg
 {{< figure link="https://en.wikipedia.org/wiki/Cave_World" width="800" src="/images/2023/01/Viagra Boys - Cave World.webp" title="Viagra Boys - Cave World" >}}  
 Em 2021 Viagra Boys entrou para a minha lista de bandas novas favoritas e Welfare Jazz, disco lançado naquele ano, foi um dos que mais ouvi. Naturalmente entrou para a minha lista de 5 discos apaixonantes do ano de 2021.  
 Em 2022 cá estão eles novamente, dessa vez, com o ótimo Cave World.  
-Viagra Boys faz algo palatável e inovador ao mesmo tempo. É uma mistura de punk com Jazz, eletrônico  com pop, entre outras coisas. Me pegou de jeito em 2021 e agora não seria diferente.  
+Viagra Boys faz algo palatável e estranho ao mesmo tempo. É uma mistura de punk com Jazz, eletrônico  com pop, entre outras coisas. Me pegou de jeito em 2021 e agora não seria diferente.  
 Cave World parece um disco mais maduro, porém, ainda com a mesma pegada "meio largada" de sempre.  
 Curioso para ver o que Viagra Boys irá trazer em seguida.  
 
