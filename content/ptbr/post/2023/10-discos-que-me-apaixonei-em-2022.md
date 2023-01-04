@@ -14,7 +14,7 @@ title: "10 discos que me apaixonei em 2022"
 
 {{< figure src="/images/2023/01/Criolo - Sobre viver.jpg" title="Imagem: Criolo - Sobre viver" >}}  
 
-Os algoritmos dominam nossa vida cada vez mais e por muitas vezes deixamos de lado algo que - na minha visão - não deveria ser descartado.  
+Os algoritmos dominam nossas vidas cada vez mais e por muitas vezes deixamos de lado algo que - na minha visão - não deveria ser descartado.  
 É legal o que o Spotify faz, e acho bem interessante ver o que mais ouvi na plataforma. Porém, existe algo mais legal, o sentimento verdadeiro em relação a música.  
 Fazer o exercício de pensar no que mais me impactou no ano é algo que nenhum algoritmo vai conseguir fazer.  
 
@@ -27,7 +27,7 @@ Sendo assim, segue a lista dos 10 discos que me apaixonei em 2022 🥰
 # 10 - Nova Twins - Supernova
 {{< figure link="https://en.wikipedia.org/wiki/Supernova_(Nova_Twins_album)" width="800" src="/images/2023/01/Nova Twins - Supernova.jpg" title="Nova Twins - Supernova" >}}  
 Já tinha ouvido Nova Twins sem saber quem eram. Conheci ouvindo o ótimo [feat 1x1 com Bring me the Horizon](https://www.youtube.com/watch?v=jN0aELsVQFA).  
-Quando lançaram o trabalho em 2022 logo fui ouvir e que som particularmente bom. É uma mistura muito gostosa de pop, metal, rap, eletrônico e outras coisas. Bom demais.  
+Quando lançaram o trabalho em 2022 logo fui ouvir. E que som particularmente bom. É uma mistura muito gostosa de pop, metal, rap, eletrônico e outras coisas. Bom demais.  
 Nova Twins é uma duo britânico bem novo. Supernova é apenas o segundo álbum.  
 Curioso para ver o que elas irão lançar no futuro.  
 
