@@ -157,3 +157,8 @@ Em termos musicais é notável uma modernização e adequação, só que tudo de
 São muitos pontos fortes e isso faz com que para mim, esse seja o disco que mais me apaixonei em 2022.  
 
 {{< youtube rSyBpofu3So >}}
+
+---
+
+Fiz uma playlist no Spotify com 3 músicas de cada álbum:  
+ {{< spotify type="playlist" id="5lnSkkabtzas89Guy9PLoU" width="100%" height="600" >}}
