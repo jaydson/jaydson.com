@@ -10,6 +10,7 @@ image: /images/2023/01/Criolo - Sobre viver.jpg
 tags:
 - music
 title: "10 discos que me apaixonei em 2022"
+subtitle: "Fazer o exercício de pensar no que mais me impactou no ano é algo que nenhum algoritmo vai conseguir fazer."
 ---
 
 {{< figure src="/images/2023/01/Criolo - Sobre viver.jpg" title="Imagem: Criolo - Sobre viver" >}}  

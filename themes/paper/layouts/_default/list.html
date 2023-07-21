@@ -28,7 +28,11 @@
         {{ if .Params.micro }}
           <div class="post-content">{{ .Content }}</div>
         {{ else }}
-        {{ .Summary | plainify | htmlUnescape }}...
+          {{ if .Params.subtitle }}
+            {{ .Params.subtitle | plainify | htmlUnescape }}
+          {{ else }}
+            {{ .Summary | plainify | htmlUnescape }}...
+          {{ end  }}
         {{ end}}
       </p>
       <p class="post-meta"><time>{{ .Date.Format "2/1/2006" }}</time></p>

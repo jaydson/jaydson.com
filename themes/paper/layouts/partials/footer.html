@@ -3,6 +3,7 @@
   {{ partial "h-card.html" . }}
 </footer>
 <script>
+  /*
   if (navigator.serviceWorker.controller) {
     console.log('[PWA Builder] active service worker found, no need to register')
   } else {
@@ -11,7 +12,7 @@
     }).then(function(reg) {
       console.log('Service worker has been registered for scope:'+ reg.scope);
     });
-  }
+  }*/
 </script>
 <script>
     const menu = document.getElementById('menu-content');
@@ -32,7 +33,9 @@
         menuOpen = false; 
       }
     }
-    document.querySelector('#bt-toggle').addEventListener('click', toggle);
+    if (document.querySelector('#bt-toggle')) {
+      document.querySelector('#bt-toggle').addEventListener('click', toggle);
+    }
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" data-no-instant></script>
 <script data-no-instant>
